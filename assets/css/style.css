@@ -46,3 +46,9 @@ h2 {
     padding-left: 40px;
     padding-top: 80px;
 }
+
+/* Portfolio Section*/
+
+#portfolio-section > img {
+    align-items: center; !important
+}
