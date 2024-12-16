@@ -6,10 +6,10 @@
 :root {
     --primary-font: "Abril Fatface", sans-serif;
     --secondary-font: "Raleway", sans-serif;
-    --primary-color: #3a2620; /* dark brown */
-    --secondary-color: #aa9581; /* light brown */
-    --highlight-color: #416a8e; /* blue */
-    --highlight-color-light: #7a9fc2; /* light blue */
+    --primary-color: #426b6d; /* teal */
+    --secondary-color: #c7ae85; /* light brown */
+    --highlight-color: #9f5a3b; /* red brown */
+    --highlight-color-dark: #3b464c; /* dark teal */
 }
 
 /* Header */
@@ -39,7 +39,8 @@ h2 {
     width: 100%;
     background: url(assets/images/AdobeStock_553255997-Resized.jpg) no-repeat center center/cover;
     position: relative;
-    background-color: aqua;
+    background-color:var(--primary-color);
+    color: white;
 }
 
 .padding-text {
