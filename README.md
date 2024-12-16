@@ -98,7 +98,22 @@ Tasks
 - Use responsive design principles (media queries).
 - Test the layout on various devices and screen resolutions.
 
-***User Story 5* (could-have)**
+***User Story 5* (should-have)**
+
+As a user, I want to quickly have a look of some examples of work from the designer so that I can decide if I want to explore further.
+
+Acceptance Criteria
+- A section on the homepage page displays a few featured design projects in a responsive grid of photos.
+- Clicking a preview takes the user to a detailed view or the full portfolio page.
+- The section is visually appealing and loads quickly.
+
+Tasks
+- Create a clean and visually appealing grid for displaying featured projects.
+- Choose 3–5 images to highlight as examples of the designer’s work.
+- Ensure links work properly across devices.
+- Check for responsiveness and loading speed.
+
+***User Story 6* (could-have)**
 
 As a potential client I want to download the designer’s CV so that I can review their qualifications and experience offline.
 
@@ -110,7 +125,7 @@ Tasks
 - Add a prominent download button labeled "Download CV" and link it to the PDF file.
 - Test the download functionality to ensure the file is accessible.
 
-***User Story 6* (could-have)**
+***User Story 7* (could-have)**
 
 As a possible client I want to read testimonials from previous clients or collaborators so that I can gain trust and confidence in the designer’s skills and professionalism.
 
@@ -118,7 +133,6 @@ Acceptance Criteria
 - A Testimonials section is present on the Home page.
 - Each testimonial includes the client’s name, role, and a brief comment.
 - Testimonials are displayed in a visually appealing layout, such as a carousel.
-- Option to add or update testimonials easily.
 
 Tasks
 - Create a design layout for the Testimonials section.
@@ -127,6 +141,21 @@ Tasks
 - Add placeholder for the initial launch.
 - Test the section for readability and responsiveness on various devices.
 
+  ***User Story 8* (want-have)**
+
+As a satisfied client or collaborator I want to submit a testimonial to the website so that I can share my positive experience and support the designer’s credibility.
+
+Acceptance Criteria
+- A form is available for users to submit their testimonial.
+- Submissions are reviewed before appearing live on the website.
+- A confirmation message is shown after successful submission.
+
+Tasks
+- Create a simple and intuitive testimonial submission form with necessary fields.
+- Store submitted testimonials in a database or as static content (if manually reviewed).
+- Display a message like "Thank you for your feedback! Your testimonial will be reviewed and added shortly." upon successful submission.
+- Verify that submissions are stored correctly and review functionality works as expected.
+- 
 
 **Features**
 Navbar
