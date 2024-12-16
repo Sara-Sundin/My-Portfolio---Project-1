@@ -2,6 +2,7 @@
 
 My-Portfolio
 
+
 **Introduction**
 
 Welcome to my personal portfolio website! This project serves as a platform to showcase my skills, projects, and experience as a freelance designer. I am planning on showcasing this website to future potential employers.
@@ -15,6 +16,29 @@ The website features at least three pages:
 
 *Contact*
 - A contact form and a success page for potential clients and collaborators to reach out to me.
+
+
+**Headings**
+
+Home Page
+- Title Heading: "Sara Sundin / Creative Developer
+- Main Heading (h1): "Creative Developer"
+- Subheadings (h2): "Design & Fashion"
+- Subheadings (h3): "About Me, Projects"
+- Subheadings (h4): "Let's Connect"
+
+Portfolio Pages
+- Main Heading (h1): "Projects"
+- Subheadings (h2): "Fashion Collaboration"
+- Subheadings (h3): "Projects 1,2,3,4"
+- Subheadings (h4): "Let's Connect"
+
+Contact Page
+- Main Heading (h1): "Let's Connect."
+
+Success Page
+- Main Heading (h1): "Your message has been sent."
+
 
 **User Stories**
 
@@ -50,7 +74,7 @@ Tasks
 
 ***User Story 3* (must-have)**
 
-As a user, I want to send a message via a contact form, so that I can easily inquire about services or collaborations.
+As a user, I want to send a message from a contact form, so that I can easily inquire about services or collaborations.
   
 Acceptance Criteria
 - A contact form with fields for Name, Email, and Message is present.
@@ -64,16 +88,15 @@ Tasks:
 
 ***User Story 4* (must-have)**
 
-As a mobile user, I want to navigate the website easily on my device so that I can view content without unnecessary zooming or scrolling.
+As a user, I want to navigate the website easily on my device so that I can view content without unnecessary zooming or scrolling.
 
 Acceptance Criteria
 - The website layout adjusts seamlessly for mobile, tablet, and desktop devices.
 - Navigation links remain accessible and functional on all screen sizes.
 
 Tasks
-- Use responsive design principles (e.g., media queries).
+- Use responsive design principles (media queries).
 - Test the layout on various devices and screen resolutions.
-- Ensure touch-friendly navigation for mobile users.
 
 ***User Story 5* (could-have)**
 
@@ -103,4 +126,25 @@ Tasks
 - Develop functionality to display testimonials in a structured format (e.g., carousel, cards).
 - Add placeholder for the initial launch.
 - Test the section for readability and responsiveness on various devices.
+
+
+**Features**
+Navbar
+Footer
+Buttons
+Links
+Form (contact)
+Image Gallery
+Social Media Icon
+Favicon
+Aria-tags (in code)
+
+
+**Manual Testing**
+
+**Deployment**
+
+**Credits**
+Adobe Stock Photos
+KA_YO Photos in Porfolio
 
