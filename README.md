@@ -20,8 +20,9 @@ The website features at least three pages:
 
 I have included below user stories to implement on the website, the acceptance criteria and the tasks needed for development of the site. The user stories are to be set up in a github project collaboration page and labelled with must-have, should-have and could-have labels to plan for the process. Once the wabsite is finished it needs to have at least all user stories with the labels must-have and should-have signed off and implemented on the website.
 
--*User Story 1*- (must-have)
-- As a visitor,I want to see a welcoming homepage with a brief introduction,
+***User Story 1* (must-have)**
+
+As a visitor,I want to see a welcoming homepage with a brief introduction,
 So that I can quickly understand who the designer is and what they do.
 
 Acceptance Criteria
@@ -34,8 +35,9 @@ Tasks
 - Add a welcome message and introductory text.
 - Include a professional photo and navigation links.
 
--*User Story 2*- (must-have)
-- As a potential client, I want to browse a portfolio of design projects so that I can evaluate the designer’s work and decide if I want to hire them.
+***User Story 2* (must-have)**
+
+As a potential client, I want to browse a portfolio of design projects so that I can evaluate the designer’s work and decide if I want to hire them.
 
 Acceptance Criteria
 - The Portfolio page displays thumbnails for at least three projects.
@@ -46,8 +48,9 @@ Tasks
 - Add a grid layout for project thumbnails.
 - Include hover effects with links to project details.
 
--*User Story 3*- (must-have)
-- As a user, I want to send a message via a contact form, so that I can easily inquire about services or collaborations.
+***User Story 3* (must-have)**
+
+As a user, I want to send a message via a contact form, so that I can easily inquire about services or collaborations.
   
 Acceptance Criteria
 - A contact form with fields for Name, Email, and Message is present.
@@ -59,7 +62,8 @@ Tasks:
 - Implement form validation for required fields.
 - Configure email submission functionality.
 
--*User Story 4*- (must-have)
+***User Story 4* (must-have)**
+
 As a mobile user, I want to navigate the website easily on my device so that I can view content without unnecessary zooming or scrolling.
 
 Acceptance Criteria
@@ -71,7 +75,8 @@ Tasks
 - Test the layout on various devices and screen resolutions.
 - Ensure touch-friendly navigation for mobile users.
 
--*User Story 5*- (could-have)
+***User Story 5* (could-have)**
+
 As a potential client I want to download the designer’s CV so that I can review their qualifications and experience offline.
 
 Acceptance Criteria
@@ -82,7 +87,8 @@ Tasks
 - Add a prominent download button labeled "Download CV" and link it to the PDF file.
 - Test the download functionality to ensure the file is accessible.
 
--*User Story 6*- (could-have)
+***User Story 6* (could-have)**
+
 As a possible client I want to read testimonials from previous clients or collaborators so that I can gain trust and confidence in the designer’s skills and professionalism.
 
 Acceptance Criteria
