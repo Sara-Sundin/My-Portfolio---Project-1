@@ -140,9 +140,24 @@ Favicon
 Aria-tags (in code)
 
 
-**Manual Testing**
-
 **Deployment**
+
+Ensure your website files (HTML, CSS, JavaScript, etc.) are committed to a GitHub repository.
+- Go to Repository Settings
+- Navigate to the repository on GitHub.
+- Click on the Settings tab.
+- Enable GitHub Pages
+- Scroll down to the Pages section.
+- Under "Branch," select the branch you want to deploy (typically main or master).
+- Click Save.
+
+Access Your Website
+
+After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
+Visit this URL to view your deployed website.
+
+
+**Manual Testing**
 
 **Credits**
 Adobe Stock Photos
