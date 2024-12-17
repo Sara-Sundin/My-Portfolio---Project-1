@@ -73,7 +73,6 @@ h5 {
     h2 {
         font-size: 1.5rem;
     }
-}
 
 /* About Me Section */
 #about-me {
@@ -145,6 +144,12 @@ h5 {
 
 #carousel {
     min-height: 150px;
+    background-color: var(--highlight-color-dark);
+}
+
+/*Footer*/
+
+#footer {
     background-color: var(--highlight-color-dark);
 }
 
