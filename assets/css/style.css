@@ -13,6 +13,11 @@
 }
 
 /* General Styling */
+
+body {
+    margin: 0;
+}
+
 h1 {
     font-family: var(--primary-font);
     font-size: 3.2rem;
@@ -116,6 +121,7 @@ h5 {
 
 #portfolio-section .card {
         color: white;
+        border: none;
 }
 
 #portfolio-section img {
@@ -150,5 +156,22 @@ h5 {
 
 #footer {
     background-color: var(--highlight-color-dark);
+}
+
+#footer a {
+    color: white;
+}
+
+#social-links {
+    background-color: white;
+    font-size: 20px;
+    display: flex;                /* Activate Flexbox */
+    justify-content: space-between; /* Spread items evenly with no space at edges */
+    align-items: center;          /* Center items vertically */
+    padding: 10px 50px 10px 50px;
+}
+
+#social-links a {
+    color: var(--highlight-color-dark)
 }
 
