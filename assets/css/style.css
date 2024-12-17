@@ -43,6 +43,11 @@ h5 {
     padding-bottom: 2rem;
 }
 
+.half-section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 /* Hero Section */
 #hero {
     height: 450px;
@@ -54,17 +59,12 @@ h5 {
     display: flex;                /* Flexbox for centering */
     justify-content: center;      /* Center horizontally */
     align-items: center;          /* Center vertically */
-    text-align: center;           /* Center text alignment */
+    text-align: left;           /* Center text alignment */
 }
 
 .padding-text {
     padding: 20px;                /* Responsive padding */
 }
-
-@media (max-width: 768px) {
-    #hero {
-        height: 300px; /* Adjust height for smaller screens */
-    }
 
     h1 {
         font-size: 2.5rem; /* Smaller font size for smaller screens */
@@ -99,17 +99,29 @@ h5 {
     object-position: center;
 }
 
+/*Let's Connect Section*/
+
+#lets-connect {
+    background-color: var(--highlight-color-dark);
+    color: white;
+}
+
 /* Portfolio Section */
 #portfolio-section {
     display: flex;
     justify-content: center; /* Centers the images horizontally */
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
     gap: 1rem; /* Adds spacing between images */
+    background-color: var(--primary-color);
+}
+
+#portfolio-section .card {
+        color: white;
 }
 
 #portfolio-section img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px; /* Optional: rounded corners */
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 
