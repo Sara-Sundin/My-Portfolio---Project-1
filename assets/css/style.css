@@ -142,10 +142,9 @@ h5 {
 
 /*Carousel section*/
 
-#carousel {
-    min-height: 150px;
-    background-color: var(--highlight-color-dark);
-}
+.carousel {
+    background-color: #f2f2f2;
+  }
 
 /*Footer*/
 
