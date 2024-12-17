@@ -55,24 +55,23 @@ h5 {
 
 /* Hero Section */
 #hero {
-    height: 450px;
+    min-height: 600px;
     width: 100%;
-    background: url(assets/images/AdobeStock_553255997-Resized.jpg) no-repeat center center / cover;
+    background: url(../images/AdobeStock_553255997.jpeg) no-repeat center center / cover;
     position: relative;
-    background-color: var(--primary-color);
     color: white;
     display: flex;                /* Flexbox for centering */
-    justify-content: center;      /* Center horizontally */
+    justify-content: flex-start;      /* Center horizontally */
     align-items: center;          /* Center vertically */
-    text-align: left;           /* Center text alignment */
+
 }
 
 .padding-text {
-    padding: 20px;                /* Responsive padding */
+    padding-left: 30px;              /* Responsive padding */
 }
 
     h1 {
-        font-size: 2.5rem; /* Smaller font size for smaller screens */
+        font-size: 3rem; /* Smaller font size for smaller screens */
     }
 
     h2 {
