@@ -141,3 +141,10 @@ h5 {
     line-height: 0;
 }
 
+/*Carousel section*/
+
+#carousel {
+    min-height: 150px;
+    background-color: var(--highlight-color-dark);
+}
+
