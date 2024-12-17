@@ -12,22 +12,30 @@
     --highlight-color-dark: #3b464c; /* dark teal */
 }
 
-/* General styling*/
+/* General Styling */
+h1 {
+    font-family: var(--primary-font);
+    font-size: 3.2rem;
+}
 
-/* Main Content*/
-h1,
-h3,
+h2 {
+    font-family: var(--secondary-font);
+    font-size: 2rem; /* Corrected font size */
+}
+
+h3 {
+    font-family: var(--primary-font);
+    font-size: 2rem;
+}
+
+h4 {
+    font-family: var(--secondary-font); /* Corrected font-family */
+    font-size: 1.5rem;
+}
+
 h5 {
     font-family: var(--primary-font);
-}
-
-h2,
-h4 {
-    font-family: var(--secondary-font);
-}
-
-h1 {
-    font-size: 2.7rem;
+    font-size: 1rem;
 }
 
 .section {
@@ -35,53 +43,73 @@ h1 {
     padding-bottom: 2rem;
 }
 
-
-/* Header */
-
-
-
-/* Hero section */
+/* Hero Section */
 #hero {
     height: 450px;
     width: 100%;
-    background: url(assets/images/AdobeStock_553255997-Resized.jpg) no-repeat center center/cover;
+    background: url(assets/images/AdobeStock_553255997-Resized.jpg) no-repeat center center / cover;
     position: relative;
-    background-color:var(--primary-color);
+    background-color: var(--primary-color);
     color: white;
+    display: flex;                /* Flexbox for centering */
+    justify-content: center;      /* Center horizontally */
+    align-items: center;          /* Center vertically */
+    text-align: center;           /* Center text alignment */
 }
 
 .padding-text {
-    padding-left: 40px;
-    padding-top: 80px;
+    padding: 20px;                /* Responsive padding */
 }
 
-/* About Me Section*/
+@media (max-width: 768px) {
+    #hero {
+        height: 300px; /* Adjust height for smaller screens */
+    }
+
+    h1 {
+        font-size: 2.5rem; /* Smaller font size for smaller screens */
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+/* About Me Section */
 #about-me {
-    background-color: var(--secondary-color); 
-    color: var(--highlight-color-dark); 
+    background-color: var(--secondary-color);
+    color: var(--highlight-color-dark);
 }
 
-/* Circular Image Container */
 .circle-container {
-    width: 200px;                /* Adjust the size of the circle */
-    height: 200px;               /* Keep it equal to maintain a circle */
-    border-radius: 50%;          /* Makes it a circle */
-    overflow: hidden;            /* Ensures image fits within the circle */
-    display: flex;               /* Flexbox for image centering */
-    justify-content: center;     /* Horizontal centering */
-    align-items: center;         /* Vertical centering */
-}
-
-/* Circular Image */
-.circle-image {
-    width: 100%;                 /* Fill the container */
-    height: 100%;                /* Fill the container */
-    object-fit: cover;           /* Keeps proportions and covers the area */
-    object-position: center;     /* Ensures the image is centered */
-}    
-
-/* Portfolio Section*/
-
-#portfolio-section > img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
     align-items: center;
+    margin: 0 auto; /* Centers the circle container horizontally */
 }
+
+.circle-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Portfolio Section */
+#portfolio-section {
+    display: flex;
+    justify-content: center; /* Centers the images horizontally */
+    flex-wrap: wrap; /* Ensures images wrap on smaller screens */
+    gap: 1rem; /* Adds spacing between images */
+}
+
+#portfolio-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Optional: rounded corners */
+}
+
