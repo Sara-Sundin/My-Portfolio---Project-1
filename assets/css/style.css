@@ -7,30 +7,37 @@
     --primary-font: "Abril Fatface", sans-serif;
     --secondary-font: "Raleway", sans-serif;
     --primary-color: #426b6d; /* teal */
-    --secondary-color: #c7ae85; /* light brown */
+    --secondary-color: #ead9c1; /* light brown */
     --highlight-color: #9f5a3b; /* red brown */
     --highlight-color-dark: #3b464c; /* dark teal */
 }
 
-/* Header */
-
+/* General styling*/
 
 /* Main Content*/
-
-h1 {
-    font-size: 2.7rem;
-
-}
-
 h1,
 h3,
-h4 {
+h5 {
     font-family: var(--primary-font);
 }
 
-h2 {
+h2,
+h4 {
     font-family: var(--secondary-font);
 }
+
+h1 {
+    font-size: 2.7rem;
+}
+
+.section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+/* Header */
+
 
 
 /* Hero section */
@@ -48,8 +55,33 @@ h2 {
     padding-top: 80px;
 }
 
+/* About Me Section*/
+#about-me {
+    background-color: var(--secondary-color); 
+    color: var(--highlight-color-dark); 
+}
+
+/* Circular Image Container */
+.circle-container {
+    width: 200px;                /* Adjust the size of the circle */
+    height: 200px;               /* Keep it equal to maintain a circle */
+    border-radius: 50%;          /* Makes it a circle */
+    overflow: hidden;            /* Ensures image fits within the circle */
+    display: flex;               /* Flexbox for image centering */
+    justify-content: center;     /* Horizontal centering */
+    align-items: center;         /* Vertical centering */
+}
+
+/* Circular Image */
+.circle-image {
+    width: 100%;                 /* Fill the container */
+    height: 100%;                /* Fill the container */
+    object-fit: cover;           /* Keeps proportions and covers the area */
+    object-position: center;     /* Ensures the image is centered */
+}    
+
 /* Portfolio Section*/
 
 #portfolio-section > img {
-    align-items: center; !important
+    align-items: center;
 }

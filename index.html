@@ -18,6 +18,7 @@
 
 <body>
  <!-- Navigation bar Bootstrap with toggle for mobile-->
+  <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">Sara Sundin</a>
@@ -39,7 +40,8 @@
           </div>
         </div>
       </nav>
-  <!-- Header with hero image and headers-->
+    </header>
+  <!-- Section with hero image and headings-->
      <main>
       <section id="hero">
         <div class="padding-text">
@@ -49,23 +51,35 @@
         </div>
       </section>
     <!-- About Me Section with link to downloadable CV-->
-      <section>
-        <div class="container text-center">
-          <div class="row">
-            <div class="col-12">
-              <h3>About Me</h3>
-            </div>
-            <div class="col-12">
-              <img src="#" alt="#">
-            </div>
-            <div class="col-12">
-              <p>Sara Sundin</p>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem distinctio corrupti optio quos, illum cum, laborum aliquid porro explicabo atque, non facilis ad repellat! Neque quidem velit voluptatum voluptatem. Praesentium!</p>
-              <a href="#">Download my CV</a>
+    <section id="about-me" class="section">
+      <div class="container text-center">
+        <div class="row">
+          <!-- Heading -->
+          <div class="col-12">
+            <h3>About Me</h3>
+          </div>
+          
+          <!-- Centered Circular Image -->
+          <div class="col-12">
+            <div class="circle-container mx-auto">
+              <img src="assets/images/Sara-1-1144x1144.jpg" 
+                   alt="Image of Sara, the developer" 
+                   class="circle-image">
             </div>
           </div>
+          
+          <!-- Content -->
+          <div class="col-12">
+            <h4>Sara Sundin</h4>
+            <p>
+              Hello, I’m Sara – a Creative Developer combining design, fashion, and web development to create engaging, functional solutions. I specialize in crafting user-friendly experiences that merge aesthetics with technical precision, bringing ideas to life with creativity and purpose.
+            </p>
+            <a href="#">Download my CV</a>
+          </div>
         </div>
-      </section>
+      </div>
+    </section>
+    
     <!-- Let's Connect section with button to form and some info-->
      <section class="text-center">
       <div>
