@@ -18,6 +18,8 @@ body {
     margin: 0;
 }
 
+/* Headings*/
+
 h1 {
     font-family: var(--primary-font);
     font-size: 3.2rem;
@@ -43,6 +45,33 @@ h5 {
     font-size: 1rem;
 }
 
+/* Buttons */
+
+.custom-button-filled {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+}
+
+.custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.custom-button-outline {
+    border: 3px solid white;
+    padding: 7px 25px;
+    color: white
+}
+
+.custom-button-outline:hover {
+    background-color: var(--highlight-color);
+    color: white
+}
+
+/*Section Styling*/
+
 .section {
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -51,6 +80,11 @@ h5 {
 .half-section {
     padding-top: 1rem;
     padding-bottom: 1rem;
+}
+
+.padding-sides {
+    padding-left: 30px;
+    padding-right: 20px;
 }
 
 .circle-container {
@@ -69,6 +103,10 @@ h5 {
     height: 100%;
     object-fit: cover;
     object-position: center;
+}
+
+.border {
+    border: none;
 }
 
 /*Home Page*/
@@ -90,6 +128,7 @@ h5 {
 }
 
 /* About Me Section */
+
 #about-me {
     background-color: var(--secondary-color);
     color: var(--highlight-color-dark);
@@ -151,10 +190,21 @@ h5 {
     color: white;
 }
 
+/* Contact form page*/
+
+
+
+#contact {
+    background-color: var(--highlight-color-dark);
+    color: white;
+    padding-bottom: 20px;
+}
+
 /*Footer*/
 
 #footer {
     background-color: var(--highlight-color-dark);
+    bottom: 0;   
 }
 
 #footer a {
