@@ -6,10 +6,10 @@
 :root {
     --primary-font: "Abril Fatface", sans-serif;
     --secondary-font: "Raleway", sans-serif;
-    --primary-color: #426b6d; /* teal */
-    --secondary-color: #ead9c1; /* light brown */
-    --highlight-color: #9f5a3b; /* red brown */
-    --highlight-color-dark: #3b464c; /* dark teal */
+    --primary-color: #501a5c; /* dark purple */
+    --secondary-color: #f7e6cf; /* apricot */
+    --highlight-color: #ec5f51; /* red orange */
+    --highlight-color-pink: #de6ca1; /* pink */
 }
 
 /* General Styling */
@@ -20,15 +20,21 @@ body {
     font-family: var(--secondary-font);
 }
 
+main {
+    margin: 0;   /* Remove any margin */
+    padding: 0;  /* Remove any padding */
+}
+
 /* Headings*/
 
 h1 {
     font-family: var(--primary-font);
-    font-size: 3.2rem;
+    font-size: 60px;
 }
 
 h2 {
     font-family: var(--secondary-font);
+    font-weight: 300;
     font-size: 2rem; 
 }
 
@@ -50,8 +56,14 @@ h5 {
 /* Buttons */
 
 .custom-button-filled {
-    border: 2px solid var(--highlight-color);
-    background-color: var(--highlight-color);
+    border: 2px solid white;
+    background-color: white;
+    color: var(--highlight-color)
+}
+
+.custom-button-filled-pink {
+    border: 2px solid var(--highlight-color-pink);
+    background-color: var(--highlight-color-pink);
     color: white;
 }
 
@@ -111,35 +123,47 @@ h5 {
     border: none;
 }
 
-/*Home Page*/
 /* Hero Section */
 #hero {
     min-height: 600px;
     width: 100%;
-    background: url(../images/AdobeStock_553255997.jpeg) no-repeat center center / cover;
+    background: url(../images/Graphic-front.jpg) no-repeat center / cover;
+    background-position: calc(100% + 140px) center; /* Moves image 50px to the right */
     position: relative;
-    color: white;
+    color: var(--primary-color);
     display: flex;                /* Flexbox for centering */
-    justify-content: flex-start;      /* Center horizontally */
+    justify-content: flex-start;  /* Align content to the left */
     align-items: center;          /* Center vertically */
+}
 
+#hero h2 {
+    color:var(--highlight-color-dark)
 }
 
 .padding-text {
-    padding-left: 30px;              /* Responsive padding */
+    padding-left: 30px; 
+    padding-top: 50px;             /* Responsive padding */
 }
 
 /* About Me Section */
 
 #about-me {
-    background-color: var(--secondary-color);
-    color: var(--highlight-color-dark);
+    background-color: white;
+    color: black;
 }
 
-/*Let's Connect Section*/
+#about-me h3, h4 {
+    color: var(--highlight-color);
+}
 
-#lets-connect {
-    background-color: var(--highlight-color-dark);
+#about-me h4 {
+    padding-top: 10px;
+}
+
+/*Let's Connect Section with button text*/
+
+#lets-connect-text {
+    background-color: var(--primary-color);
     color: white;
 }
 
@@ -149,18 +173,44 @@ h5 {
     justify-content: center; /* Centers the images horizontally */
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
     gap: 1rem; /* Adds spacing between images */
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 #portfolio-section .card {
-        color: white;
-        border: none;
+        color: var(--primary-color)
 }
 
 #portfolio-section img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
+}
+
+.card {
+    border: none;
+}
+
+.border {
+    background-color: white;
+    color: var(--highlight-color);
+}
+
+/* Let's connect section (no text)*/
+
+#lets-connect, #carousel {
+    margin: 0;               /* Remove any default margin */
+    padding: 0;              /* Remove padding from the section */
+    width: 100vw;            /* Ensure the section spans the full width of the viewport */
+    background-color: white;
+}
+
+#lets-connect .container, #carousel .container-fluid {
+    padding: 0;              /* Remove padding inside the container */
+}
+
+#lets-connect {
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 /* Gallery section */
@@ -182,8 +232,12 @@ h5 {
 /*Carousel section*/
 
 .carousel {
-    background-color: #f2f2f2;
+    background-color: white
   }
+
+  #carousel {
+    margin: 0;
+}
 
 /*Project pages*/
 
@@ -216,26 +270,31 @@ h5 {
 
 /*Footer*/
 
+footer {
+    margin-top: 0;
+}
+
 #footer {
-    background-color: var(--highlight-color-dark);
+    background-color: var(--primary-color);
     bottom: 0;  
     position: relative;
 }
 
 #footer a {
     color: white;
+    text-decoration: none;
 }
 
 #social-links {
-    background-color: white;
+    background-color:var(--primary-color);
     font-size: 20px;
     display: flex;  /* Activates Flexbox */              
-    padding: 10px 50px 10px 50px;
+    padding: 10px 50px 20px 50px;
     justify-content: center;
     gap: 20px; /* Add spacing between icons */
 }
 
 #social-links a {
-    color: var(--highlight-color-dark);
+    color: white;
 }
 
