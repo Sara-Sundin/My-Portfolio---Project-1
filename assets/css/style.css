@@ -17,6 +17,7 @@
 body {
     margin: 0;
     padding-top: 40px; /* To adjust for fixed navbar*/
+    font-family: var(--secondary-font);
 }
 
 /* Headings*/
