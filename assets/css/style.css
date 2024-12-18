@@ -25,7 +25,7 @@ h1 {
 
 h2 {
     font-family: var(--secondary-font);
-    font-size: 2rem; /* Corrected font size */
+    font-size: 2rem; 
 }
 
 h3 {
@@ -34,7 +34,7 @@ h3 {
 }
 
 h4 {
-    font-family: var(--secondary-font); /* Corrected font-family */
+    font-family: var(--secondary-font);
     font-size: 1.5rem;
 }
 
@@ -53,6 +53,25 @@ h5 {
     padding-bottom: 1rem;
 }
 
+.circle-container {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; /* Centers the circle container horizontally */
+}
+
+.circle-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+/*Home Page*/
 /* Hero Section */
 #hero {
     min-height: 600px;
@@ -74,24 +93,6 @@ h5 {
 #about-me {
     background-color: var(--secondary-color);
     color: var(--highlight-color-dark);
-}
-
-.circle-container {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto; /* Centers the circle container horizontally */
-}
-
-.circle-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
 }
 
 /*Let's Connect Section*/
@@ -142,6 +143,13 @@ h5 {
 .carousel {
     background-color: #f2f2f2;
   }
+
+/*Project pages*/
+
+.project-info {
+    background-color: var(--highlight-color-dark);
+    color: white;
+}
 
 /*Footer*/
 
