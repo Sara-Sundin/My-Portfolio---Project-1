@@ -207,11 +207,17 @@ h5 {
     color: white;
 }
 
+#success {
+    min-height: 100vh;          /* Stretch the section to the full viewport height */
+    display: flex;              /* Activate Flexbox */
+}
+
 /*Footer*/
 
 #footer {
     background-color: var(--highlight-color-dark);
-    bottom: 0;   
+    bottom: 0;  
+    position: relative;
 }
 
 #footer a {
@@ -221,13 +227,13 @@ h5 {
 #social-links {
     background-color: white;
     font-size: 20px;
-    display: flex;                /* Activate Flexbox */
-    justify-content: space-between; /* Spread items evenly with no space at edges */
-    align-items: center;          /* Center items vertically */
+    display: flex;  /* Activates Flexbox */              
     padding: 10px 50px 10px 50px;
+    justify-content: center;
+    gap: 20px; /* Add spacing between icons */
 }
 
 #social-links a {
-    color: var(--highlight-color-dark)
+    color: var(--highlight-color-dark);
 }
 
