@@ -191,13 +191,20 @@ h5 {
 }
 
 /* Contact form page*/
-
-
-
 #contact {
     background-color: var(--highlight-color-dark);
     color: white;
     padding-bottom: 20px;
+}
+
+/*Success page*/
+#sent-icon {
+    height: 50px;
+}
+
+#success a {
+    text-decoration: none;
+    color: white;
 }
 
 /*Footer*/
