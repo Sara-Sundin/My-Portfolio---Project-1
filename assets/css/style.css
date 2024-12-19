@@ -156,7 +156,7 @@ h5 {
 
 .padding-text {
     padding-left: 30px; 
-    padding-top: 50px;             /* Responsive padding */
+    padding-top: 50px;        
 }
 
 /* About Me Section */
@@ -172,12 +172,6 @@ h5 {
 
 #about-me h4 {
     padding-top: 10px;
-}
-
-/*Let's Connect Section with button text*/
-
-#lets-connect-text p {
-    color: white;
 }
 
 /* Portfolio Section */
@@ -208,25 +202,6 @@ h5 {
     color: var(--highlight-color);
 }
 
-/* Let's connect section (no text)*/
-
-#lets-connect, #carousel {
-    margin: 0;               /* Remove any default margin */
-    padding: 0;              /* Remove padding from the section */
-    width: 100vw;            /* Ensure the section spans the full width of the viewport */
-}
-
-#lets-connect .container, #carousel .container-fluid {
-    padding: 0;              /* Remove padding inside the container */
-}
-
-#lets-connect {
-    padding-top: 30px;
-    padding-bottom: 10px;
-    background-color: white;
-    color: var(--highlight-color);
-}
-
 /* Gallery section */
 #gallery {
     background-color: var(--secondary-color);
@@ -241,22 +216,6 @@ h5 {
 
 #photos {
     line-height: 0;
-}
-
-/*Carousel section*/
-
-.carousel {
-    background-color: white
-  }
-
-  #carousel {
-    margin: 0;
-}
-
-/*Project pages*/
-
-.project-info {
-    color: white;
 }
 
 /* Contact form page*/
