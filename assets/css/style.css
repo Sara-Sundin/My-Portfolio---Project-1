@@ -28,6 +28,10 @@ body {
     background-color:var(--secondary-color)
 }
 
+.white-background {
+    background-color: white;
+}
+
 .white-text {
     color: white;
 }
@@ -75,7 +79,7 @@ h5 {
 .custom-button-filled-pink {
     border: 2px solid var(--highlight-color-pink);
     background-color: var(--highlight-color-pink);
-    color: white;
+    color: var(--primary-color)
 }
 
 .custom-button-filled:hover {
@@ -115,6 +119,10 @@ h5 {
 .padding-bottom {
     padding-bottom: 20px;
 }
+.padding-top {
+    padding-top: 20px;
+}
+
 .circle-container {
     width: 200px;
     height: 200px;
@@ -180,6 +188,7 @@ h5 {
     justify-content: center; /* Centers the images horizontally */
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
     gap: 1rem; /* Adds spacing between images */
+    margin-bottom: 0px;
 }
 
 #portfolio-section .card {
@@ -201,6 +210,7 @@ h5 {
     background-color: white;
     color: var(--highlight-color);
 }
+
 
 /* Gallery section */
 #gallery {
@@ -262,10 +272,27 @@ footer a {
     display: flex;  /* Activates Flexbox */              
     padding: 10px 50px 20px 50px;
     justify-content: center;
-    gap: 20px; /* Add spacing between icons */
+    gap: 40px; /* Add spacing between icons */
 }
 
 #social-links a {
     color: white;
+}
+
+/* Media queries */
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    #hero {
+        min-height: 600px;
+        width: 100%;
+        background: url(../images/Graphic-front.jpg) no-repeat center / cover;
+        position: relative;
+        color: var(--primary-color);
+        display: flex;                /* Flexbox for centering */
+        justify-content: flex-start;  /* Align content to the left */
+        align-items: center;          /* Center vertically */
+    }
+
 }
 
