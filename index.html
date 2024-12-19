@@ -79,7 +79,7 @@
           </div>
           <!-- Two columns below for medium screens and larger -->
           <div class="row align-items-center">
-              <div class="col-md-6 order-md-2">
+              <div class="col-md-6 order-md-2"> <!--Order bootstrap class to put this column 2nd at medium screens-->
                   <img src="assets/images/vector-sara.png" 
                        alt="Image of Sara, the developer" 
                        class="circle-image mx-auto d-block">
@@ -95,67 +95,84 @@
       </div>
   </section>
     <!--Lets Connect section with button to form and some info-->
-     <section id="lets-connect-text" class="text-center half-section primary-background">
-      <div>
-        <h5>Let's Connect.</h5>
+     <section class="half-section primary-background justify-content-center text-sm-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+        <h5 class="white-text">Let's Connect.</h5>
       </div>
-      <div>
+      <div class="col-md-5">
         <a href="contact.html" class="btn custom-button-filled"><h5>Contact</h5></a>
       </div>
-      <div>
-        <p>Some text</p>
+      <div class="col-12">
+        <p class="white-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt deserunt repellendus illo eveniet, neque animi ducimus fugit earum quo odio dolor perferendis itaque doloribus expedita tempora at aperiam nostrum dicta!</p>
       </div>
-     </section>
+    </div>
+  </div>
+  </section>
     <!-- Project Section with portfolio examples-->
     <section id="portfolio-section" class="py-5 secondary-background">
       <div class="container">
         <div class="row justify-content-center g-4"> <!-- Center row content with spacing -->
-          <section id="portfolio-section" class="py-5">
-            <div class="container">
-              <div class="row justify-content-center g-4"> <!-- Center row content with spacing -->
+          <div class="col-12 text-center red-orange-text">
+            <h3>Projects</h3>
+              </div>
                 <!-- First Card -->
-                <div class="col-md-6">
-                  <div class="card text-center bg-transparent mx-auto" style="width: 18rem;">
-                   <a href="project_1.html"><img src="assets/images/iknw 3401,3501.jpg" class="card-img-top circle-container circle-image" alt="Two men sitting on a table looking"></a>
-                    <div class="card-body">
+                <div class="row align-items-center justify-content-center g-4">
+                  <!-- Image Column -->
+                  <div class="col-md-6 text-center order-md-2">
+                      <a href="project_1.html"></a><img src="assets/images/iknw 3401,3501.jpg" class="circle-image" alt="Two men sitting on a table">
+                  </div>
+                  <!-- Text Column -->
+                  <div class="col-md-6">
                       <h5 class="card-title">Project 1</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    </div>
+                      <p class="card-text">
+                          Some quick example text to build on the card title and make up the bulk of the card's content.
+                      </p>
                   </div>
-                </div>
+              </div>
                 <!-- Second Card -->
-                <div class="col-md-6">
-                  <div class="card text-center bg-transparent mx-auto" style="width: 18rem;">
+                <div class="row align-items-center justify-content-center g-4">
+                  <!-- Image Column -->
+                  <div class="col-md-6 text-center">
                     <a href="projects_2.html"><img src="assets/images/Five 2.jpg" class="card-img-top circle-container circle-image" alt="Two children from behind walking in a forest"></a> 
-                    <div class="card-body">
-                      <h5 class="card-title">Project 2</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    </div>
                   </div>
-                </div>
+                  <!-- Text Column -->
+                  <div class="col-md-6">
+                      <h5 class="card-title">Project 2</h5>
+                      <p class="card-text">
+                          Some quick example text to build on the card title and make up the bulk of the card's content.
+                      </p>
+                  </div>
+              </div>
           <!-- Third Card -->
-          <div class="col-md-6">
-            <div class="card text-center bg-transparent mx-auto" style="width: 18rem;">
+          <div class="row align-items-center justify-content-center g-4">
+            <!-- Image Column -->
+            <div class="col-md-6 text-center order-md-2">
               <img src="assets/images/hero-proto.jpg" class="card-img-top circle-container circle-image" alt="The upper body of a jacket with hood up from behind">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
             </div>
-          </div>
-          <!-- Fourth Card -->
-          <div class="col-md-6">
-            <div class="card text-center bg-transparent mx-auto" style="width: 18rem;">
-              <img src="assets/images/Pen.png" class="card-img-top circle-container circle-image" alt="Image of a pen">
-              <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
+            <!-- Text Column -->
+            <div class="col-md-6">
+                <h5 class="card-title">Project 3</h5>
+                <p class="card-text">
+                    Some quick example text to build on the card title and make up the bulk of the card's content.
+                </p>
             </div>
-          </div>
         </div>
-      </div>
-    </section>       
+           <!-- Fourth Card -->            
+           <div class="row align-items-center justify-content-center g-4">
+            <!-- Image Column -->
+            <div class="col-md-6 text-center">
+              <img src="assets/images/Pen.png" class="card-img-top circle-container circle-image" alt="Image of a pen">
+            </div>
+            <!-- Text Column -->
+            <div class="col-md-6 padding-bottom">
+                <h5 class="card-title">Project 4</h5>
+                <p class="card-text">
+                    Some quick example text to build on the card title and make up the bulk of the card's content.
+                </p>
+            </div>
+        </div> 
     <!-- Let's Connect section with button to form -->
     <section id="lets-connect" class="container-fluid text-center section">
       <div class="row section">

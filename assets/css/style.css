@@ -28,6 +28,14 @@ body {
     background-color:var(--secondary-color)
 }
 
+.white-text {
+    color: white;
+}
+
+.red-orange-text {
+    color: var(--highlight-color);
+}
+
 /* Headings*/
 
 h1 {
@@ -100,10 +108,13 @@ h5 {
 }
 
 .padding-sides {
-    padding-left: 30px;
+    padding-left: 20px;
     padding-right: 20px;
 }
 
+.padding-bottom {
+    padding-bottom: 20px;
+}
 .circle-container {
     width: 200px;
     height: 200px;
@@ -165,7 +176,7 @@ h5 {
 
 /*Let's Connect Section with button text*/
 
-.lets-connect {
+#lets-connect-text p {
     color: white;
 }
 
