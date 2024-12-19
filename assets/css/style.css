@@ -20,9 +20,12 @@ body {
     font-family: var(--secondary-font);
 }
 
-main {
-    margin: 0;   /* Remove any margin */
-    padding: 0;  /* Remove any padding */
+.primary-background {
+    background-color: var(--primary-color);
+}
+
+.secondary-background {
+    background-color:var(--secondary-color)
 }
 
 /* Headings*/
@@ -162,8 +165,7 @@ h5 {
 
 /*Let's Connect Section with button text*/
 
-#lets-connect-text {
-    background-color: var(--primary-color);
+.lets-connect {
     color: white;
 }
 
@@ -173,7 +175,6 @@ h5 {
     justify-content: center; /* Centers the images horizontally */
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
     gap: 1rem; /* Adds spacing between images */
-    background-color: var(--secondary-color);
 }
 
 #portfolio-section .card {
@@ -201,7 +202,6 @@ h5 {
     margin: 0;               /* Remove any default margin */
     padding: 0;              /* Remove padding from the section */
     width: 100vw;            /* Ensure the section spans the full width of the viewport */
-    background-color: white;
 }
 
 #lets-connect .container, #carousel .container-fluid {
@@ -211,6 +211,8 @@ h5 {
 #lets-connect {
     padding-top: 30px;
     padding-bottom: 10px;
+    background-color: white;
+    color: var(--highlight-color);
 }
 
 /* Gallery section */
@@ -242,15 +244,14 @@ h5 {
 /*Project pages*/
 
 .project-info {
-    background-color: var(--highlight-color-dark);
     color: white;
 }
 
 /* Contact form page*/
 #contact {
-    background-color: var(--highlight-color-dark);
-    color: white;
+    color:var(--primary-color);
     padding-bottom: 20px;
+    background-color:var(--secondary-color);
 }
 
 /*Success page*/
@@ -260,29 +261,28 @@ h5 {
 
 #success a {
     text-decoration: none;
-    color: white;
+    color:var(--primary-color) 
 }
 
 #success {
     min-height: 100vh;          /* Stretch the section to the full viewport height */
     display: flex;              /* Activate Flexbox */
+    color:var(--primary-color);
+    padding-top: 50px
 }
 
 /*Footer*/
 
 footer {
     margin-top: 0;
-}
-
-#footer {
     background-color: var(--primary-color);
     bottom: 0;  
     position: relative;
 }
 
-#footer a {
-    color: white;
+footer a {
     text-decoration: none;
+    color: white;
 }
 
 #social-links {
