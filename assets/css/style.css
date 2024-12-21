@@ -309,8 +309,6 @@ footer a {
         margin-top: -80px;
     }
 
-    
-
     h1 {
         font-size: 70px;
     }
@@ -328,6 +326,7 @@ footer a {
         position: relative;
         z-index: 2;
         background: transparent;
+        margin-bottom: 0;
     }
 
     #about-me img {
@@ -344,9 +343,12 @@ footer a {
     }
 
     #connect-1 {
-        margin-top: -80px;
         position: relative;
         z-index: 3;
+        margin-left: 900px;
+        z-index: 3;
+        top: -400px;
+        
     }
 
 }
