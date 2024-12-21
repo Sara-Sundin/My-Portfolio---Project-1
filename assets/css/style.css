@@ -295,11 +295,14 @@ footer a {
     }
 
     #about-me {
-        margin-top: -100px;
+        margin-top: -80px;
         position: relative;
         z-index: 2;
         background: transparent;
     }
 
+    #about-me img {
+        margin-top: -80px;
+    }
 }
 
