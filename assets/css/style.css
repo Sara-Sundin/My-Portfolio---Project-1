@@ -294,5 +294,12 @@ footer a {
         align-items: center;          /* Center vertically */
     }
 
+    #about-me {
+        margin-top: -100px;
+        position: relative;
+        z-index: 2;
+        background: transparent;
+    }
+
 }
 
