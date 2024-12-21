@@ -56,12 +56,14 @@ h4 {
 /* Headings*/
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
+    color: var(--primary-color);
 }
 
 h2 {
     font-weight: 300;
-    font-size: 2rem; 
+    font-size: 35px; 
+    color: var(--primary-color) 
 }
 
 h3 {
@@ -160,14 +162,9 @@ h5 {
     background: url(../images/Graphic-front_v.2.jpg) no-repeat center / cover;
     background-position: calc(100% + 140px) center; /* Moves image 50px to the right */
     position: relative;
-    color: var(--primary-color);
     display: flex;                /* Flexbox for centering */
     justify-content: flex-start;  /* Align content to the left */
     align-items: center;          /* Center vertically */
-}
-
-#hero h2 {
-    color:var(--highlight-color-dark)
 }
 
 .padding-text {
@@ -296,7 +293,6 @@ footer a {
         width: 100%;
         background: url(../images/Graphic-front_v.2.jpg) no-repeat center / cover;
         position: relative;
-        color: var(--primary-color);
         display: flex;                /* Flexbox for centering */
         justify-content: flex-start;  /* Align content to the left */
         align-items: center;          /* Center vertically */
@@ -311,6 +307,15 @@ footer a {
 
     #about-me img {
         margin-top: -80px;
+    }
+
+    h1 {
+        font-size: 70px;
+    }
+
+    h2 {
+        font-size: 50px;
+        color: var(--highlight-color-pink);
     }
 }
 
