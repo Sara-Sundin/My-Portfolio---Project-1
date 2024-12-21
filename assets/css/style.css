@@ -317,6 +317,11 @@ footer a {
         font-size: 50px;
         color: var(--highlight-color-pink);
     }
+
+    #connect-2 {
+        margin-bottom: -80px;
+        
+    }
 }
 
 @media screen and (min-width: 1200px) {
@@ -349,6 +354,14 @@ footer a {
         z-index: 3;
         top: -400px;
         
+    }
+
+    #portfolio-section {
+        margin-top: -400px; /* To adjust for removed margin #connect-1 above*/
+    }
+
+    #connect-2 {
+        margin-bottom: -80px;
     }
 
 }
