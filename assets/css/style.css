@@ -149,7 +149,7 @@ h5 {
 #hero {
     min-height: 600px;
     width: 100%;
-    background: url(../images/Graphic-front.jpg) no-repeat center / cover;
+    background: url(../images/Graphic-front_v.2.jpg) no-repeat center / cover;
     background-position: calc(100% + 140px) center; /* Moves image 50px to the right */
     position: relative;
     color: var(--primary-color);
@@ -286,7 +286,7 @@ footer a {
     #hero {
         min-height: 600px;
         width: 100%;
-        background: url(../images/Graphic-front.jpg) no-repeat center / cover;
+        background: url(../images/Graphic-front_v.2.jpg) no-repeat center / cover;
         position: relative;
         color: var(--primary-color);
         display: flex;                /* Flexbox for centering */
