@@ -234,6 +234,7 @@ h5 {
 }
 
 /* Contact form page*/
+
 #contact {
     color:var(--primary-color);
     padding-bottom: 20px;
@@ -241,6 +242,7 @@ h5 {
 }
 
 /*Success page*/
+
 #sent-icon {
     height: 50px;
 }
@@ -251,10 +253,14 @@ h5 {
 }
 
 #success {
-    min-height: 100vh;          /* Stretch the section to the full viewport height */
+    min-height: 79vh;          /* Stretch the section to the full viewport height */
     display: flex;              /* Activate Flexbox */
     color:var(--primary-color);
     padding-top: 50px
+}
+
+#success h1 {
+   font-size: 45px;
 }
 
 /*Footer*/
