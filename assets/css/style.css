@@ -309,6 +309,12 @@ footer a {
         margin-top: -80px;
     }
 
+    #connect {
+        margin-top: -80px;
+        position: relative;
+        z-index: 3;
+    }
+
     h1 {
         font-size: 70px;
     }
@@ -318,4 +324,30 @@ footer a {
         color: var(--highlight-color-pink);
     }
 }
+
+@media screen and (min-width: 1200px) {
+   
+    #about-me {
+        margin-top: -100px;
+        position: relative;
+        z-index: 2;
+        background: transparent;
+    }
+
+    #about-me img {
+        margin-top: -120px;
+    }
+
+    h1 {
+        font-size: 100px;
+    }
+
+    h2 {
+        font-size: 50px;
+        color: var(--highlight-color-pink);
+    }
+
+}
+
+
 
