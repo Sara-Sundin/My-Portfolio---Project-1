@@ -249,7 +249,9 @@ h5 {
 
 #success a {
     text-decoration: none;
-    color:var(--primary-color) 
+    color:white;
+    background-color: var(--primary-color);
+    padding: 10px 10px 10px 10px;
 }
 
 #success {
@@ -330,6 +332,8 @@ footer a {
     }
 }
 
+/* Large devices (desktop, 1200px and up) */
+
 @media screen and (min-width: 1200px) {
    
     #about-me {
@@ -368,6 +372,23 @@ footer a {
 
     #connect-2 {
         margin-bottom: -80px;
+    }
+
+    #success {
+        padding-top: 200px;
+    }
+
+    #success img {
+        min-height: 100px;
+        margin-top: -70px;
+    }
+
+    #success a {
+        margin-bottom: 10px;
+    }
+
+    #success h1 {
+        font-size: 65px;
     }
 
 }
