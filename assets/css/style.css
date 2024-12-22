@@ -161,6 +161,34 @@ h5 {
     border: none;
 }
 
+/* Navbar*/
+
+#navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: var(--primary-color);
+    font-weight: 500;
+    color: white;
+}
+
+#navbar a {
+    padding-left: 50px;
+    font-size: 30px;
+}
+
+#navbarSupportedContent {
+    padding-left: 500px;
+}
+
+#navbarSupportedContent a {
+    font-size: 20px;
+}
+
+.dropdown-menu {
+    background-color: var(--primary-color);
+    font-size: 20px;
+}
+
 /* Hero Section */
 #hero {
     min-height: 600px;
