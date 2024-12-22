@@ -194,7 +194,8 @@ h5 {
 }
 
 /* Portfolio Section */
-#portfolio {
+
+.project-section {
     display: flex;
     justify-content: center; /* Centers the images horizontally */
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
@@ -202,11 +203,11 @@ h5 {
     margin-bottom: 0px;
 }
 
-#portfolio .card {
+.project-section .card {
         color: var(--primary-color)
 }
 
-#portfolio img {
+.project-section img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
