@@ -25,46 +25,45 @@
 </head>
 
 <body>
- <!-- Navigation bar Bootstrap with toggle for mobile-->
- <header>
-  <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
-      <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">Sara Sundin</a>
-          <!-- Toggler Button -->
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
-                  data-bs-target="#navbarSupportedContent" 
-                  aria-controls="navbarSupportedContent" 
-                  aria-expanded="false" 
-                  aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-          </button>
-          <!-- Navbar Content -->
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                  <li class="nav-item">
-                      <a class="nav-link active" href="index.html">Home</a>
+  <header>
+    <nav id="navbar" class="navbar navbar-expand-lg fixed-top" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">Sara Sundin</a>
+            <!-- Toggler Button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+                    data-bs-target="#navbarSupportedContent" 
+                    aria-controls="navbarSupportedContent" 
+                    aria-expanded="false" 
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Navbar Content -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                     <!-- Projects Dropdown -->
+                     <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" id="projectsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                          Projects
+                      </a>
+                      <ul class="dropdown-menu" aria-labelledby="projectsDropdown">
+                          <li><a class="dropdown-item" href="index.html#portfolio">All Projects</a></li>
+                          <li><a class="dropdown-item" href="project_1.html">Project 1</a></li>
+                          <li><a class="dropdown-item" href="project_2.html">Project 2</a></li>
+                          <li><a class="dropdown-item" href="project_3.html">Project 3</a></li>
+                          <li><a class="dropdown-item" href="project_4.html">Project 4</a></li>
+                      </ul>
                   </li>
-                   <!-- Projects Dropdown -->
-                   <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="projectsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Projects
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="projectsDropdown">
-                        <li><a class="dropdown-item" href="index.html#portfolio">All Projects</a></li>
-                        <li><a class="dropdown-item" href="project_1.html">Project 1</a></li>
-                        <li><a class="dropdown-item" href="project_2.html">Project 2</a></li>
-                        <li><a class="dropdown-item" href="project_3.html">Project 3</a></li>
-                        <li><a class="dropdown-item" href="project_3.html">Project 4</a></li>
-                    </ul>
-                </li>
-                  <li class="nav-item">
-                      <a class="nav-link" href="contact.html">Contact</a>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </nav>
-</header>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+  </header>
 <main>
    <!-- Info Section-->
    <section id="success" class="project-info secondary-background">
