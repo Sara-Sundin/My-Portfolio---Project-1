@@ -201,6 +201,7 @@ h5 {
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
     gap: 1rem; /* Adds spacing between images */
     margin-bottom: 0px;
+    background-color: var(--secondary-color);
 }
 
 .project-section .card {
