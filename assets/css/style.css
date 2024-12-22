@@ -391,6 +391,10 @@ footer a {
         column-count: 3;
     }
 
+    #photos-2 {
+        column-count: 2;
+    }
+
     #connect-2 {
         margin-bottom: -80px;
     }
