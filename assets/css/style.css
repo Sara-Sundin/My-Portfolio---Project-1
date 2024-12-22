@@ -225,19 +225,19 @@ h5 {
 
 
 /* Gallery section */
-#gallery {
+.gallery {
     background-color: var(--secondary-color);
-    min-height: 300px;
-}
-
-#photos img {
-    min-height: 100px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive columns */
+    gap: 0;
     width: 100%;
-    line-height: 1em;
 }
 
-#photos {
-    line-height: 0;
+.photos img {
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    max-height: 300px;
 }
 
 /* Contact form page*/
@@ -338,6 +338,12 @@ footer a {
         margin-bottom: -80px;
         
     }
+
+     /* Gallery */
+
+     .photos {
+        column-count: 2;
+    }
 }
 
 /* Large devices (desktop, 1200px and up) */
@@ -376,6 +382,12 @@ footer a {
 
     #portfolio {
         margin-top: -400px; /* To adjust for removed margin #connect-1 above*/
+    }
+
+    /* Gallery*/
+
+    .photos {
+        column-count: 3;
     }
 
     #connect-2 {
