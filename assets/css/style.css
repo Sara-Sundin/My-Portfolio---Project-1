@@ -194,7 +194,7 @@ h5 {
 }
 
 /* Portfolio Section */
-#portfolio-section {
+#portfolio {
     display: flex;
     justify-content: center; /* Centers the images horizontally */
     flex-wrap: wrap; /* Ensures images wrap on smaller screens */
@@ -202,11 +202,11 @@ h5 {
     margin-bottom: 0px;
 }
 
-#portfolio-section .card {
+#portfolio .card {
         color: var(--primary-color)
 }
 
-#portfolio-section img {
+#portfolio img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
@@ -373,7 +373,7 @@ footer a {
         
     }
 
-    #portfolio-section {
+    #portfolio {
         margin-top: -400px; /* To adjust for removed margin #connect-1 above*/
     }
 
