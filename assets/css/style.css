@@ -383,9 +383,22 @@ footer a {
     }
 }
 
-/* Large devices (desktop, 1200px and up) */
+/* Large devices (desktop, 992px and up) */
+
+@media screen and (min-width: 992px) {
+
+#navbarSupportedContent {
+    padding-left: 450px;
+}
+}
+
+/* Larger devices (desktop, 1200px and up) */
 
 @media screen and (min-width: 1200px) {
+
+    #navbarSupportedContent {
+        padding-left: 700px;
+    }
    
     #about-me {
         margin-top: -100px;
