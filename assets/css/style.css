@@ -241,6 +241,14 @@ h5 {
     height: 300px; 
 }
 
+/* Coming soon text*/
+
+.coming-soon {
+    font-size: 50px;
+    font-family: var(--primary-font);
+    padding-top: 40px;
+}
+
 /* Contact form page*/
 
 #contact {
