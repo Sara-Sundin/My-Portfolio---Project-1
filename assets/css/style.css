@@ -168,16 +168,16 @@ h5 {
     padding-bottom: 10px;
     background-color: var(--primary-color);
     font-weight: 500;
+}
+
+.navbar-brand,
+.nav-link,
+.dropdown-item {
     color: white;
 }
 
 #navbar a {
-    padding-left: 50px;
     font-size: 30px;
-}
-
-#navbarSupportedContent {
-    padding-left: 500px;
 }
 
 #navbarSupportedContent a {
