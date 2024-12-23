@@ -415,7 +415,7 @@ footer a {
     }
    
     #about-me {
-        margin-top: -100px;
+        margin-top: -95px;
         position: relative;
         z-index: 2;
         background: transparent;
@@ -474,7 +474,14 @@ footer a {
     #success h1 {
         font-size: 65px;
     }
+}
 
+/* Extra large devices (desktop, 1400px and up) */
+
+@media screen and (min-width: 1400px) {
+    #about-me {
+        margin-bottom: 70px;
+    }
 }
 
 
