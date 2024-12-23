@@ -98,19 +98,7 @@ h6 {
 .custom-button-filled {
     border: 2px solid white;
     background-color: white;
-    color: var(--highlight-color)
-}
-
-.custom-button-filled-purple {
-    border: 2px solid var(--primary-color);
-    background-color: var(--primary-color);
-    color: white
-}
-
-.custom-button-filled-pink {
-    border: 2px solid var(--highlight-color-pink);
-    background-color: var(--highlight-color-pink);
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 .custom-button-filled:hover {
@@ -120,14 +108,14 @@ h6 {
 }
 
 .custom-button-outline {
-    border: 3px solid white;
+    border: 3px solid var(--primary-color);
     padding: 7px 25px;
-    color: white
+    color: white;
 }
 
 .custom-button-outline:hover {
-    background-color: var(--highlight-color);
-    color: white
+    background-color: white;
+    color: var(--primary-color)
 }
 
 /*Section Styling*/
