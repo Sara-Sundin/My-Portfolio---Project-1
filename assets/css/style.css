@@ -55,15 +55,21 @@ h4 {
 
 /* Headings*/
 
+h1,
+h2,
+h3,
+h4 {
+    color: var(--primary-color);
+}
+
+
 h1 {
     font-size: 50px;
-    color: var(--primary-color);
 }
 
 h2 {
     font-weight: 300;
     font-size: 35px; 
-    color: var(--primary-color) 
 }
 
 h3 {
@@ -178,6 +184,7 @@ h5 {
 
 #navbar a {
     font-size: 30px;
+    padding-left: 30px;
 }
 
 #navbarSupportedContent a {
@@ -211,10 +218,6 @@ h5 {
 #about-me {
     background-color: white;
     color: black;
-}
-
-#about-me h3, h4 {
-    color: var(--highlight-color);
 }
 
 #about-me h4 {
@@ -351,6 +354,10 @@ footer a {
         align-items: center;          /* Center vertically */
     }
 
+    .padding-text {
+        padding-left: 70px;        
+    }
+
     #about-me {
         margin-top: -100px;
         position: relative;
@@ -388,7 +395,7 @@ footer a {
 @media screen and (min-width: 992px) {
 
 #navbarSupportedContent {
-    padding-left: 450px;
+    padding-left: 400px;
 }
 }
 
@@ -397,7 +404,11 @@ footer a {
 @media screen and (min-width: 1200px) {
 
     #navbarSupportedContent {
-        padding-left: 700px;
+        padding-left: 600px;
+    }
+
+    .padding-text {
+        padding-left: 50px;      
     }
    
     #about-me {
@@ -413,11 +424,11 @@ footer a {
     }
 
     h1 {
-        font-size: 100px;
+        font-size: 80px;
     }
 
     h2 {
-        font-size: 50px;
+        font-size: 40px;
         color: var(--highlight-color-pink);
     }
 
