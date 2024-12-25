@@ -200,7 +200,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 
 # Design
 ## Colour Scheme
-![Colour Scheme](My-Portfolio---Project-1/assets/files/Colour Scheme.jpg).
+![Colour Scheme](assets/files/Colour Scheme.jpg)
 <br>
 <br>
 I have used a retro looking palette for the website that features a sophisticated mix of vibrant and soft tones. The primary colors are deep purple and subtle cream. This palette reflects a balance between boldness and approachability, evoking a sense of creativity and professionalism. It’s a versatile combination that works well for both striking highlights and subtle backgrounds.
@@ -208,7 +208,7 @@ I have used a retro looking palette for the website that features a sophisticate
 ## Typography
 The chosen typography for my website combines Abril Fatface for headings and Raleway for the main content. The combination of these fonts enhances the user experience by drawing attention to key elements (headings) while maintaining clarity and readability for longer text sections.
 
-![Fonts]().
+![Fonts](assets/files/Fonts.jpg
 
 Abril Fatface: This typeface exudes elegance and sophistication with its bold, high-contrast design, making it ideal for attention-grabbing headings, perfectly complementing my design-focused website.
 
