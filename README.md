@@ -214,9 +214,20 @@ Abril Fatface: This typeface exudes elegance and sophistication with its bold, h
 
 Raleway: A modern sans-serif font known for its clean and minimalistic design, Raleway ensures excellent readability for the main content. Its versatility and subtle elegance balance the boldness of Abril Fatface, creating a cohesive and polished aesthetic throughout the site.
 
-
 ## Imagery
+The images are either photographed by myself or with permission from their owners. I have included these owners in the credits section.
+
 ## Wire Frames
+The wireframes were created in Illustrator for mobile, tablet and desktop.
+
+![Home Page Wireframe]()
+
+![Projects Wireframe]()
+
+![Contact Form Wireframe]()
+
+![Success Wireframe]()
+
 ## Features
 ## Accessibility
 
