@@ -208,7 +208,7 @@ I have used a retro looking palette for the website that features a sophisticate
 ## Typography
 The chosen typography for my website combines Abril Fatface for headings and Raleway for the main content. The combination of these fonts enhances the user experience by drawing attention to key elements (headings) while maintaining clarity and readability for longer text sections.
 
-![Fonts](assets/files/Fonts.jpg
+![Fonts](assets/files/Fonts.jpg)
 
 Abril Fatface: This typeface exudes elegance and sophistication with its bold, high-contrast design, making it ideal for attention-grabbing headings, perfectly complementing my design-focused website.
 
