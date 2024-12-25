@@ -250,10 +250,10 @@ All pages on the website has a navigation bar for easy access to all pages. The 
 
 ### Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
-<details><summary><h2>Contact button with text - Desktop Image</h2></summary><img src=></details>
-<details><summary><h2>Contact button with text - Mobile Image</h2></summary><img src=></details>
-<details><summary><h2>Contact button plain - Desktop Image</h2></summary><img src=></details>
-<details><summary><h2>Contact button plain - Mobile Image</h2></summary><img src=></details>
+<details><summary><h2>Contact section/button with text - Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>Contact section/button with text - Mobile Image</h2></summary><img src=></details>
+<details><summary><h2>Contact section/button plain - Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>Contact section/button plain - Mobile Image</h2></summary><img src=></details>
 
 ### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
@@ -263,8 +263,9 @@ All pages has a footer that is responsive for all screens. The footer includes l
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
 <details><summary><h2>About Me Section - Desktop Image</h2></summary><img src=></details>
 <details><summary><h2>About Me Section - Mobile Image</h2></summary><img src=></details>
+<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=></details>
 <details><summary><h2>Portfolio Section - Desktop Image</h2></summary><img src=></details>
-<details><summary><h2>Testimonial Section - Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>Testimonial Section - Mobile Image</h2></summary><img src=></details>
 
 #### Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
