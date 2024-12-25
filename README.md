@@ -13,6 +13,8 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 ## Structure of the website
 ## User experience
+- My website across UX planes
+- User Stories
 ## Design
 ## Features
 ## Tecnologies Used
@@ -28,7 +30,7 @@ The website features 7 pages:
 #### Home page 1
 An introduction to who I am and my professional background. This page
 
-#### Portfolio pages page 2-5
+#### Portfolio pages 2-5
 A collection of my work, highlighting design projects I have completed.
 
 #### Contact page 6
@@ -37,27 +39,54 @@ A contact form and a success page for potential clients and collaborators to rea
 #### Success page 7
 A success page that confirms that a user’s message has successfully been sent to provide reassurance.
 
-# User Experience
-The main goal of the website is to allow users to explore my portfolio, showcasing my design skills, projects, and experience. This helps them evaluate my expertise and determine if I am a good fit for collaboration or hiring. It also provides an easy way to contact me directly for inquiries or opportunities.
-<br>
-## First-Time Visitors
+# User Experience (UX)
+
+## My website across UX planes
+
+### Strategy Plane
+The primary goal of the website is to showcase my design skills, experience, and projects while making it easy for users to contact me for collaborations or job opportunities. The target audience includes potential clients, employers, and collaborators. The website aligns with their needs by presenting my portfolio, testimonials, and contact options in an organized manner. This detailed approach ensures that the website not only looks good but also meets user needs effectively, creating a seamless and enjoyable experience across all UX planes.
+
+### Scope Plane
+The website focuses on must-have features like a welcoming homepage, portfolio section, and contact form, complemented by should-have and could-have features such as featured project previews and a downloadable CV. This balance ensures users have access to essential content while optional features enhance their experience.
+
+### Structure Plane
+The site is organized with a logical flow:
+- A homepage introduces me and provides quick access to featured projects.
+- A portfolio section allows in-depth exploration of my work.
+- A contact page facilitates direct communication.
+- Clear navigation ensures users can easily find the information they need without confusion.
+- 
+### Skeleton Plane
+The layout is clean and minimalist, with responsive grid systems and intuitive placement of elements.
+- Key features like the navigation bar, featured projects, and contact form are prominently displayed.
+- Buttons, links, and hover effects are designed to guide users naturally through the site.
+- The responsive design ensures usability across mobile, tablet, and desktop devices.
+- 
+### Surface Plane
+The visual design is professional and appealing, reflecting my style and brand identity.
+- Typography and color schemes are consistent and aesthetically pleasing, reinforcing trust and professionalism.
+- High-quality images and thumbnails of my work enhance visual engagement.
+- Subtle animations, such as hover effects, provide interactivity without overwhelming users.
+
+## User Stories
+### First-Time Visitors
 Goal: Quickly understand who the designer is and what they do.
 - Explore a welcoming homepage with an introduction to the designer (User Story 1).
 - View a featured section showcasing selected projects to decide whether to explore further (User Story 5).
 - Browse a detailed portfolio to evaluate the designer's skills and experience (User Story 2).
 - Easily navigate the website across devices with a responsive design (User Story 4).
-## Returning Visitors
+### Returning Visitors
 Goal: Dive deeper into specific projects or make inquiries.
 - Revisit the portfolio to review specific projects of interest (User Story 2).
 - Use the contact form to send inquiries about services or collaborations (User Story 3).
 - Download the designer’s CV to review qualifications offline (User Story 6).
-## Frequent Visitors
+### Frequent Visitors
 Goal: Maintain ongoing trust and share feedback.
 - Read client testimonials to validate the designer’s credibility (User Story 7).
 - Submit a testimonial to share positive experiences and support the designer (User Story 8).
 
 <details>
-<summary>User Stories In Detail</summary>
+<summary><h2>User Stories In Detail</h2></summary>
 
 ### User Story 1 (must-have)
 As a visitor, I want to see a welcoming homepage with a brief introduction,  
