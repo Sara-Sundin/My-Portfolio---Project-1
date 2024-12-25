@@ -7,7 +7,7 @@
 
 Welcome to my personal portfolio website! This project serves as a platform to showcase my skills, projects, and experience as a freelance designer. I am planning on showcasing this website to future potential employers.
 
-![Screenshot of the website on multi devices](My-Portfolio---Project-1/assets/files/Colour Scheme.jpg)
+![Screenshot of the website on multi devices](assets/files/Multi_Devices_Image.jpg)
 
 # CONTENT
 
@@ -200,7 +200,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 
 # Design
 ## Colour Scheme
-![Colour Scheme](https://github.com/user-attachments/assets/aa7512bf-7cd4-4b8b-9bb0-1a28df44c147)
+![Colour Scheme]().
 <br>
 <br>
 I have used a retro looking palette for the website that features a sophisticated mix of vibrant and soft tones. The primary colors are deep purple and subtle cream. This palette reflects a balance between boldness and approachability, evoking a sense of creativity and professionalism. It’s a versatile combination that works well for both striking highlights and subtle backgrounds.
@@ -208,7 +208,7 @@ I have used a retro looking palette for the website that features a sophisticate
 ## Typography
 The chosen typography for my website combines Abril Fatface for headings and Raleway for the main content. The combination of these fonts enhances the user experience by drawing attention to key elements (headings) while maintaining clarity and readability for longer text sections.
 
-![Colour Scheme]()
+![Fonts]().
 
 Abril Fatface: This typeface exudes elegance and sophistication with its bold, high-contrast design, making it ideal for attention-grabbing headings, perfectly complementing my design-focused website.
 
