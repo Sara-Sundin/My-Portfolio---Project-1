@@ -1,14 +1,14 @@
-**Title**
+### Project 1
 
-My-Portfolio
+# My-Portfolio Website
 
 
-**Introduction**
+## Introduction
 
 Welcome to my personal portfolio website! This project serves as a platform to showcase my skills, projects, and experience as a freelance designer. I am planning on showcasing this website to future potential employers.
-The website features at least three pages:
+The website features 7 pages:
 
-*Home*
+# Home*
 - An introduction to who I am and my professional background.
 
 *Portfolio*
