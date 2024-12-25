@@ -7,7 +7,7 @@
 
 Welcome to my personal portfolio website! This project serves as a platform to showcase my skills, projects, and experience as a freelance designer. I am planning on showcasing this website to future potential employers.
 
-![Multi_Devices_Image](https://github.com/user-attachments/assets/8d6e12db-b7c9-4292-8b60-5328a3e554ab)
+https://github.com/Sara-Sundin/My-Portfolio---Project-1/blob/main/assets/files/Multi_Devices_Image.jpg
 
 # Content
 
