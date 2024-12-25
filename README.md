@@ -245,7 +245,7 @@ The website features six pages that are accessible from the navigation bar (home
 
 ### Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
-<details><summary><h2>Navigation Bar Image - Desktop</h2></summary><img src=></details>
+<details><summary><h2>Navigation Bar Image - Desktop</h2></summary><img src=assets/files/Navigation bar desktop.jpg></details>
 <details><summary><h2>Navigation Bar Image - Mobile</h2></summary><img src=></details>
 
 ### Buttons
