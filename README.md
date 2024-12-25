@@ -11,7 +11,6 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 # CONTENT
 
-## Structure of the website
 ## User experience
 - My website across UX planes
 - User Stories
@@ -28,21 +27,6 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 ## Credits    
 <br>
 
-# Structure of the website
-
-The website features 7 pages:
-
-#### Home page 1
-An introduction to who I am and my professional background. This page
-
-#### Portfolio pages 2-5
-A collection of my work, highlighting design projects I have completed.
-
-#### Contact page 6
-A contact form and a success page for potential clients and collaborators to reach out to me.
-
-#### Success page 7
-A success page that confirms that a user’s message has successfully been sent to provide reassurance.
 
 # User Experience (UX)
 
@@ -206,7 +190,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 I have used a retro looking palette for the website that features a sophisticated mix of vibrant and soft tones. The primary colors are deep purple and subtle cream. This palette reflects a balance between boldness and approachability, evoking a sense of creativity and professionalism. It’s a versatile combination that works well for both striking highlights and subtle backgrounds.
 
 ## Typography
-The chosen typography for my website combines Abril Fatface for headings and Raleway for the main content. The combination of these fonts enhances the user experience by drawing attention to key elements (headings) while maintaining clarity and readability for longer text sections.
+The chosen typography for my website are both Google fonts and combines Abril Fatface for headings and Raleway for the main content. The combination of these fonts enhances the user experience by drawing attention to key elements (headings) while maintaining clarity and readability for longer text sections.
 
 ![Fonts](assets/files/Fonts.jpg)
 
@@ -228,7 +212,28 @@ The wireframes were created in Illustrator for mobile, tablet and desktop.
 
 <details><summary><h2>Success Page Wireframe</h2></summary><img src=assets/files/Wireframe_success.jpg></details>
 
-## Features
+# Features
+
+## Structure of the website
+
+The website features six pages that are accessible from the navigation bar (home page, project pages, contact form. There is also a success page that displays once the user has filled in and pressed sent on the contact form.
+
+All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px.
+
+<details><summary><h2>Navigation Bar Image</h2></summary><img src=assets/files/Wireframe_success.jpg></details>
+
+#### Home page 1
+An introduction to who I am and my professional background. This page also include an overview of the project pages as well as two action buttons to the contact form.
+
+#### Portfolio pages 2-5
+A collection of my work, highlighting design projects I have completed.
+
+#### Contact page 6
+A contact form and a success page for potential clients and collaborators to reach out to me.
+
+#### Success page 7
+A success page that confirms that a user’s message has successfully been sent to provide reassurance.
+
 ## Accessibility
 
 
