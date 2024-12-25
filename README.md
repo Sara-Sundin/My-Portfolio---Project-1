@@ -270,7 +270,7 @@ An introduction section to who I am and my professional background. This page al
 #### Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
 <details><summary><h2>Introductory text - Mobile Image</h2></summary><img src=></details>
-<details><summary><h2>Gallery- Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>Gallery- Desktop Image</h2></summary><img src=assets/files/Gallery-desktop.jpg></details>
 <details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=></details>
 
 #### Contact Page 
