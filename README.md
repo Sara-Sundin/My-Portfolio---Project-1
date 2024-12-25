@@ -250,7 +250,7 @@ All pages on the website has a navigation bar for easy access to all pages. The 
 
 ### Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
-<details><summary><h2>Contact section/button with text - Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>Contact section/button with text - Desktop Image</h2></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h2>Contact section/button with text - Mobile Image</h2></summary><img src=></details>
 <details><summary><h2>Contact section/button plain - Desktop Image</h2></summary><img src=assets/files/Button_plain-Desktop.jpg></details>
 <details><summary><h2>Contact section/button plain - Mobile Image</h2></summary><img src=assets/files/Button_plain-Mobile.jpg></details>
