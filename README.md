@@ -200,7 +200,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 
 # Design
 ## Colour Scheme
-![Colour Scheme]().
+![Colour Scheme](My-Portfolio---Project-1/assets/files/Colour Scheme.jpg).
 <br>
 <br>
 I have used a retro looking palette for the website that features a sophisticated mix of vibrant and soft tones. The primary colors are deep purple and subtle cream. This palette reflects a balance between boldness and approachability, evoking a sense of creativity and professionalism. It’s a versatile combination that works well for both striking highlights and subtle backgrounds.
