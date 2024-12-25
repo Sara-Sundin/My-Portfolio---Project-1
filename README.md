@@ -220,13 +220,13 @@ The images are either photographed by myself or with permission from their owner
 ## Wire Frames
 The wireframes were created in Illustrator for mobile, tablet and desktop.
 
-![Home Page Wireframe]()
+<details><summary><h2>Home Page Wireframe</h2></summary></details>
 
-![Projects Wireframe]()
+<details><summary><h2>Project Pages Wireframe</h2></summary></details>
 
-![Contact Form Wireframe]()
+<details><summary><h2>Contact Form Wireframe</h2></summary></details>
 
-![Success Wireframe]()
+<details><summary><h2>Success Page Wireframe</h2></summary></details>
 
 ## Features
 ## Accessibility
