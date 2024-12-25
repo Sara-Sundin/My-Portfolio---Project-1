@@ -6,16 +6,36 @@
 ## Introduction
 
 Welcome to my personal portfolio website! This project serves as a platform to showcase my skills, projects, and experience as a freelance designer. I am planning on showcasing this website to future potential employers.
+
+![Multi_Devices_Image](https://github.com/user-attachments/assets/8d6e12db-b7c9-4292-8b60-5328a3e554ab)
+
+# Content
+
+## Structure of the website
+## User experience
+## Design
+## Features
+## Tecnologies Used
+## Deployment
+## Testing
+## Credits    
+<br>
+
+# Structure of the website
+
 The website features 7 pages:
 
-# Home*
-- An introduction to who I am and my professional background.
+#### Home page 1
+An introduction to who I am and my professional background. This page
 
-*Portfolio*
-- A collection of my work, highlighting design projects I have completed. I will also include a link to a page for future web development projects. If there is not enough time to complete all pages in the portfolio I will link to a "coming soon" page.
+#### Portfolio pages page 2-5
+A collection of my work, highlighting design projects I have completed.
 
-*Contact*
-- A contact form and a success page for potential clients and collaborators to reach out to me.
+#### Contact page 6
+A contact form and a success page for potential clients and collaborators to reach out to me.
+
+#### Success page 7
+A success page that confirms that a user’s message has successfully been sent to provide reassurance.
 
 
 **Headings**
