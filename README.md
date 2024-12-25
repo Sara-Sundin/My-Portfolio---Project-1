@@ -253,7 +253,7 @@ All pages except the contact form and success page has two sections with action 
 <details><summary><h2>Contact section/button with text - Desktop Image</h2></summary><img src=></details>
 <details><summary><h2>Contact section/button with text - Mobile Image</h2></summary><img src=></details>
 <details><summary><h2>Contact section/button plain - Desktop Image</h2></summary><img src=assets/files/Button_plain-Desktop.jpg></details>
-<details><summary><h2>Contact section/button plain - Mobile Image</h2></summary><img src=></details>
+<details><summary><h2>Contact section/button plain - Mobile Image</h2></summary><img src=assets/files/Button_plain-Mobile.jpg></details>
 
 ### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
