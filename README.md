@@ -257,7 +257,7 @@ All pages except the contact form and success page has two sections with action 
 
 ### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
-<details><summary><h2>Footer Image</h2></summary><img src=></details>
+<details><summary><h2>Footer Image</h2></summary><img src=assets/files/Footer.jpg></details>
 
 #### Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
