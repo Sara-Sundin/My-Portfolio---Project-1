@@ -16,7 +16,12 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - My website across UX planes
 - User Stories
 ## Design
-## Features
+- Colour Scheme
+- Typography
+- Imagery
+- Wire Frames
+- Features
+- Accessibility
 ## Tecnologies Used
 ## Deployment
 ## Testing
@@ -86,7 +91,7 @@ Goal: Maintain ongoing trust and share feedback.
 - Submit a testimonial to share positive experiences and support the designer (User Story 8).
 
 <details>
-<summary><h2>User Stories In Detail</h2></summary>
+<summary><h2>**User Stories In Detail**</h2></summary>
 
 ### User Story 1 (must-have)
 As a visitor, I want to see a welcoming homepage with a brief introduction,  
@@ -192,6 +197,16 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Display a message like "Thank you for your feedback! Your testimonial will be reviewed and added shortly." upon successful submission.
 - Verify that submissions are stored correctly and review functionality works as expected.
 </details>
+
+# Design
+## Colour Scheme
+![Colour Scheme](https://github.com/user-attachments/assets/aa7512bf-7cd4-4b8b-9bb0-1a28df44c147)
+
+## Typography
+## Imagery
+## Wire Frames
+## Features
+## Accessibility
 
 
 
