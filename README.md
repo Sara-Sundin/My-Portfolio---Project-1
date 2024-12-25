@@ -222,11 +222,11 @@ The wireframes were created in Illustrator for mobile, tablet and desktop.
 
 <details><summary><h2>Home Page Wireframe</h2></summary><img src=assets/files/Wireframe_home.jpg></details>
 
-<details><summary><h2>Project Pages Wireframe</h2></summary><img src=assets/files/Wireframe_projects.jpg</details>
+<details><summary><h2>Project Pages Wireframe</h2></summary><img src=assets/files/Wireframe_projects.jpg></details>
 
-<details><summary><h2>Contact Form Wireframe</h2></summary><img src=assets/files/Wireframe_contact.jpg</details>
+<details><summary><h2>Contact Form Wireframe</h2></summary><img src=assets/files/Wireframe_contact.jpg></details>
 
-<details><summary><h2>Success Page Wireframe</h2></summary><img src=assets/files/Wireframe_success.jpg</details>
+<details><summary><h2>Success Page Wireframe</h2></summary><img src=assets/files/Wireframe_success.jpg></details>
 
 ## Features
 ## Accessibility
