@@ -21,7 +21,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Wire Frames
 - Features
 - Accessibility
-- Aria tags
+- Aria labels
 ## Technologies Used
 - Languages used to create the website
 - Frameworks
@@ -58,13 +58,13 @@ The site is organized with a logical flow:
 - A portfolio section allows in-depth exploration of my work.
 - A contact page facilitates direct communication.
 - Clear navigation ensures users can easily find the information they need without confusion.
-- 
+  
 ### Skeleton Plane
 The layout is clean and minimalist, with responsive grid systems and intuitive placement of elements.
 - Key features like the navigation bar, featured projects, and contact form are prominently displayed.
 - Buttons, links, and hover effects are designed to guide users naturally through the site.
 - The responsive design ensures usability across mobile, tablet, and desktop devices.
-- 
+  
 ### Surface Plane
 The visual design is professional and appealing, reflecting my style and brand identity.
 - Typography and color schemes are consistent and aesthetically pleasing, reinforcing trust and professionalism.
@@ -276,7 +276,7 @@ The website features six pages that are accessible from the navigation bar (home
 - Main Heading (h1): "Your message has been sent."
 
 #### Favicon
-I have generated a facicon at Favicon.io using the initials in my name (SS).
+I have generated a favicon at Favicon.io using the initials in my name (SS).
 
 #### Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
@@ -335,7 +335,33 @@ The following measures has been taken to make sure the website is accessible.
 - Scalable Text: Text can be resized without loss of content or functionality.
 - Accessibility Testing Tools: Lighthouse has been used to identify and address accessibility issues.
 
-## Aria-labels (in code)
+## ARIA Labels Used
+
+### Toggle Navigation Button:
+aria-controls="navbarSupportedContent"
+aria-expanded="false"
+aria-label="Toggle navigation"
+### Dropdown Menu:
+aria-expanded="false"
+aria-labelledby="projectsDropdown"
+### Download CV Link:
+aria-label="Download my CV in PDF format"
+### Portfolio Section:
+aria-label="Portfolio section showcasing design projects"
+### Carousel Indicators:
+aria-current="true"
+aria-label="Slide 1" (and similar for other slides)
+### Carousel Controls:
+aria-label="Previous"
+aria-label="Next"
+### Footer Links:
+aria-label="Navigate to the home page"
+aria-label="Navigate to the portfolio"
+aria-label="Navigate to the contact page"
+### Social Media Links:
+aria-label="Visit my Instagram page (opens in a new tab)"
+aria-label="Visit my LinkedIn page (opens in a new tab)"
+aria-label="Connect on Whatsapp (opens in a new tab)"
 
 # Technologies Used
 
