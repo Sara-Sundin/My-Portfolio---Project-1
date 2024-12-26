@@ -39,13 +39,13 @@ body {
 
 h1,
 h3,
+h4,
 h5,
 h6 {
     font-family: var(--primary-font);
 }
 
-h2,
-h4 {
+h2 {
     font-family: var(--secondary-font);
 }
 
@@ -208,8 +208,8 @@ h6 {
     color: black;
 }
 
-#about-me h4 {
-    padding-top: 10px;
+.heading-p {
+    font-size: 30px;
 }
 
 /* Portfolio Section */
@@ -408,7 +408,7 @@ footer a {
         position: relative;
         z-index: 2;
         background: transparent;
-        margin-bottom: 40px;
+        margin-bottom: 60px;
     }
 
     h1 {
@@ -473,7 +473,7 @@ footer a {
 
 @media screen and (min-width: 1400px) {
     #about-me {
-        margin-bottom: 70px;
+        margin-bottom: 80px;
     }
 }
 
