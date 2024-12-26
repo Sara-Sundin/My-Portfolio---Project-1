@@ -11,10 +11,10 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 # CONTENT
 
-## User experience
+## USER EXPERIENCE (UX)
 - My website across UX planes
 - User Stories
-## Design
+## DESIGN
 - Colour Scheme
 - Typography
 - Imagery
@@ -22,27 +22,30 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Features
 - Accessibility
 - Aria labels
-## Technologies Used
+## TECHNOLOGIES USED
 - Languages used to create the website
 - Frameworks
 - Software
 - Automated Tools
 - ChatGPT
-## Deployment
+## DEPLOYMENT
 - GitHub
-## Testing
+## TESTING
 - Devices
 - Browsers
 - Testing Grid
 - Lighthouse
 - Validators
-## Credits
+## REFERENCES
+- Media References
+- Content References
+## CREDITS
 - Images
 - Code
-## Acknowledgments
+## ACKNOWLEDGMENTS
 <br>
 
-# User Experience (UX)
+# USER EXPERIENCE (UX)
 
 ## My website across UX planes
 
@@ -217,7 +220,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Verify that submissions are stored correctly and review functionality works as expected.
 </details>
 
-# Design
+# DESIGN
 ## Colour Scheme
 ![Colour Scheme](assets/files/Colour_Scheme.jpg)
 <br>
@@ -247,9 +250,7 @@ The wireframes were created in Illustrator for mobile, tablet and desktop. I dev
 
 <details><summary><h4>Success Page Wireframe</h4></summary><img src=assets/files/Wireframe_success.jpg></details>
 
-## Features
-
-### Structure of the website
+## Structure of the website
 
 The website features six pages that are accessible from the navigation bar (home page, project pages, contact form. There is also a success page that displays once the user has filled in and pressed sent on the contact form.
 
@@ -275,6 +276,8 @@ The website features six pages that are accessible from the navigation bar (home
 #### Success Page
 - Main Heading (h1): "Your message has been sent."
 
+## Features on all pages
+
 ### Favicon
 I have generated a favicon at Favicon.io using the initials in my name (SS).
 
@@ -293,6 +296,8 @@ All pages except the contact form and success page has two sections with action 
 ### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
 <details><summary><h4>Footer Image</h4></summary><img src=assets/files/Footer.jpg></details>
+
+## Features page by page
 
 ### Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
@@ -372,7 +377,7 @@ aria-label="Visit my LinkedIn page (opens in a new tab)"
 <br>
 aria-label="Connect on Whatsapp (opens in a new tab)"
 
-# Technologies Used
+# TECHNOLOGIES USED
 ## Languages Used to Create the Website
 - HTML
 - CSS
@@ -396,7 +401,7 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 ## ChatGPT
 I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
-# Deployment (GitHub)
+# DEPLOYMENT (GitHub)
 
 ## Ensure your website files (HTML, CSS, JavaScript, etc.) are committed to a GitHub repository.
 - Go to Repository Settings
@@ -411,13 +416,13 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
 Visit this URL to view your deployed website.
 
-# Testing
+# TESTING
 ## Devices
 ### The testing on the site has been made on four different devices:
-Samsung Galaxy Mobile <br>
-Apple Tablet Small size <br>
-Apple Tablet Small size <br>
-Lenovo Desktop <br>
+Samsung Galaxy Mobile A25 <br>
+Apple IPad Mini <br>
+Apple IPad  <br>
+Lenovo Desktop 15" <br>
 
 ## Browsers
 ### The different browsers used for testing:
@@ -433,24 +438,34 @@ I have used a grid for testing all components of the website. After testing I ha
 
 ## Lighthouse
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
-<br>
+
 ### Home Page
-Improvement messages:
-- organise the headings for better accessability.
-- optimise the images further for better performance.
-<details><summary><h4>Home Page 2nd run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
+Improvement messages: 
+- Organise the headings for better accessability
+- Optimise the images further for better performance.
+<details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
+
 ### Project 1 Page 
-<details><summary><h4>Project Page1 1st run</h4></summary><img src=></details>
+<details><summary><h4>Project Page 1 First run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_1.jpg></details>
+
 ### Project 2 Page 
+Improvement message:
 - optimise the images further for better performance.
-<details><summary><h4>Project Page2 2nd run - after fixing the issues</h4></summary><img src=></details>
+<details><summary><h4>Project Page 2 Second run - after fixing the issues</h4></summary><img src=assets/files/lighthouse_2nd_test_projectpage_2.jpg></details>
+
 ### Project 3 Page
+Improvement message:
 - optimise the images further for better performance.
-<details><summary><h4>Project Page2 2nd run - after fixing the issues</h4></summary><img src=></details>
+<details><summary><h4>Project Page 3 Second run - after fixing the issues</h4></summary><img src=assets/files/lighthouse_2nd_test_projectpage_3.jpg></details>
+
 ### Project 4 Page 
+<details><summary><h4>Project Page 4 First run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_4.jpg></details>
 
 ### Contact Page 
+<details><summary><h4>Contact Page First run</h4></summary><img src=assets/files/lighthouse_1st_test_contactpage.jpg></details>
+
 ### Success Page
+<details><summary><h4>Contact Page First run</h4></summary><img src=assets/files/lighthouse_1st_test_successpage.jpg></details>
 
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
@@ -459,7 +474,9 @@ W3C HTML Validator
 
 W3C CSS Validator
 
-# Credits
+# REFERENCES
+
+# CREDITS
 Adobe Stock Photo for writing pen image <br>
 KA_YO Photos in Porfolio permitted usage from KA_YO <br>
 Photos for Five Seasons - taken by myself <br>
@@ -467,6 +484,6 @@ Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson <br>
 The Javascript for closing navbar from Code Institute <br>
 Code Institute (I have borrowed small snippets of code in the teaching material for Love Running and Boardwalk Games"
 
-# Acknowlegment
+# ACKNOWLEDGMENTS
 I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
 
