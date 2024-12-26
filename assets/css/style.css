@@ -52,7 +52,7 @@ h4 {
 /* Headings*/
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h2 {
@@ -93,7 +93,7 @@ h6 {
 .custom-button-outline {
     border: 3px solid var(--primary-color);
     padding: 7px 25px;
-    color: white;
+    color: var(--primary-color)
 }
 
 .custom-button-outline:hover {
@@ -188,6 +188,10 @@ h6 {
     align-items: center;          /* Center vertically */
 }
 
+.larger-heading {
+    font-size: 55px;
+}
+
 .padding-text {
     padding-left: 30px; 
     padding-top: 50px;        
@@ -255,7 +259,7 @@ h6 {
 /* Coming soon text*/
 
 .coming-soon {
-    font-size: 50px;
+    font-size: 35px;
     font-family: var(--primary-font);
     padding-top: 40px;
 }
@@ -341,12 +345,16 @@ footer a {
         align-items: center;          /* Center vertically */
     }
 
+    .larger-heading {
+        font-size: 80px;
+    }
+
     .padding-text {
         padding-left: 70px;        
     }
 
     h1 {
-        font-size: 70px;
+        font-size: 60px;
     }
 
     h2 {
@@ -400,7 +408,7 @@ footer a {
     }
 
     h1 {
-        font-size: 80px;
+        font-size: 70px;
     }
 
     h2 {
