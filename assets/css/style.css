@@ -149,6 +149,10 @@ h6 {
 
 /* Navbar*/
 
+.nav-link.active {
+   text-decoration: underline;
+}
+
 #navbar {
     padding-top: 10px;
     padding-bottom: 10px;
