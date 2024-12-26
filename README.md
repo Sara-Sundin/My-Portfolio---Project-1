@@ -223,7 +223,7 @@ Raleway: A modern sans-serif font known for its clean and minimalistic design, R
 The images are either photographed by myself or with permission from their owners. I have included these owners in the credits section.
 
 ## Wire Frames
-The wireframes were created in Illustrator for mobile, tablet and desktop.
+The wireframes were created in Illustrator for mobile, tablet and desktop. I developed my own toolkit to use for future wireframes.
 
 <details><summary><h4>Home Page Wireframe</h4></summary><img src=assets/files/Wireframe_home.jpg></details>
 
@@ -265,8 +265,8 @@ I have generated a facicon at Favicon.io using the initials in my name (SS).
 
 ## Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
-<details><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/files/Navigation bar desktop.jpg></details>
-<details><summary><h4>Navigation Bar Image - Mobile</h4></summary><img src=assets/files/Navigation bar mobile.jpg></details>
+<details><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/files/Navigation_bar-desktop.jpg></details>
+<details><summary><h4>Navigation Bar Image - Mobile</h4></summary><img src=assets/files/Navigation_bar-mobile.jpg></details>
 
 ## Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
