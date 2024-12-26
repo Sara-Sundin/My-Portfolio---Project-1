@@ -259,12 +259,13 @@ The website features six pages that are accessible from the navigation bar (home
 - Main Heading (h1): "Creative Developer"
 - Subheadings (h2): "Design & Fashion"
 - Subheadings (h3): "About Me, Projects"
+- Subheadings (h4): Portfolio Section "IKNW, Mini goes Wild, KA_YO_Prototype, Illustrations"
 - Subheadings (h4): "Let's Connect"
 
 #### Portfolio Pages
-- Main Heading (h1): "Projects"
-- Subheadings (h2): "Fashion Collaboration"
-- Subheadings (h3): "Projects 1,2,3,4"
+- Main Heading (h1): Main project "IKNW, Mini goes Wild, KA_YO_Prototype, Illustrations"
+- Subheadings (h3): "Projects"
+-  Subheadings (h4): Portfolio Section "IKNW, Mini goes Wild, KA_YO_Prototype, Illustrations"
 - Subheadings (h4): "Let's Connect"
 
 #### Contact Page
