@@ -505,11 +505,13 @@ I have included screenprints of the first and final validation of the HTML with 
 <details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
 <details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
+<div>
 ### Contact Page Fixes
 - added aria label for contact form
 - removed attribute type
 <details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
 <details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+</div>
 
 ### Success Page Fixes
 - no fixes
