@@ -438,14 +438,13 @@ I used Dev Tools Lightouse to help improve the website's performance, accessibil
 Improvement messages:
 - organise the headings for better accessability.
 - optimise the images further for better performance.
-<details><summary><h4>2nd run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
-
-### Project 1 Page 1st run with Lighthouse
-### Project 2 Page 1st run with Lighthouse
-### Project 3 Page 1st run with Lighthouse
-### Project 4 Page 1st run with Lighthouse
-### Contact Page 1st run with Lighthouse
-### Success Page 1st run with Lighthouse
+<details><summary><h4>Home Page 2nd run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
+### Project 1 Page 
+### Project 2 Page 
+### Project 3 Page
+### Project 4 Page 
+### Contact Page 
+### Success Page
 
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
