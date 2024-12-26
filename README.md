@@ -364,32 +364,28 @@ aria-label="Visit my LinkedIn page (opens in a new tab)"
 aria-label="Connect on Whatsapp (opens in a new tab)"
 
 # Technologies Used
-
-## Languages used to create the website
-HTML
-CSS
-Javascript
-
-## Frameworks
-Bootstrap
-Font Awesome
-Google Fonts
-Favicon.io
-Iloveimg.com - to compress images
-
+## Languages Used to Create the Website
+- HTML
+- CSS
+- JavaScript
+## Frameworks and Libraries
+- Bootstrap (for responsive design and styling)
+- Font Awesome (for icons)
+- Google Fonts (for typography)
+- Favicon.io (to create and manage favicons)
+- Iloveimg.com (to compress images for faster loading)
 ## Software
-Adobe Illustrator - for wireframes and hero image
-Adobe Photoshop
-Git - For version control.
-Github - To save and store the files for the website.
-
+- Adobe Illustrator (for wireframes and hero image creation)
+- Adobe Photoshop (for image editing and optimization)
+- Git (for version control)
+- GitHub (to save and store the website's code and files)
 ## Automated Tools
-Chrome Dev Tools
-Lighthouse
-Testing - Am i responsive, W3C HTML & CSS Validator
-
+- Chrome DevTools (for debugging and testing)
+- Lighthouse (to analyze performance, accessibility, and SEO)
+- Am I Responsive (to test responsive design on various devices)
+- W3C HTML & CSS Validator (to validate and check for coding errors)
 ## ChatGPT
-I have troughout the process used ChatGPT as a sparring partner in terms of ideas and problem solving.
+I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
 # Deployment (GitHub)
 
