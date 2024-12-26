@@ -42,7 +42,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 ## CREDITS
 - Images
 - Code
-## ACKNOwLEDGMENTS
+## ACKNOWLEDGMENTS
 <br>
 
 # USER EXPERIENCE (UX)
