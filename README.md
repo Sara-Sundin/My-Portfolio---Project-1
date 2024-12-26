@@ -517,6 +517,8 @@ I have included screenprints of the first and final validation of the HTML with 
 
 
 ### W3C CSS Validator
+The CSS was succesfully validated.
+![Screenshot of the CSS Validatin](assets/files/Validation CSS.jpg)
 
 # REFERENCES
 
