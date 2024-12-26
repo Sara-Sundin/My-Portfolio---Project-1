@@ -519,7 +519,7 @@ I have included screenprints of the first and final validation of the HTML with 
 ### W3C CSS Validator
 The CSS was succesfully validated.
 
-![Screenshot of the CSS Validation](assets/files/Validation CSS.jpg)
+![Screenshot of the CSS Validation](assets/files/Validation_CSS.jpg)
 
 # REFERENCES
 
