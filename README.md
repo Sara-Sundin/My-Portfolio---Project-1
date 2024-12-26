@@ -76,6 +76,7 @@ Goal: Maintain ongoing trust and share feedback.
 
 <details>
 <summary><h4>User Story 1 (must-have)</h4></summary>
+  
 ### User Story 1 (must-have)
 As a visitor, I want to see a welcoming homepage with a brief introduction,  
 so that I can quickly understand who the designer is and what they do.
@@ -92,6 +93,7 @@ so that I can quickly understand who the designer is and what they do.
 </details>
 <details>
 <summary><h4>User Story 2 (must-have)</h4></summary>
+  
 ### User Story 2 (must-have)
 As a potential client, I want to browse a portfolio of design projects so that I can evaluate the designer’s work and decide if I want to hire them.
 
@@ -106,6 +108,7 @@ As a potential client, I want to browse a portfolio of design projects so that I
 </details>
 <details>
 <summary><h4>User Story 3 (must-have)</h4></summary>
+  
 ### User Story 3 (must-have)
 As a user, I want to send a message from a contact form, so that I can easily inquire about services or collaborations.
 
@@ -121,6 +124,7 @@ As a user, I want to send a message from a contact form, so that I can easily in
 </details>
 <details>
 <summary><h4>User Story 4 (must-have)</h4></summary>
+  
 ### User Story 4* (must-have)
 As a user, I want to navigate the website easily on my device so that I can view content without unnecessary zooming or scrolling.
 
@@ -134,6 +138,7 @@ As a user, I want to navigate the website easily on my device so that I can view
 </details>
 <details>
 <summary><h4>User Story 5 (should-have)</h4></summary>
+  
 ### User Story 5 (should-have)
 As a user, I want to quickly have a look of some examples of work from the designer so that I can decide if I want to explore further.
 
@@ -150,19 +155,21 @@ As a user, I want to quickly have a look of some examples of work from the desig
 </details>
 <details>
 <summary><h4>User Story 6 (could-have)</h4></summary>
+  
 ### User Story 6 (could-have)
 As a potential client I want to download the designer’s CV so that I can review their qualifications and experience offline.
 
 #### Acceptance Criteria
 - A download button and/or link is available on the Home and Contact page.
 - Clicking the button provides a professionally formatted PDF version of the CV.
-- 
+
 #### Tasks
 - Add a prominent download button labeled "Download CV" and link it to the PDF file.
 - Test the download functionality to ensure the file is accessible.
 </details>
 <details>
 <summary><h4>User Story 7 (could-have)</h4></summary>
+  
 ### User Story 7 (could-have)
 As a possible client I want to read testimonials from previous clients or collaborators so that I can gain trust and confidence in the designer’s skills and professionalism.
 
@@ -180,6 +187,7 @@ As a possible client I want to read testimonials from previous clients or collab
 </details>
 <details>
 <summary><h4>User Story 8 (want-have)</h4></summary>
+  
 ### User Story 8 (want-have)
 As a satisfied client or collaborator I want to submit a testimonial to the website so that I can share my positive experience and support the designer’s credibility.
 
@@ -193,7 +201,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Store submitted testimonials in a database or as static content (if manually reviewed).
 - Display a message like "Thank you for your feedback! Your testimonial will be reviewed and added shortly." upon successful submission.
 - Verify that submissions are stored correctly and review functionality works as expected.
-<details>
+</details>
 
 # Design
 ## Colour Scheme
@@ -217,13 +225,13 @@ The images are either photographed by myself or with permission from their owner
 ## Wire Frames
 The wireframes were created in Illustrator for mobile, tablet and desktop.
 
-<details><summary><h2>Home Page Wireframe</h2></summary><img src=assets/files/Wireframe_home.jpg></details>
+<details><summary><h4>Home Page Wireframe</h4></summary><img src=assets/files/Wireframe_home.jpg></details>
 
-<details><summary><h2>Project Pages Wireframe</h2></summary><img src=assets/files/Wireframe_projects.jpg></details>
+<details><summary><h4>Project Pages Wireframe</h4></summary><img src=assets/files/Wireframe_projects.jpg></details>
 
-<details><summary><h2>Contact Form Wireframe</h2></summary><img src=assets/files/Wireframe_contact.jpg></details>
+<details><summary><h4>Contact Form Wireframe</h4></summary><img src=assets/files/Wireframe_contact.jpg></details>
 
-<details><summary><h2>Success Page Wireframe</h2></summary><img src=assets/files/Wireframe_success.jpg></details>
+<details><summary><h4>Success Page Wireframe</h4></summary><img src=assets/files/Wireframe_success.jpg></details>
 
 # Features
 
@@ -231,71 +239,70 @@ The wireframes were created in Illustrator for mobile, tablet and desktop.
 
 The website features six pages that are accessible from the navigation bar (home page, project pages, contact form. There is also a success page that displays once the user has filled in and pressed sent on the contact form.
 
-### Headings
+## Headings
 
-#### Home Page
+### Home Page
 - Title Heading: "Sara Sundin / Creative Developer
 - Main Heading (h1): "Creative Developer"
 - Subheadings (h2): "Design & Fashion"
 - Subheadings (h3): "About Me, Projects"
 - Subheadings (h4): "Let's Connect"
 
-#### Portfolio Pages
+### Portfolio Pages
 - Main Heading (h1): "Projects"
 - Subheadings (h2): "Fashion Collaboration"
 - Subheadings (h3): "Projects 1,2,3,4"
 - Subheadings (h4): "Let's Connect"
 
-#### Contact Page
+### Contact Page
 - Main Heading (h1): "Let's Connect."
 
-#### Success Page
+### Success Page
 - Main Heading (h1): "Your message has been sent."
 
-### Favicon
+## Favicon
+I have generated a facicon at Favicon.io using the initials in my name (SS).
 
-### Aria-tags (in code)
-
-### Navigation Bar
+## Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
-<details><summary><h2>Navigation Bar Image - Desktop</h2></summary><img src=assets/files/Navigation bar desktop.jpg></details>
-<details><summary><h2>Navigation Bar Image - Mobile</h2></summary><img src=assets/files/Navigation bar mobile.jpg></details>
+<details><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/files/Navigation bar desktop.jpg></details>
+<details><summary><h4>Navigation Bar Image - Mobile</h4></summary><img src=assets/files/Navigation bar mobile.jpg></details>
 
-### Buttons
+## Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
-<details><summary><h2>Contact section/button with text - Desktop Image</h2></summary><img src=assets/files/Button_text-Desktop.jpg></details>
-<details><summary><h2>Contact section/button with text - Mobile Image</h2></summary><img src=assets/files/Button_text-Mobile.jpg></details>
-<details><summary><h2>Contact section/button plain - Desktop Image</h2></summary><img src=assets/files/Button_plain-Desktop.jpg></details>
-<details><summary><h2>Contact section/button plain - Mobile Image</h2></summary><img src=assets/files/Button_plain-Mobile.jpg></details>
+<details><summary><h4>Contact section/button with text - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
+<details><summary><h4>Contact section/button with text - Mobile Image</h4></summary><img src=assets/files/Button_text-Mobile.jpg></details>
+<details><summary><h4>Contact section/button plain - Desktop Image</h4></summary><img src=assets/files/Button_plain-Desktop.jpg></details>
+<details><summary><h4>Contact section/button plain - Mobile Image</h4></summary><img src=assets/files/Button_plain-Mobile.jpg></details>
 
-### Footer
+## Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
-<details><summary><h2>Footer Image</h2></summary><img src=assets/files/Footer.jpg></details>
+<details><summary><h4>Footer Image</h4></summary><img src=assets/files/Footer.jpg></details>
 
-#### Home Page
+## Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
-<details><summary><h2>About Me Section - Desktop Image</h2></summary><img src=assets/files/Button_text-Desktop.jpg></details>
-<details><summary><h2>About Me Section - Mobile Image</h2></summary><img src=assets/files/About_me-Mobile.jpg></details>
-<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=assets/files/Button_text-Desktop.jpg></details>
-<details><summary><h2>Portfolio Section - Desktop Image</h2></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
-<details><summary><h2>Testimonial Section - Mobile Image</h2></summary><img src=assets/files/Testimonials-mobile.jpg></details>
+<details><summary><h4>About Me Section - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
+<details><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/files/About_me-Mobile.jpg></details>
+<details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
+<details><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
+<details><summary><h4>Testimonial Section - Mobile Image</h4></summary><img src=assets/files/Testimonials-mobile.jpg></details>
 
-#### Project Pages
+## Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
-<details><summary><h2>Introductory text - Mobile Image</h2></summary><img src=assets/files/Info_projects-mobile.jpg></details>
-<details><summary><h2>Gallery- Desktop Image</h2></summary><img src=assets/files/Gallery-desktop.jpg></details>
-<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=assets/files/portfolio_project_pages-tablet.jpg></details>
+<details><summary><h4>Introductory text - Mobile Image</h4></summary><img src=assets/files/Info_projects-mobile.jpg></details>
+<details><summary><h4>Gallery- Desktop Image</h4></summary><img src=assets/files/Gallery-desktop.jpg></details>
+<details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/portfolio_project_pages-tablet.jpg></details>
 
-#### Contact Page 
+## Contact Page 
 A contact form and a success page for potential clients and collaborators to reach out to me. This page includes a section with text with information and a form added with Bootstrap.
-<details><summary><h2>Informational text - Tablet Image</h2></summary><img src=assets/files/contact_info-tablet.jpg></details>
-<details><summary><h2>Contact form - Mobile Image</h2></summary><img src=assets/files/contact_form-mobile.jpg></details>
+<details><summary><h4>Informational text - Tablet Image</h4></summary><img src=assets/files/contact_info-tablet.jpg></details>
+<details><summary><h4>Contact form - Mobile Image</h4></summary><img src=assets/files/contact_form-mobile.jpg></details>
 
-#### Success Page 
+## Success Page 
 A success page that confirms that a user’s message has successfully been sent to provide reassurance. The page includes a responisive section with text and an image of a sent icon.
-<details><summary><h2>Success text - Desktop Image</h2></summary><img src=assets/files/sent_message_desktop.jpg></details>
+<details><summary><h4>Success text - Desktop Image</h4></summary><img src=assets/files/sent_message_desktop.jpg></details>
 
-#### Future Pages 
+## Future Pages 
 Possibility for users to add testimonials directly on the site using a form. This will also include a success page to confirm the testimonial is being reviewed. There will also be more project pages added once projects are completed. Another feature could be a blog for users to see information and sneekpeeks of current projects that has not yet been completed.
 
 # Accessibility
@@ -313,28 +320,36 @@ The following measures has been taken to make sure the website is accessible.
 - Scalable Text: Text can be resized without loss of content or functionality.
 - Accessibility Testing Tools: Lighthouse has been used to identify and address accessibility issues.
 
+## Aria-tags (in code)
+
 # Technologies Used
-## Languages Used to create the website
+
+## Languages used to create the website
 HTML
 CSS
 Javascript
 
+## Frameworks
 Bootstrap
-Illustrator - for wireframes and hero image
-Lighthouse
-Testing - Am i responsible, HTML Validator, CSS Validator
+Font Awesome
+Google Fonts
+Favicon.io
+Iloveimg.com - to compress images
+
+## Software
+Adobe Illustrator - for wireframes and hero image
+Adobe Photoshop
 Git - For version control.
 Github - To save and store the files for the website.
-Google Fonts
-Font Awesome
+
+## Automated Tools
 Crome Dev Tools
-Favicon.io
-Photoshop
-Iloveimg.com - to compress images
-Am I responsive?
+Lighthouse
+Testing - Am i responsive, W3C HTML & CSS Validator
 
+# ChatGPT
+I have troughout the process used ChatGPT as a sparring partner in terms of ideas and problem solving.
 
-  
 # Deployment
 
 ## Ensure your website files (HTML, CSS, JavaScript, etc.) are committed to a GitHub repository.
@@ -350,10 +365,32 @@ Am I responsive?
 After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
 Visit this URL to view your deployed website.
 
-
 # Testing
+## The testing on the site has been made on four different devices as below:
+Samsung Galaxy 
+Apple Tablet
+Apple Tablet
+Lenovo Desktop
+
+## The different browsers used for testing includes:
+Google Chrome
+Microsoft Edge
+Safari
+Firefox
+
+## See testing grid in dropdown menu
+
+## Validation of the code
+The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
+
+W3C HTML Validator
+
+W3C CSS Validator
+
 
 # Credits
-Adobe Stock Photos
-KA_YO Photos in Porfolio
+Adobe Stock Photo for writing pen image
+KA_YO Photos in Porfolio permitted usage from KA_YO
+Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson
+The Javascript for closing navbar from Code Institute
 
