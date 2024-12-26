@@ -75,8 +75,7 @@ Goal: Maintain ongoing trust and share feedback.
 - Submit a testimonial to share positive experiences and support the designer (User Story 8).
 
 <details>
-<summary><h2>**User Stories In Detail**</h2></summary>
-
+<summary><h4>User Story 1 (must-have)</h4></summary>
 ### User Story 1 (must-have)
 As a visitor, I want to see a welcoming homepage with a brief introduction,  
 so that I can quickly understand who the designer is and what they do.
@@ -90,7 +89,9 @@ so that I can quickly understand who the designer is and what they do.
 - Design a clean homepage layout.
 - Add a welcome message and introductory text.
 - Include a professional photo and navigation links.
-
+</details>
+<details>
+<summary><h4>User Story 2 (must-have)</h4></summary>
 ### User Story 2 (must-have)
 As a potential client, I want to browse a portfolio of design projects so that I can evaluate the designer’s work and decide if I want to hire them.
 
@@ -102,7 +103,9 @@ As a potential client, I want to browse a portfolio of design projects so that I
 - Create a Portfolio page template.
 - Add a grid layout for project thumbnails.
 - Include hover effects with links to project details.
-
+</details>
+<details>
+<summary><h4>User Story 3 (must-have)</h4></summary>
 ### User Story 3 (must-have)
 As a user, I want to send a message from a contact form, so that I can easily inquire about services or collaborations.
 
@@ -115,7 +118,9 @@ As a user, I want to send a message from a contact form, so that I can easily in
 - Design a contact form layout.
 - Implement form validation for required fields.
 - Configure email submission functionality.
-
+</details>
+<details>
+<summary><h4>User Story 4 (must-have)</h4></summary>
 ### User Story 4* (must-have)
 As a user, I want to navigate the website easily on my device so that I can view content without unnecessary zooming or scrolling.
 
@@ -126,8 +131,10 @@ As a user, I want to navigate the website easily on my device so that I can view
 #### Tasks
 - Use responsive design principles (media queries).
 - Test the layout on various devices and screen resolutions.
-
-### User Story 5* (should-have)
+</details>
+<details>
+<summary><h4>User Story 5 (should-have)</h4></summary>
+### User Story 5 (should-have)
 As a user, I want to quickly have a look of some examples of work from the designer so that I can decide if I want to explore further.
 
 #### Acceptance Criteria
@@ -140,8 +147,10 @@ As a user, I want to quickly have a look of some examples of work from the desig
 - Choose 3–5 images to highlight as examples of the designer’s work.
 - Ensure links work properly across devices.
 - Check for responsiveness and loading speed.
-
-### User Story 6* (could-have)
+</details>
+<details>
+<summary><h4>User Story 6 (could-have)</h4></summary>
+### User Story 6 (could-have)
 As a potential client I want to download the designer’s CV so that I can review their qualifications and experience offline.
 
 #### Acceptance Criteria
@@ -151,8 +160,10 @@ As a potential client I want to download the designer’s CV so that I can revie
 #### Tasks
 - Add a prominent download button labeled "Download CV" and link it to the PDF file.
 - Test the download functionality to ensure the file is accessible.
-
-### User Story 7* (could-have)
+</details>
+<details>
+<summary><h4>User Story 7 (could-have)</h4></summary>
+### User Story 7 (could-have)
 As a possible client I want to read testimonials from previous clients or collaborators so that I can gain trust and confidence in the designer’s skills and professionalism.
 
 #### Acceptance Criteria
@@ -166,8 +177,10 @@ As a possible client I want to read testimonials from previous clients or collab
 - Develop functionality to display testimonials in a structured format (e.g., carousel, cards).
 - Add placeholder for the initial launch.
 - Test the section for readability and responsiveness on various devices.
-
-  ### User Story 8* (want-have)
+</details>
+<details>
+<summary><h4>User Story 8 (want-have)</h4></summary>
+### User Story 8 (want-have)
 As a satisfied client or collaborator I want to submit a testimonial to the website so that I can share my positive experience and support the designer’s credibility.
 
 #### Acceptance Criteria
@@ -180,7 +193,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Store submitted testimonials in a database or as static content (if manually reviewed).
 - Display a message like "Thank you for your feedback! Your testimonial will be reviewed and added shortly." upon successful submission.
 - Verify that submissions are stored correctly and review functionality works as expected.
-</details>
+<details>
 
 # Design
 ## Colour Scheme
