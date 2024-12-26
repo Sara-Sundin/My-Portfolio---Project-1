@@ -414,21 +414,22 @@ Visit this URL to view your deployed website.
 # Testing
 ## Devices
 ### The testing on the site has been made on four different devices:
-Samsung Galaxy Mobile
-Apple Tablet Small size
-Apple Tablet Small size
-Lenovo Desktop
+Samsung Galaxy Mobile <br>
+Apple Tablet Small size <br>
+Apple Tablet Small size <br>
+Lenovo Desktop <br>
 
 ## Browsers
 ### The different browsers used for testing:
-Google Chrome
-Microsoft Edge
-Safari
-Firefox
-Samsung Internet
+Google Chrome <br>
+Microsoft Edge <br>
+Safari <br>
+Firefox <br>
+Samsung Internet <br>
 
 ## Testing grid
 I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet from a free template.
+ <br>
 
 ## Lighthouse
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages to organise the headings for better accessability and to optimise the images further for better performance. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green in the 2nd run of Lighthouse.
