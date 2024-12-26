@@ -35,10 +35,6 @@ body {
     color: white;
 }
 
-.red-orange-text {
-    color: var(--highlight-color);
-}
-
 /* Fonts*/
 
 h1,
@@ -54,18 +50,6 @@ h4 {
 }
 
 /* Headings*/
-
-h1,
-h2,
-h3,
-h4,
-h5 {
-    color: var(--primary-color);
-}
-
-h6 {
-    color: white;
-}
 
 h1 {
     font-size: 50px;
@@ -289,6 +273,7 @@ h6 {
     font-size: 40px;
     font-family: var(--primary-font);
     padding-top: 30px;
+    color: white;
 }
 
 /*Success page*/
