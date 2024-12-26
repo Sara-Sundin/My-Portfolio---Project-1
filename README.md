@@ -414,10 +414,10 @@ Visit this URL to view your deployed website.
 # Testing
 ## Devices
 ### The testing on the site has been made on four different devices:
-Samsung Galaxy Mobile <br>
-Apple Tablet Small size <br>
-Apple Tablet Small size <br>
-Lenovo Desktop <br>
+Samsung Galaxy Mobile A25 <br>
+Apple IPad Mini <br>
+Apple IPad  <br>
+Lenovo Desktop 15" <br>
 
 ## Browsers
 ### The different browsers used for testing:
