@@ -1,6 +1,6 @@
 ### Project 1
 
-# MY-PORTFOLIO WEBSITE
+# My-Portfolio Website
 
 
 ## Introduction
