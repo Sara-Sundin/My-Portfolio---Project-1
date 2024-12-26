@@ -470,7 +470,38 @@ Improvement message:
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
 
-W3C HTML Validator
+### W3C HTML Validator
+I have included screenprints of the first and final validation of the HTML with W3C validation on all pages. Mostly I needed to remove spaces from the images.
+<br>
+Fixes
+- remove spaces from images
+<details><summary><h4>Home Page-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Home Page-Final Check </h4></summary><img src=></details>
+
+- remove spaces from images
+<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Project Page 1-Final Check </h4></summary><img src=></details>
+
+- remove spaces from images
+<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Project Page 2-Final Check </h4></summary><img src=></details>
+
+- remove spaces from images
+<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Project Page 3-Final Check </h4></summary><img src=></details>
+
+- remove spaces from images
+<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Project Page 4-Final Check </h4></summary><img src=></details>
+
+- remove spaces from images
+<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Contact Page-Final Check </h4></summary><img src=></details>
+
+- remove spaces from images
+<details><summary><h4>Success Page-Initial Check </h4></summary><img src=></details>
+<details><summary><h4>Success Page-Final Check </h4></summary><img src=></details>
+
 
 W3C CSS Validator
 
