@@ -21,7 +21,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Wire Frames
 - Features
 - Accessibility
-## Tecnologies Used
+## Technologies Used
 ## Deployment
 ## Testing
 ## Credits    
@@ -261,26 +261,26 @@ All pages has a footer that is responsive for all screens. The footer includes l
 
 #### Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
-<details><summary><h2>About Me Section - Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>About Me Section - Desktop Image</h2></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h2>About Me Section - Mobile Image</h2></summary><img src=assets/files/About_me-Mobile.jpg></details>
-<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=></details>
-<details><summary><h2>Portfolio Section - Desktop Image</h2></summary><img src=></details>
-<details><summary><h2>Testimonial Section - Mobile Image</h2></summary><img src=></details>
+<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=assets/files/Button_text-Desktop.jpg></details>
+<details><summary><h2>Portfolio Section - Desktop Image</h2></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
+<details><summary><h2>Testimonial Section - Mobile Image</h2></summary><img src=assets/files/Testimonials-mobile.jpg></details>
 
 #### Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
 <details><summary><h2>Introductory text - Mobile Image</h2></summary><img src=assets/files/Info_projects-mobile.jpg></details>
 <details><summary><h2>Gallery- Desktop Image</h2></summary><img src=assets/files/Gallery-desktop.jpg></details>
-<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=></details>
+<details><summary><h2>Portfolio Section - Tablet Image</h2></summary><img src=assets/files/portfolio_project_pages-tablet.jpg></details>
 
 #### Contact Page 
 A contact form and a success page for potential clients and collaborators to reach out to me. This page includes a section with text with information and a form added with Bootstrap.
-<details><summary><h2>Informational text - Tablet Image</h2></summary><img src=></details>
-<details><summary><h2>Contact form - Mobile Image</h2></summary><img src=></details>
+<details><summary><h2>Informational text - Tablet Image</h2></summary><img src=assets/files/contact_info-tablet.jpg></details>
+<details><summary><h2>Contact form - Mobile Image</h2></summary><img src=assets/files/contact_form-mobile.jpg></details>
 
 #### Success Page 
 A success page that confirms that a user’s message has successfully been sent to provide reassurance. The page includes a responisive section with text and an image of a sent icon.
-<details><summary><h2>Success text - Desktop Image</h2></summary><img src=></details>
+<details><summary><h2>Success text - Desktop Image</h2></summary><img src=assets/files/sent_message_desktop.jpg></details>
 
 #### Future Pages 
 Possibility for users to add testimonials directly on the site using a form. This will also include a success page to confirm the testimonial is being reviewed. There will also be more project pages added once projects are completed. Another feature could be a blog for users to see information and sneekpeeks of current projects that has not yet been completed.
