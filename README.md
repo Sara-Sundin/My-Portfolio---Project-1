@@ -435,7 +435,10 @@ I have used a grid for testing all components of the website. After testing I ha
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
 <br>
 ### Home Page
-Improvement messages: Organise the headings for better accessability, optimise the images further for better performance. <details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
+Improvement messages: 
+- Organise the headings for better accessability
+- Optimise the images further for better performance.
+<details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
 
 ### Project 1 Page 
 <details><summary><h4>Project Page 1 First run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_1.jpg></details>
