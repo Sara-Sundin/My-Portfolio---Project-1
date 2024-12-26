@@ -440,9 +440,15 @@ Improvement messages:
 - optimise the images further for better performance.
 <details><summary><h4>Home Page 2nd run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
 ### Project 1 Page 
+<details><summary><h4>Project Page1 1st run</h4></summary><img src=></details>
 ### Project 2 Page 
+- optimise the images further for better performance.
+<details><summary><h4>Project Page2 2nd run - after fixing the issues</h4></summary><img src=></details>
 ### Project 3 Page
+- optimise the images further for better performance.
+<details><summary><h4>Project Page2 2nd run - after fixing the issues</h4></summary><img src=></details>
 ### Project 4 Page 
+
 ### Contact Page 
 ### Success Page
 
