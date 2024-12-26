@@ -21,7 +21,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Wire Frames
 - Features
 - Accessibility
-- Aria tags
+- Aria labels
 ## Technologies Used
 - Languages used to create the website
 - Frameworks
@@ -34,6 +34,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Devices
 - Browsers
 - Testing Grid
+- Lighthouse
 - Validators
 ## Credits
 - Images
@@ -57,13 +58,13 @@ The site is organized with a logical flow:
 - A portfolio section allows in-depth exploration of my work.
 - A contact page facilitates direct communication.
 - Clear navigation ensures users can easily find the information they need without confusion.
-- 
+  
 ### Skeleton Plane
 The layout is clean and minimalist, with responsive grid systems and intuitive placement of elements.
 - Key features like the navigation bar, featured projects, and contact form are prominently displayed.
 - Buttons, links, and hover effects are designed to guide users naturally through the site.
 - The responsive design ensures usability across mobile, tablet, and desktop devices.
-- 
+  
 ### Surface Plane
 The visual design is professional and appealing, reflecting my style and brand identity.
 - Typography and color schemes are consistent and aesthetically pleasing, reinforcing trust and professionalism.
@@ -259,12 +260,13 @@ The website features six pages that are accessible from the navigation bar (home
 - Main Heading (h1): "Creative Developer"
 - Subheadings (h2): "Design & Fashion"
 - Subheadings (h3): "About Me, Projects"
+- Subheadings (h4): Portfolio Section "IKNW, Mini goes Wild, KA_YO_Prototype, Illustrations"
 - Subheadings (h4): "Let's Connect"
 
 #### Portfolio Pages
-- Main Heading (h1): "Projects"
-- Subheadings (h2): "Fashion Collaboration"
-- Subheadings (h3): "Projects 1,2,3,4"
+- Main Heading (h1): Main project "IKNW, Mini goes Wild, KA_YO_Prototype, Illustrations"
+- Subheadings (h3): "Projects"
+-  Subheadings (h4): Portfolio Section "IKNW, Mini goes Wild, KA_YO_Prototype, Illustrations"
 - Subheadings (h4): "Let's Connect"
 
 #### Contact Page
@@ -273,26 +275,26 @@ The website features six pages that are accessible from the navigation bar (home
 #### Success Page
 - Main Heading (h1): "Your message has been sent."
 
-#### Favicon
-I have generated a facicon at Favicon.io using the initials in my name (SS).
+### Favicon
+I have generated a favicon at Favicon.io using the initials in my name (SS).
 
-#### Navigation Bar
+### Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
 <details><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/files/Navigation_bar-desktop.jpg></details>
 <details><summary><h4>Navigation Bar Image - Mobile</h4></summary><img src=assets/files/Navigation_bar-mobile.jpg></details>
 
-#### Buttons
+### Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
 <details><summary><h4>Contact section/button with text - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h4>Contact section/button with text - Mobile Image</h4></summary><img src=assets/files/Button_text-Mobile.jpg></details>
 <details><summary><h4>Contact section/button plain - Desktop Image</h4></summary><img src=assets/files/Button_plain-Desktop.jpg></details>
 <details><summary><h4>Contact section/button plain - Mobile Image</h4></summary><img src=assets/files/Button_plain-Mobile.jpg></details>
 
-#### Footer
+### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
 <details><summary><h4>Footer Image</h4></summary><img src=assets/files/Footer.jpg></details>
 
-#### Home Page
+### Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
 <details><summary><h4>About Me Section - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/files/About_me-Mobile.jpg></details>
@@ -300,22 +302,22 @@ An introduction section to who I am and my professional background. This page al
 <details><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
 <details><summary><h4>Testimonial Section - Mobile Image</h4></summary><img src=assets/files/Testimonials-mobile.jpg></details>
 
-#### Project Pages
+### Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
 <details><summary><h4>Introductory text - Mobile Image</h4></summary><img src=assets/files/Info_projects-mobile.jpg></details>
 <details><summary><h4>Gallery- Desktop Image</h4></summary><img src=assets/files/Gallery-desktop.jpg></details>
 <details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/portfolio_project_pages-tablet.jpg></details>
 
-#### Contact Page 
+### Contact Page 
 A contact form and a success page for potential clients and collaborators to reach out to me. This page includes a section with text with information and a form added with Bootstrap.
 <details><summary><h4>Informational text - Tablet Image</h4></summary><img src=assets/files/contact_info-tablet.jpg></details>
 <details><summary><h4>Contact form - Mobile Image</h4></summary><img src=assets/files/contact_form-mobile.jpg></details>
 
-#### Success Page 
+### Success Page 
 A success page that confirms that a user’s message has successfully been sent to provide reassurance. The page includes a responisive section with text and an image of a sent icon.
 <details><summary><h4>Success text - Desktop Image</h4></summary><img src=assets/files/sent_message_desktop.jpg></details>
 
-#### Future Pages 
+### Future Pages 
 Possibility for users to add testimonials directly on the site using a form. This will also include a success page to confirm the testimonial is being reviewed. There will also be more project pages added once projects are completed. Another feature could be a blog for users to see information and sneekpeeks of current projects that has not yet been completed.
 
 ## Accessibility
@@ -333,35 +335,66 @@ The following measures has been taken to make sure the website is accessible.
 - Scalable Text: Text can be resized without loss of content or functionality.
 - Accessibility Testing Tools: Lighthouse has been used to identify and address accessibility issues.
 
-## Aria-labels (in code)
+## ARIA Labels Used
+
+### Toggle Navigation Button:
+aria-controls="navbarSupportedContent"
+<br>
+aria-expanded="false"
+<br>
+aria-label="Toggle navigation"
+### Dropdown Menu:
+aria-expanded="false"
+<br>
+aria-labelledby="projectsDropdown"
+### Download CV Link:
+aria-label="Download my CV in PDF format"
+### Portfolio Section:
+aria-label="Portfolio section showcasing design projects"
+### Carousel Indicators:
+aria-current="true"
+<br>
+aria-label="Slide 1" (and similar for other slides)
+### Carousel Controls:
+aria-label="Previous"
+<br>
+aria-label="Next"
+### Footer Links:
+aria-label="Navigate to the home page"
+<br>
+aria-label="Navigate to the portfolio"
+<br>
+aria-label="Navigate to the contact page"
+### Social Media Links:
+aria-label="Visit my Instagram page (opens in a new tab)"
+<br>
+aria-label="Visit my LinkedIn page (opens in a new tab)"
+<br>
+aria-label="Connect on Whatsapp (opens in a new tab)"
 
 # Technologies Used
-
-## Languages used to create the website
-HTML
-CSS
-Javascript
-
-## Frameworks
-Bootstrap
-Font Awesome
-Google Fonts
-Favicon.io
-Iloveimg.com - to compress images
-
+## Languages Used to Create the Website
+- HTML
+- CSS
+- JavaScript
+## Frameworks and Libraries
+- Bootstrap (for responsive design and styling)
+- Font Awesome (for icons)
+- Google Fonts (for typography)
+- Favicon.io (to create and manage favicons)
+- Iloveimg.com (to compress images for faster loading)
 ## Software
-Adobe Illustrator - for wireframes and hero image
-Adobe Photoshop
-Git - For version control.
-Github - To save and store the files for the website.
-
+- Adobe Illustrator (for wireframes and hero image creation)
+- Adobe Photoshop (for image editing and optimization)
+- Git (for version control)
+- GitHub (to save and store the website's code and files)
 ## Automated Tools
-Chrome Dev Tools
-Lighthouse
-Testing - Am i responsive, W3C HTML & CSS Validator
-
+- Chrome DevTools (for debugging and testing)
+- Lighthouse (to analyze performance, accessibility, and SEO)
+- Am I Responsive (to test responsive design on various devices)
+- W3C HTML & CSS Validator (to validate and check for coding errors)
 ## ChatGPT
-I have troughout the process used ChatGPT as a sparring partner in terms of ideas and problem solving.
+I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
 # Deployment (GitHub)
 
@@ -381,21 +414,38 @@ Visit this URL to view your deployed website.
 # Testing
 ## Devices
 ### The testing on the site has been made on four different devices:
-Samsung Galaxy Mobile
-Apple Tablet Small size
-Apple Tablet Small size
-Lenovo Desktop
+Samsung Galaxy Mobile <br>
+Apple Tablet Small size <br>
+Apple Tablet Small size <br>
+Lenovo Desktop <br>
 
 ## Browsers
 ### The different browsers used for testing:
-Google Chrome
-Microsoft Edge
-Safari
-Firefox
-Samsung Internet
+Google Chrome <br>
+Microsoft Edge <br>
+Safari <br>
+Firefox <br>
+Samsung Internet <br>
 
 ## Testing grid
-I have used a grid for testing all components of the website. See below dropdown menu for the grid used.
+I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet from a free template.
+ <br>
+
+## Lighthouse
+I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
+<br>
+### Home Page
+Improvement messages:
+- organise the headings for better accessability.
+- optimise the images further for better performance.
+<details><summary><h4>2nd run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
+
+### Project 1 Page 1st run with Lighthouse
+### Project 2 Page 1st run with Lighthouse
+### Project 3 Page 1st run with Lighthouse
+### Project 4 Page 1st run with Lighthouse
+### Contact Page 1st run with Lighthouse
+### Success Page 1st run with Lighthouse
 
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
@@ -404,16 +454,14 @@ W3C HTML Validator
 
 W3C CSS Validator
 
-Lighthouse
-
-
 # Credits
-Adobe Stock Photo for writing pen image
-KA_YO Photos in Porfolio permitted usage from KA_YO
-Photos for Five Seasons - taken by myself
-Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson
-The Javascript for closing navbar from Code Institute
+Adobe Stock Photo for writing pen image <br>
+KA_YO Photos in Porfolio permitted usage from KA_YO <br>
+Photos for Five Seasons - taken by myself <br>
+Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson <br>
+The Javascript for closing navbar from Code Institute <br>
+Code Institute (I have borrowed small snippets of code in the teaching material for Love Running and Boardwalk Games"
 
 # Acknowlegment
-Thank you to my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
+I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
 
