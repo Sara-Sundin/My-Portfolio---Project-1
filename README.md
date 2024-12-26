@@ -438,29 +438,29 @@ I used Dev Tools Lightouse to help improve the website's performance, accessibil
 Improvement messages:
 - organise the headings for better accessability.
 - optimise the images further for better performance.
-<details><summary><h4>Home Page 2nd run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
+<details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/files/Lighthouse_2nd_Test-Desktop.jpg></details>
 
 ### Project 1 Page 
-<details><summary><h4>Project Page1 1st run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_1.jpg></details>
+<details><summary><h4>Project Page 1 First run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_1.jpg></details>
 
 ### Project 2 Page 
 Improvement message:
 - optimise the images further for better performance.
-<details><summary><h4>Project Page 2 2nd run - after fixing the issues</h4></summary><img src=assets/files/lighthouse_2nd_test_projectpage_2.jpg></details>
+<details><summary><h4>Project Page 2 Second run - after fixing the issues</h4></summary><img src=assets/files/lighthouse_2nd_test_projectpage_2.jpg></details>
 
 ### Project 3 Page
 Improvement message:
 - optimise the images further for better performance.
-<details><summary><h4>Project Page 3 2nd run - after fixing the issues</h4></summary><img src=assets/files/lighthouse_2nd_test_projectpage_3.jpg></details>
+<details><summary><h4>Project Page 3 Second run - after fixing the issues</h4></summary><img src=assets/files/lighthouse_2nd_test_projectpage_3.jpg></details>
 
 ### Project 4 Page 
-<details><summary><h4>Project Page 4 1st run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_4.jpg></details>
+<details><summary><h4>Project Page 4 First run</h4></summary><img src=assets/files/lighthouse_1st_test_projectpage_4.jpg></details>
 
 ### Contact Page 
-<details><summary><h4>Contact Page 1st run</h4></summary><img src=assets/files/lighthouse_1st_test_contactpage.jpg></details>
+<details><summary><h4>Contact Page First run</h4></summary><img src=assets/files/lighthouse_1st_test_contactpage.jpg></details>
 
 ### Success Page
-<details><summary><h4>Contact Page 1st run</h4></summary><img src=assets/files/lighthouse_1st_test_successpage.jpg></details>
+<details><summary><h4>Contact Page First run</h4></summary><img src=assets/files/lighthouse_1st_test_successpage.jpg></details>
 
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
