@@ -307,9 +307,9 @@ Possibility for users to add testimonials directly on the site using a form. Thi
 
 # Accessibility
 The following measures has been taken to make sure the website is accessible.
-- Semantic Elements: Elements like <header>, <nav>, <main>, and <footer> are used to provide clear structure, making it easier for screen readers to interpret content.
-- Descriptive Headings: Properly structured heading levels (e.g., <h1>, <h2>, <h3>) to create a logical document outline.
-- Alt Attributes: Every image includes meaningful alt text (e.g., <img src="example.jpg" alt="description">), ensuring visually impaired users understand the content.
+- Semantic Elements: Elements like header, main, and footer are used to provide clear structure, making it easier for screen readers to interpret content.
+- Descriptive Headings: Properly structured heading levels (e.g., h1, h2, h3) to create a logical document outline.
+- Alt Attributes: Every image includes meaningful alt text, ensuring visually impaired users understand the content.
 - Focusable Elements: Navigation links, buttons, and forms are fully accessible using only the keyboard (e.g., via tab and enter keys).
 - High Contrast: Text and background colors are chosen to meet the standards.
 - Flexible Layouts: The website is fully responsive, ensuring accessibility across various devices, including desktops, tablets, and smartphones.
@@ -320,7 +320,7 @@ The following measures has been taken to make sure the website is accessible.
 - Scalable Text: Text can be resized without loss of content or functionality.
 - Accessibility Testing Tools: Lighthouse has been used to identify and address accessibility issues.
 
-## Aria-tags (in code)
+## Aria-labels (in code)
 
 # Technologies Used
 
@@ -391,6 +391,10 @@ W3C CSS Validator
 # Credits
 Adobe Stock Photo for writing pen image
 KA_YO Photos in Porfolio permitted usage from KA_YO
+Photos for Five Seasons - taken by myself
 Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson
 The Javascript for closing navbar from Code Institute
+
+# Acknowlegment
+Thank you to my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
 
