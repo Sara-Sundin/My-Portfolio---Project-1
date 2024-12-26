@@ -473,54 +473,47 @@ The HTML and CSS code has been validated on below editors. The issues arising ha
 ## W3C HTML Validator
 I have included screenprints of the first and final validation of the HTML with W3C validation on all pages. Mostly I needed to remove spaces from the images.
 <br>
-<details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_homepage.jpg></details>
-<details><summary><h4>Home Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
-
 ### Home Page Fixes
 - remove spaces from images
-- 
-<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
-<details><summary><h4>Project Page 1-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+<details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_homepage.jpg></details>
+<details><summary><h4>Home Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 1 Fixes
 - remove spaces from images
 - added aria label on gallery
 - added main opening tag
-  
-<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
-<details><summary><h4>Project Page 2-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
+<details><summary><h4>Project Page 1-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 2 Fixes
 - remove spaces from images
 - added aria label on gallery
 - added main opening tag
-
-<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
-<details><summary><h4>Project Page 3-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
+<details><summary><h4>Project Page 2-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 3 Fixes
 - remove spaces from images
 - added aria label on gallery
 - added main opening tag
-
-<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
-<details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
+<details><summary><h4>Project Page 3-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 4 Fixes
 - remove spaces from images
 - added main opening tag
-
-<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
-<details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
+<details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Contact Page Fixes
 - added aria label for contact form
 - removed attribute type
-
-<details><summary><h4>Success Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
+<details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Success Page Fixes
 - no fixes
+<details><summary><h4>Success Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 
 ### W3C CSS Validator
