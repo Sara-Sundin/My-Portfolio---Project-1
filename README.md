@@ -21,12 +21,25 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Wire Frames
 - Features
 - Accessibility
+- Aria tags
 ## Technologies Used
+- Languages used to create the website
+- Frameworks
+- Software
+- Automated Tools
+- ChatGPT
 ## Deployment
+- GitHub
 ## Testing
-## Credits    
+- Devices
+- Browsers
+- Testing Grid
+- Validators
+## Credits
+- Images
+- Code
+## Acknowledgments
 <br>
-
 
 # User Experience (UX)
 
@@ -233,53 +246,53 @@ The wireframes were created in Illustrator for mobile, tablet and desktop. I dev
 
 <details><summary><h4>Success Page Wireframe</h4></summary><img src=assets/files/Wireframe_success.jpg></details>
 
-# Features
+## Features
 
-## Structure of the website
+### Structure of the website
 
 The website features six pages that are accessible from the navigation bar (home page, project pages, contact form. There is also a success page that displays once the user has filled in and pressed sent on the contact form.
 
-## Headings
+### Headings
 
-### Home Page
+#### Home Page
 - Title Heading: "Sara Sundin / Creative Developer
 - Main Heading (h1): "Creative Developer"
 - Subheadings (h2): "Design & Fashion"
 - Subheadings (h3): "About Me, Projects"
 - Subheadings (h4): "Let's Connect"
 
-### Portfolio Pages
+#### Portfolio Pages
 - Main Heading (h1): "Projects"
 - Subheadings (h2): "Fashion Collaboration"
 - Subheadings (h3): "Projects 1,2,3,4"
 - Subheadings (h4): "Let's Connect"
 
-### Contact Page
+#### Contact Page
 - Main Heading (h1): "Let's Connect."
 
-### Success Page
+#### Success Page
 - Main Heading (h1): "Your message has been sent."
 
-## Favicon
+#### Favicon
 I have generated a facicon at Favicon.io using the initials in my name (SS).
 
-## Navigation Bar
+#### Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
 <details><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/files/Navigation_bar-desktop.jpg></details>
 <details><summary><h4>Navigation Bar Image - Mobile</h4></summary><img src=assets/files/Navigation_bar-mobile.jpg></details>
 
-## Buttons
+#### Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
 <details><summary><h4>Contact section/button with text - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h4>Contact section/button with text - Mobile Image</h4></summary><img src=assets/files/Button_text-Mobile.jpg></details>
 <details><summary><h4>Contact section/button plain - Desktop Image</h4></summary><img src=assets/files/Button_plain-Desktop.jpg></details>
 <details><summary><h4>Contact section/button plain - Mobile Image</h4></summary><img src=assets/files/Button_plain-Mobile.jpg></details>
 
-## Footer
+#### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
 <details><summary><h4>Footer Image</h4></summary><img src=assets/files/Footer.jpg></details>
 
-## Home Page
+#### Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
 <details><summary><h4>About Me Section - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/files/About_me-Mobile.jpg></details>
@@ -287,25 +300,25 @@ An introduction section to who I am and my professional background. This page al
 <details><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
 <details><summary><h4>Testimonial Section - Mobile Image</h4></summary><img src=assets/files/Testimonials-mobile.jpg></details>
 
-## Project Pages
+#### Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
 <details><summary><h4>Introductory text - Mobile Image</h4></summary><img src=assets/files/Info_projects-mobile.jpg></details>
 <details><summary><h4>Gallery- Desktop Image</h4></summary><img src=assets/files/Gallery-desktop.jpg></details>
 <details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/portfolio_project_pages-tablet.jpg></details>
 
-## Contact Page 
+#### Contact Page 
 A contact form and a success page for potential clients and collaborators to reach out to me. This page includes a section with text with information and a form added with Bootstrap.
 <details><summary><h4>Informational text - Tablet Image</h4></summary><img src=assets/files/contact_info-tablet.jpg></details>
 <details><summary><h4>Contact form - Mobile Image</h4></summary><img src=assets/files/contact_form-mobile.jpg></details>
 
-## Success Page 
+#### Success Page 
 A success page that confirms that a user’s message has successfully been sent to provide reassurance. The page includes a responisive section with text and an image of a sent icon.
 <details><summary><h4>Success text - Desktop Image</h4></summary><img src=assets/files/sent_message_desktop.jpg></details>
 
-## Future Pages 
+#### Future Pages 
 Possibility for users to add testimonials directly on the site using a form. This will also include a success page to confirm the testimonial is being reviewed. There will also be more project pages added once projects are completed. Another feature could be a blog for users to see information and sneekpeeks of current projects that has not yet been completed.
 
-# Accessibility
+## Accessibility
 The following measures has been taken to make sure the website is accessible.
 - Semantic Elements: Elements like header, main, and footer are used to provide clear structure, making it easier for screen readers to interpret content.
 - Descriptive Headings: Properly structured heading levels (e.g., h1, h2, h3) to create a logical document outline.
@@ -343,14 +356,14 @@ Git - For version control.
 Github - To save and store the files for the website.
 
 ## Automated Tools
-Crome Dev Tools
+Chrome Dev Tools
 Lighthouse
 Testing - Am i responsive, W3C HTML & CSS Validator
 
-# ChatGPT
+## ChatGPT
 I have troughout the process used ChatGPT as a sparring partner in terms of ideas and problem solving.
 
-# Deployment
+# Deployment (GitHub)
 
 ## Ensure your website files (HTML, CSS, JavaScript, etc.) are committed to a GitHub repository.
 - Go to Repository Settings
@@ -366,26 +379,32 @@ After a few moments, GitHub Pages will generate a URL for your site (e.g., https
 Visit this URL to view your deployed website.
 
 # Testing
-## The testing on the site has been made on four different devices as below:
-Samsung Galaxy 
-Apple Tablet
-Apple Tablet
+## Devices
+### The testing on the site has been made on four different devices:
+Samsung Galaxy Mobile
+Apple Tablet Small size
+Apple Tablet Small size
 Lenovo Desktop
 
-## The different browsers used for testing includes:
+## Browsers
+### The different browsers used for testing:
 Google Chrome
 Microsoft Edge
 Safari
 Firefox
+Samsung Internet
 
-## See testing grid in dropdown menu
+## Testing grid
+I have used a grid for testing all components of the website. See below dropdown menu for the grid used.
 
-## Validation of the code
+## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
 
 W3C HTML Validator
 
 W3C CSS Validator
+
+Lighthouse
 
 
 # Credits
