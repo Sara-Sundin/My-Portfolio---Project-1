@@ -34,6 +34,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Devices
 - Browsers
 - Testing Grid
+- Lighthouse
 - Validators
 ## Credits
 - Images
@@ -397,6 +398,14 @@ Samsung Internet
 
 ## Testing grid
 I have used a grid for testing all components of the website. See below dropdown menu for the grid used.
+
+## Lighthouse
+I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages to organise the headings for better accessability and to optimise the images further for better performance. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green in the 2nd run of Lighthouse.
+<br>
+### 1st run with Lighthouse
+![Lighthouse_run1](assets/files/Lighthouse_1st_Test-Desktop.jpg)
+### 2nd run - after fixing the issues
+![Lighthouse_run2](assets/files/Lighthouse_2nd_Test-Desktop.jpg)
 
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
