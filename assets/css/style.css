@@ -374,6 +374,10 @@ footer a {
         
     }
 
+    .responsive-button {
+        width: 300px;
+    }    
+
      /* Gallery */
 
      .photos {
@@ -427,6 +431,10 @@ footer a {
         top: -400px;
         
     }
+
+    .responsive-button {
+        width: 500px;
+    } 
 
     #portfolio {
         margin-top: -400px; /* To adjust for removed margin #connect-1 above*/
