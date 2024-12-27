@@ -22,6 +22,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Typography
 - Imagery
 - Wire Frames
+- Structure of the website
 - Features
 - Accessibility
 - Aria labels
@@ -257,6 +258,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - [Typography](#typography)
 - [Imagery](#imagery)
 - [Wire Frames](#wire-frames)
+- [Structure of the website](#structure-of-the-website)
 - [Features](#features)
 - [Accessibility](#accessibility)
 - [Aria labels](#aria-labels)
@@ -325,7 +327,7 @@ The website features six pages that are accessible from the navigation bar (home
 
 <hr>
 
-## Features on all pages
+## Features
 
 ### Features on all pages
 
