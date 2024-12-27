@@ -67,6 +67,8 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 <hr>
 
 # USER EXPERIENCE
+- [My website across UX planes](#my-website-across-ux-planes)
+- [User Stories](#user-stories)
 
 ## My website across UX planes
 
