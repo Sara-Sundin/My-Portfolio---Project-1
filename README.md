@@ -2,6 +2,7 @@
 
 # My-Portfolio Website
 
+[View project on GitHub](https://sara-sundin.github.io/My-Portfolio---Project-1/index.html).
 
 ## Introduction
 
@@ -11,10 +12,12 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 # CONTENT
 
-## USER EXPERIENCE (UX)
+[USER EXPERIENCE (UX)](#user-experience)
 - My website across UX planes
 - User Stories
-## DESIGN
+<br>
+
+[DESIGN](#design)
 - Colour Scheme
 - Typography
 - Imagery
@@ -22,30 +25,45 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Features
 - Accessibility
 - Aria labels
-## TECHNOLOGIES USED
+<br>
+
+[TECHNOLOGIES USED](#technologies-used)
 - Languages used to create the website
 - Frameworks
 - Software
 - Automated Tools
 - ChatGPT
-## DEPLOYMENT
+<br>
+
+[DEPLOYMENT](#deployment)
 - GitHub
-## TESTING
+<br>
+
+[TESTING](#testing)
 - Devices
 - Browsers
 - Testing Grid
+- Chrome Dev Tools
 - Lighthouse
 - Validators
-## REFERENCES
-- Media References
-- Content References
-## CREDITS
-- Images
-- Code
-## ACKNOWLEDGMENTS
+- Bugs & Fixes
 <br>
 
-# USER EXPERIENCE (UX)
+[REFERENCES](#references)
+- Media References
+- Content References
+<br>
+
+[CREDITS](#credits)
+- Images
+- Code
+<br>
+
+[ACKNOWLEDGMENTS](#acknowledgments)
+
+<hr>
+
+# USER EXPERIENCE
 
 ## My website across UX planes
 
@@ -220,6 +238,10 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Verify that submissions are stored correctly and review functionality works as expected.
 </details>
 
+[Back to Content Table](#content)
+
+<hr>
+
 # DESIGN
 ## Colour Scheme
 ![Colour Scheme](assets/files/Colour_Scheme.jpg)
@@ -303,7 +325,7 @@ All pages has a footer that is responsive for all screens. The footer includes l
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
 <details><summary><h4>About Me Section - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/files/About_me-Mobile.jpg></details>
-<details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
+<details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/portfolio_section-tablet.jpg></details>
 <details><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
 <details><summary><h4>Testimonial Section - Mobile Image</h4></summary><img src=assets/files/Testimonials-mobile.jpg></details>
 
@@ -364,6 +386,10 @@ aria-label="Slide 1" (and similar for other slides)
 aria-label="Previous"
 <br>
 aria-label="Next"
+### Gallery Section:
+aria-label="Gallery"
+### Contact Section:
+aria-label="Contact form"
 ### Footer Links:
 aria-label="Navigate to the home page"
 <br>
@@ -376,6 +402,10 @@ aria-label="Visit my Instagram page (opens in a new tab)"
 aria-label="Visit my LinkedIn page (opens in a new tab)"
 <br>
 aria-label="Connect on Whatsapp (opens in a new tab)"
+
+[Back to Content Table](#content)
+
+<hr>
 
 # TECHNOLOGIES USED
 ## Languages Used to Create the Website
@@ -398,10 +428,15 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 - Lighthouse (to analyze performance, accessibility, and SEO)
 - Am I Responsive (to test responsive design on various devices)
 - W3C HTML & CSS Validator (to validate and check for coding errors)
+- Techsini.com (for multidevice image and testing responsiveness)
 ## ChatGPT
 I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
-# DEPLOYMENT (GitHub)
+[Back to Content Table](#content)
+
+<hr>
+
+# DEPLOYMENT
 
 ## Ensure your website files (HTML, CSS, JavaScript, etc.) are committed to a GitHub repository.
 - Go to Repository Settings
@@ -415,6 +450,12 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 ## Access Your Website
 After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
 Visit this URL to view your deployed website.
+
+<details><summary><h4>GitHub Deployment Page</h4></summary><img src=assets/files/deployment_github.jpg></details>
+
+[Back to Content Table](#content)
+
+<hr>
 
 # TESTING
 ## Devices
@@ -433,8 +474,11 @@ Firefox <br>
 Samsung Internet <br>
 
 ## Testing grid
-I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet from a free template.
- <br>
+I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadsheet](assets/files/Test_Checklist.xlsx)
+<details><summary><h3>Testing Grid</h3></summary><img src=assets/files/Test_Checklist.jpg></details>
+
+## Chrome Dev Tools
+I have used Dev Tools throughout the development of the website to test for responsiveness and troubleshooting. 
 
 ## Lighthouse
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
@@ -470,51 +514,120 @@ Improvement message:
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
 
-### W3C HTML Validator
+## W3C HTML Validator
 I have included screenprints of the first and final validation of the HTML with W3C validation on all pages. Mostly I needed to remove spaces from the images.
 <br>
-Fixes
+
+### Home Page Fixes
+<details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_homepage.jpg></details>
 - remove spaces from images
-<details><summary><h4>Home Page-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Home Page-Final Check </h4></summary><img src=></details>
+<details><summary><h4>Home Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
+### Project Page 1 Fixes
+<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
 - remove spaces from images
-<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Project Page 1-Final Check </h4></summary><img src=></details>
+<br>
+- added aria label on gallery
+<br>
+- added main opening tag
+<details><summary><h4>Project Page 1-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
+### Project Page 2 Fixes
+<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
 - remove spaces from images
-<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Project Page 2-Final Check </h4></summary><img src=></details>
+<br>
+- added aria label on gallery
+<br>
+- added main opening tag
+<details><summary><h4>Project Page 2-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
+### Project Page 3 Fixes
+<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
 - remove spaces from images
-<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Project Page 3-Final Check </h4></summary><img src=></details>
+<br>
+- added aria label on gallery
+<br>
+- added main opening tag
+<details><summary><h4>Project Page 3-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
+### Project Page 4 Fixes
+<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
 - remove spaces from images
-<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Project Page 4-Final Check </h4></summary><img src=></details>
+<br>
+- added main opening tag
+<details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-- remove spaces from images
-<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Contact Page-Final Check </h4></summary><img src=></details>
+### Contact Page Fixes
+<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
+- added aria label for contact form
+<br>
+- removed attribute type
+<details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-- remove spaces from images
-<details><summary><h4>Success Page-Initial Check </h4></summary><img src=></details>
-<details><summary><h4>Success Page-Final Check </h4></summary><img src=></details>
+### Success Page Fixes
+<details><summary><h4>Success Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+- no fixes
 
+### W3C CSS Validator
+The CSS was succesfully validated.
 
-W3C CSS Validator
+![Screenshot of the CSS Validation](assets/files/Validation_CSS.jpg)
+
+### Bugs & Fixes
+Here I have recorded some issues that I spent excessive time solving with the solutions indicated below.
+
+#### There is a gap between the footer and carousel on home page.
+
+<details><summary><h4>Image</h4></summary><img src=assets/files/Gap_bug_image.jpg></details>
+
+#### Solution
+After many hours I ran the whole code through ChatGPT and it turned out there was a missing section opening tag for the porfolio section above. It did not seem related so I did not look at this section to begin with. In the end it was just a simple mistake.
+
+<details><summary><h4>Code</h4></summary><img src=assets/files/Gap_bug_code.jpg></details>
+
+### Dropdown menu does not close on home page when using "All Projects" link on mobile.
+
+<details><summary><h4>Image</h4></summary><img src=assets/files/Dropdown_menu_bug_image.jpg></details>
+
+#### Solution (partly unfixed)
+I could not find a solution to keep the link for the projects to the home page section for the portfolio projects so I moved the link to one of the project pages that also had a section to showcase all projects.
+<details><summary><h4>Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg></details>
+
+[Back to Content Table](#content)
+
+<hr>
 
 # REFERENCES
 
+## Media References
+- Youtube video creating your first README with Kera Cudmore
+- Youtube video testing with Kasia Bogucka
+- Slack Community and information
+- Stand Ups with Casey on Thursdays
+
+## Content References
+- Cheat sheet Read Me: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- Read Me example: https://github.com/amylour/scoops_pp1
+- Free Download Template for website checking from https://www.hubspot.com
+- Code Institute Tutorials and Learning Content
+
+[Back to Content Table](#content)
+
+<hr>
+
 # CREDITS
-Adobe Stock Photo for writing pen image <br>
-KA_YO Photos in Porfolio permitted usage from KA_YO <br>
-Photos for Five Seasons - taken by myself <br>
-Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson <br>
-The Javascript for closing navbar from Code Institute <br>
-Code Institute (I have borrowed small snippets of code in the teaching material for Love Running and Boardwalk Games"
+- Adobe Stock Photo for writing pen image
+- KA_YO Photos in Porfolio permitted usage from KA_YO
+- Photos for Five Seasons - taken by myself
+- Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson
+- The Javascript for closing navbar from Code Institute
+- Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
+- I have used ChatGPT for problem solving and ideas throughout the project. At the very end of my project I used ChatGPT to tidy up my code for proper spacing and indentation for easier readability.
+
+<hr>
 
 # ACKNOWLEDGMENTS
-I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
+I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays. Also a big shout out to the Slack community at Code Institute and the peers who are always eager to help out.
+
+[Back to Content Table](#content)
 
