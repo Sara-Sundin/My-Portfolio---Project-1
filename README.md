@@ -350,8 +350,6 @@ All pages except the contact form and success page has two sections with action 
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
 <details><summary><h4>Footer Image</h4></summary><img src=assets/files/Footer.jpg></details>
 
-<hr>
-
 ### Features page by page
 
 #### Home Page
