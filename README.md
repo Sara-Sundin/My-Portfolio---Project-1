@@ -46,6 +46,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Chrome Dev Tools
 - Lighthouse
 - Validators
+- Bugs & Fixes
 <br>
 
 [REFERENCES](#references)
@@ -551,16 +552,37 @@ I have included screenprints of the first and final validation of the HTML with 
 - no fixes
 <details><summary><h4>Success Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-
 ### W3C CSS Validator
 The CSS was succesfully validated.
 
 ![Screenshot of the CSS Validation](assets/files/Validation_CSS.jpg)
 
+### Bugs & Fixes
+Here I have recorded some issues that I spent excessive time solving with the solutions indicated below.
+
+## There is a gap between the footer and carousel on home page.
+<details><summary><h4>Image</h4></summary><img src=assets/files/Gap_bug_image.jpg>
+
+# Solution
+After many hours I ran the whole code through ChatGPT and it turned out there was a missing section opening tag for the porfolio section above. It did not seem related so I did not look at this section to begin with. In the end it was just a simple mistake.
+<details><summary><h4>Code</h4></summary><img src=assets/files/Gap_bug_code.jpg>
+
+## Dropdown menu does not close on home page when using "All Projects" link on mobile.
+<details><summary><h4>Image</h4></summary><img src=assets/files/Dropdown_menu_bug_image.jpg>
+
+# Solution (partly unfixed)
+I could not find a solution to keep the link for the projects to the home page section for the portfolio projects so I moved the link to one of the project pages that also had a section to showcase all projects.
+<details><summary><h4>Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg>
+
 <hr>
 
 # REFERENCES
+
+## Media References
 - Youtube video creating your first README with Kera Cudmore
+- Youtube video testing with Kasia Bogucka
+
+## Content References
 - Cheat sheet Read Me: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - Read Me example: https://github.com/amylour/scoops_pp1
 - Free Download Template for website checking from https://www.hubspot.com  <br>
