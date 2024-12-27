@@ -66,6 +66,8 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # USER EXPERIENCE
 - [My website across UX planes](#my-website-across-ux-planes)
@@ -252,6 +254,8 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # DESIGN
 - [Colour Scheme](#colour-scheme)
@@ -444,6 +448,8 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # TECHNOLOGIES USED
 - [Languages used to create the website](#languages-used-to-create-the-website)
@@ -481,6 +487,8 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # DEPLOYMENT
 
@@ -505,6 +513,8 @@ Visit this URL to view your deployed website.
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # TESTING
 - [Devices](#devices)
@@ -644,7 +654,7 @@ The CSS was succesfully validated.
 ### Bugs and Fixes
 Here I have recorded some issues that I spent excessive time solving with the solutions indicated below.
 
-#### There is a gap between the footer and carousel on home page.
+#### There was a gap between the footer and carousel on home page.
 
 <details><summary><h4>Image</h4></summary><img src=assets/files/Gap_bug_image.jpg></details>
 
@@ -653,7 +663,7 @@ After many hours I ran the whole code through ChatGPT and it turned out there wa
 
 <details><summary><h4>Solution Code</h4></summary><img src=assets/files/Gap_bug_code.jpg></details>
 
-#### Dropdown menu does not close on home page when using "All Projects" link on mobile.
+#### Dropdown menu did not close on home page when using "All Projects" link on mobile.
 
 <details><summary><h4>Image</h4></summary><img src=assets/files/Dropdown_menu_bug_image.jpg></details>
 
@@ -667,6 +677,8 @@ I could not find a solution to keep the link for the projects to the home page s
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # REFERENCES
 - [Media References](#media-references)
@@ -690,6 +702,8 @@ I could not find a solution to keep the link for the projects to the home page s
 <br>
 <hr>
 <hr>
+<br>
+<br>
 
 # CREDITS
 - [Images](#images)
@@ -704,7 +718,8 @@ I could not find a solution to keep the link for the projects to the home page s
 ## Code
 - The Javascript for closing navbar from Code Institute
 - Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
-- I have used ChatGPT for problem solving and ideas throughout the project. At the very end of my project I used ChatGPT to tidy up my code for proper spacing and indentation for easier readability.
+- I have used ChatGPT for problem solving and ideas throughout the project.
+- I received some tips from my mentor, mostly in terms of Bootstrap classes that is used.
 
 <hr>
 
