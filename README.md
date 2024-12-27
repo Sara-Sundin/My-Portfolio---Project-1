@@ -443,6 +443,8 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
 Visit this URL to view your deployed website.
 
+<details><summary><h4>GitHub Deployment Page</h4></summary><img src=assets/files/deployment_github.jpg></details>
+
 <hr>
 
 # TESTING
