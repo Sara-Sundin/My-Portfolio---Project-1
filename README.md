@@ -704,7 +704,8 @@ I could not find a solution to keep the link for the projects to the home page s
 ## Code
 - The Javascript for closing navbar from Code Institute
 - Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
-- I have used ChatGPT for problem solving and ideas throughout the project. At the very end of my project I used ChatGPT to tidy up my code for proper spacing and indentation for easier readability.
+- I have used ChatGPT for problem solving and ideas throughout the project.
+- I received some tips from my mentor, mostly in terms of Bootstrap classes that is used.
 
 <hr>
 
