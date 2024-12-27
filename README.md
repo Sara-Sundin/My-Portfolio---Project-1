@@ -267,7 +267,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - [Accessibility](#accessibility)
 - [Aria labels](#aria-labels)
 ## Colour Scheme
-![Colour Scheme](docs/files/colour_scheme.jpg)
+![Colour Scheme](assets/docs/colour_scheme.jpg)
 <br>
 <br>
 I have used a retro looking palette for the website that features a sophisticated mix of vibrant and soft tones. The primary colors are deep purple and subtle cream. This palette reflects a balance between boldness and approachability, evoking a sense of creativity and professionalism. It’s a versatile combination that works well for both striking highlights and subtle backgrounds.
