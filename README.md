@@ -256,7 +256,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - [Colour Scheme](#colour-scheme)
 - [Typography](#typography)
 - [Imagery](#imagery)
-- [Wire Frames](#wireframes)
+- [Wire Frames](#wire-frames)
 - [Features](#features)
 - [Accessibility](#accessibility)
 - [Aria labels](#aria-labels)
