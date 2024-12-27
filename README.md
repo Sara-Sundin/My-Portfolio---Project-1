@@ -62,6 +62,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 [ACKNOWLEDGMENTS](#acknowledgments)
 
 <hr>
+<hr>
 
 # USER EXPERIENCE
 
@@ -91,6 +92,8 @@ The visual design is professional and appealing, reflecting my style and brand i
 - Typography and color schemes are consistent and aesthetically pleasing, reinforcing trust and professionalism.
 - High-quality images and thumbnails of my work enhance visual engagement.
 - Subtle animations, such as hover effects, provide interactivity without overwhelming users.
+
+<hr>
 
 ## User Stories
 ### First-Time Visitors
@@ -241,6 +244,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 [Back to Content Table](#content)
 
 <hr>
+<hr>
 
 # DESIGN
 ## Colour Scheme
@@ -248,6 +252,8 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 <br>
 <br>
 I have used a retro looking palette for the website that features a sophisticated mix of vibrant and soft tones. The primary colors are deep purple and subtle cream. This palette reflects a balance between boldness and approachability, evoking a sense of creativity and professionalism. It’s a versatile combination that works well for both striking highlights and subtle backgrounds.
+
+<hr>
 
 ## Typography
 The chosen typography for my website are both Google fonts and combines Abril Fatface for headings and Raleway for the main content. The combination of these fonts enhances the user experience by drawing attention to key elements (headings) while maintaining clarity and readability for longer text sections.
@@ -258,8 +264,12 @@ Abril Fatface: This typeface exudes elegance and sophistication with its bold, h
 
 Raleway: A modern sans-serif font known for its clean and minimalistic design, Raleway ensures excellent readability for the main content. Its versatility and subtle elegance balance the boldness of Abril Fatface, creating a cohesive and polished aesthetic throughout the site.
 
+<hr>
+
 ## Imagery
-The images are either photographed by myself or with permission from their owners. I have included these owners in the credits section.
+Most of the images in this project are either photographed by myself or used with permission from their owners. I have included these owners in the credits section. Images from Adobe Stock are used with license.
+
+<hr>
 
 ## Wire Frames
 The wireframes were created in Illustrator for mobile, tablet and desktop. I developed my own toolkit to use for future wireframes.
@@ -271,6 +281,8 @@ The wireframes were created in Illustrator for mobile, tablet and desktop. I dev
 <details><summary><h4>Contact Form Wireframe</h4></summary><img src=assets/files/Wireframe_contact.jpg></details>
 
 <details><summary><h4>Success Page Wireframe</h4></summary><img src=assets/files/Wireframe_success.jpg></details>
+
+<hr>
 
 ## Structure of the website
 
@@ -298,6 +310,8 @@ The website features six pages that are accessible from the navigation bar (home
 #### Success Page
 - Main Heading (h1): "Your message has been sent."
 
+<hr>
+
 ## Features on all pages
 
 ### Favicon
@@ -318,6 +332,8 @@ All pages except the contact form and success page has two sections with action 
 ### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
 <details><summary><h4>Footer Image</h4></summary><img src=assets/files/Footer.jpg></details>
+
+<hr>
 
 ## Features page by page
 
@@ -347,6 +363,8 @@ A success page that confirms that a user’s message has successfully been sent 
 ### Future Pages 
 Possibility for users to add testimonials directly on the site using a form. This will also include a success page to confirm the testimonial is being reviewed. There will also be more project pages added once projects are completed. Another feature could be a blog for users to see information and sneekpeeks of current projects that has not yet been completed.
 
+<hr>
+
 ## Accessibility
 The following measures has been taken to make sure the website is accessible.
 - Semantic Elements: Elements like header, main, and footer are used to provide clear structure, making it easier for screen readers to interpret content.
@@ -361,6 +379,8 @@ The following measures has been taken to make sure the website is accessible.
 - Readable Fonts: Fonts like Raleway are legible with sufficient size and line spacing for comfortable reading.
 - Scalable Text: Text can be resized without loss of content or functionality.
 - Accessibility Testing Tools: Lighthouse has been used to identify and address accessibility issues.
+
+<hr>
 
 ## ARIA Labels Used
 
@@ -406,6 +426,7 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 [Back to Content Table](#content)
 
 <hr>
+<hr>
 
 # TECHNOLOGIES USED
 ## Languages Used to Create the Website
@@ -435,6 +456,7 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 [Back to Content Table](#content)
 
 <hr>
+<hr>
 
 # DEPLOYMENT
 
@@ -456,6 +478,7 @@ Visit this URL to view your deployed website.
 [Back to Content Table](#content)
 
 <hr>
+<hr>
 
 # TESTING
 ## Devices
@@ -463,7 +486,9 @@ Visit this URL to view your deployed website.
 Samsung Galaxy Mobile A25 <br>
 Apple IPad Mini <br>
 Apple IPad  <br>
-Lenovo Desktop 15" <br>
+Lenovo Desktop 15"
+
+<hr>
 
 ## Browsers
 ### The different browsers used for testing:
@@ -471,14 +496,20 @@ Google Chrome <br>
 Microsoft Edge <br>
 Safari <br>
 Firefox <br>
-Samsung Internet <br>
+Samsung Internet
+
+<hr>
 
 ## Testing grid
 I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadsheet](assets/files/Test_Checklist.xlsx)
 <details><summary><h3>Testing Grid</h3></summary><img src=assets/files/Test_Checklist.jpg></details>
 
+<hr>
+
 ## Chrome Dev Tools
-I have used Dev Tools throughout the development of the website to test for responsiveness and troubleshooting. 
+I have used Dev Tools throughout the development of the website to test for responsiveness and troubleshooting.
+
+<hr>
 
 ## Lighthouse
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
@@ -511,19 +542,21 @@ Improvement message:
 ### Success Page
 <details><summary><h4>Contact Page First run</h4></summary><img src=assets/files/lighthouse_1st_test_successpage.jpg></details>
 
+<hr>
+
 ## Validation
 The HTML and CSS code has been validated on below editors. The issues arising has been recorded in the dropdown menus.
 
-## W3C HTML Validator
+### W3C HTML Validator
 I have included screenprints of the first and final validation of the HTML with W3C validation on all pages. Mostly I needed to remove spaces from the images.
 <br>
 
-### Home Page Fixes
+#### Home Page Fixes
 <details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_homepage.jpg></details>
 - remove spaces from images
 <details><summary><h4>Home Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-### Project Page 1 Fixes
+#### Project Page 1 Fixes
 <details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
 - remove spaces from images
 <br>
@@ -532,7 +565,7 @@ I have included screenprints of the first and final validation of the HTML with 
 - added main opening tag
 <details><summary><h4>Project Page 1-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-### Project Page 2 Fixes
+#### Project Page 2 Fixes
 <details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
 - remove spaces from images
 <br>
@@ -541,7 +574,7 @@ I have included screenprints of the first and final validation of the HTML with 
 - added main opening tag
 <details><summary><h4>Project Page 2-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-### Project Page 3 Fixes
+#### Project Page 3 Fixes
 <details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
 - remove spaces from images
 <br>
@@ -550,21 +583,21 @@ I have included screenprints of the first and final validation of the HTML with 
 - added main opening tag
 <details><summary><h4>Project Page 3-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-### Project Page 4 Fixes
+#### Project Page 4 Fixes
 <details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
 - remove spaces from images
 <br>
 - added main opening tag
 <details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-### Contact Page Fixes
+#### Contact Page Fixes
 <details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
 - added aria label for contact form
 <br>
 - removed attribute type
 <details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
-### Success Page Fixes
+#### Success Page Fixes
 <details><summary><h4>Success Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 - no fixes
 
@@ -572,6 +605,8 @@ I have included screenprints of the first and final validation of the HTML with 
 The CSS was succesfully validated.
 
 ![Screenshot of the CSS Validation](assets/files/Validation_CSS.jpg)
+
+<hr>
 
 ### Bugs & Fixes
 Here I have recorded some issues that I spent excessive time solving with the solutions indicated below.
@@ -596,6 +631,7 @@ I could not find a solution to keep the link for the projects to the home page s
 [Back to Content Table](#content)
 
 <hr>
+<hr>
 
 # REFERENCES
 
@@ -613,6 +649,7 @@ I could not find a solution to keep the link for the projects to the home page s
 
 [Back to Content Table](#content)
 
+<hr>
 <hr>
 
 # CREDITS
