@@ -30,7 +30,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 [TECHNOLOGIES USED](#technologies-used)
 - Languages used to create the website
-- Frameworks
+- Frameworks & Libraries
 - Software
 - Automated Tools
 - ChatGPT
@@ -447,7 +447,7 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 
 # TECHNOLOGIES USED
 - [Languages used to create the website](#languages-used-to-create-the-website)
-- [Frameworks](#frameworks)
+- [Frameworks & Libraries](#frameworks-and-libraries)
 - [Software](#software)
 - [Automated Tools](#automated-tools)
 - [ChatGPT](#chatgpt)
