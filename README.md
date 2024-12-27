@@ -2,6 +2,7 @@
 
 # My-Portfolio Website
 
+[View project on GitHub](https://sara-sundin.github.io/My-Portfolio---Project-1/index.html).
 
 ## Introduction
 
@@ -11,10 +12,12 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 # CONTENT
 
-## USER EXPERIENCE (UX)
+[USER EXPERIENCE (UX)](#user-experience)
 - My website across UX planes
 - User Stories
-## DESIGN
+<br>
+
+[DESIGN](#design)
 - Colour Scheme
 - Typography
 - Imagery
@@ -22,30 +25,43 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Features
 - Accessibility
 - Aria labels
-## TECHNOLOGIES USED
+<br>
+
+[TECHNOLOGIES USED](#technologies-used)
 - Languages used to create the website
 - Frameworks
 - Software
 - Automated Tools
 - ChatGPT
-## DEPLOYMENT
+<br>
+
+[DEPLOYMENT](#deployment)
 - GitHub
-## TESTING
+<br>
+
+[TESTING](#testing)
 - Devices
 - Browsers
 - Testing Grid
 - Lighthouse
 - Validators
-## REFERENCES
-- Media References
-- Content References
-## CREDITS
-- Images
-- Code
-## ACKNOWLEDGMENTS
 <br>
 
-# USER EXPERIENCE (UX)
+[REFERENCES](#references)
+- Media References
+- Content References
+<br>
+
+[CREDITS](#credits)
+- Images
+- Code
+<br>
+
+[ACKNOWLEDGMENTS](#acknowledgments)
+
+<hr>
+
+# USER EXPERIENCE
 
 ## My website across UX planes
 
@@ -220,6 +236,8 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Verify that submissions are stored correctly and review functionality works as expected.
 </details>
 
+<hr>
+
 # DESIGN
 ## Colour Scheme
 ![Colour Scheme](assets/files/Colour_Scheme.jpg)
@@ -364,6 +382,10 @@ aria-label="Slide 1" (and similar for other slides)
 aria-label="Previous"
 <br>
 aria-label="Next"
+### Gallery Section:
+aria-label="Gallery"
+### Contact Section:
+aria-label="Contact form"
 ### Footer Links:
 aria-label="Navigate to the home page"
 <br>
@@ -376,6 +398,8 @@ aria-label="Visit my Instagram page (opens in a new tab)"
 aria-label="Visit my LinkedIn page (opens in a new tab)"
 <br>
 aria-label="Connect on Whatsapp (opens in a new tab)"
+
+<hr>
 
 # TECHNOLOGIES USED
 ## Languages Used to Create the Website
@@ -398,10 +422,13 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 - Lighthouse (to analyze performance, accessibility, and SEO)
 - Am I Responsive (to test responsive design on various devices)
 - W3C HTML & CSS Validator (to validate and check for coding errors)
+- Techsini.com (for multidevice image and testing responsiveness)
 ## ChatGPT
 I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
-# DEPLOYMENT (GitHub)
+<hr>
+
+# DEPLOYMENT
 
 ## Ensure your website files (HTML, CSS, JavaScript, etc.) are committed to a GitHub repository.
 - Go to Repository Settings
@@ -415,6 +442,8 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 ## Access Your Website
 After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
 Visit this URL to view your deployed website.
+
+<hr>
 
 # TESTING
 ## Devices
@@ -433,8 +462,8 @@ Firefox <br>
 Samsung Internet <br>
 
 ## Testing grid
-I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet from a free template.
- <br>
+I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadseet](assets/files/Test_Checklist.xlsx)
+<details><summary><h4>Testing Grid</h4></summary><img src=assets/files/Test_Checklist.jpg></details>
 
 ## Lighthouse
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
@@ -473,6 +502,7 @@ The HTML and CSS code has been validated on below editors. The issues arising ha
 ## W3C HTML Validator
 I have included screenprints of the first and final validation of the HTML with W3C validation on all pages. Mostly I needed to remove spaces from the images.
 <br>
+
 ### Home Page Fixes
 - remove spaces from images
 <details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_homepage.jpg></details>
@@ -521,7 +551,14 @@ The CSS was succesfully validated.
 
 ![Screenshot of the CSS Validation](assets/files/Validation_CSS.jpg)
 
+<hr>
+
 # REFERENCES
+- Youtube video creating your first README with Kera Cudmore
+- Cheat sheet Read Me: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- Read Me example: https://github.com/amylour/scoops_pp1
+
+<hr>
 
 # CREDITS
 Adobe Stock Photo for writing pen image <br>
@@ -529,7 +566,10 @@ KA_YO Photos in Porfolio permitted usage from KA_YO <br>
 Photos for Five Seasons - taken by myself <br>
 Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson <br>
 The Javascript for closing navbar from Code Institute <br>
-Code Institute (I have borrowed small snippets of code in the teaching material for Love Running and Boardwalk Games"
+Free Download Template for website checking from https://www.hubspot.com  <br>
+Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
+
+<hr>
 
 # ACKNOWLEDGMENTS
 I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
