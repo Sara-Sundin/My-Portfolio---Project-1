@@ -466,7 +466,7 @@ Firefox <br>
 Samsung Internet <br>
 
 ## Testing grid
-I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadseet](assets/files/Test_Checklist.xlsx)
+I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadsheet](assets/files/Test_Checklist.xlsx)
 <details><summary><h4>Testing Grid</h4></summary><img src=assets/files/Test_Checklist.jpg></details>
 
 ## Chrome Dev Tools
