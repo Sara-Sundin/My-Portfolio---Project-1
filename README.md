@@ -323,7 +323,7 @@ All pages has a footer that is responsive for all screens. The footer includes l
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
 <details><summary><h4>About Me Section - Desktop Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
 <details><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/files/About_me-Mobile.jpg></details>
-<details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/Button_text-Desktop.jpg></details>
+<details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/files/portfolio_section-tablet.jpg></details>
 <details><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/files/portfolio_section-desktop.jpg></details>
 <details><summary><h4>Testimonial Section - Mobile Image</h4></summary><img src=assets/files/Testimonials-mobile.jpg></details>
 
