@@ -357,11 +357,6 @@ footer a {
         color: var(--highlight-color-pink);
     }
 
-    #connect-2 {
-        margin-bottom: -80px;
-        
-    }
-
     .responsive-button {
         width: 300px;
     }    
@@ -436,10 +431,6 @@ footer a {
 
     #photos-2 {
         column-count: 2;
-    }
-
-    #connect-2 {
-        margin-bottom: -80px;
     }
 
     #success {
