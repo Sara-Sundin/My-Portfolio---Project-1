@@ -238,6 +238,8 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - Verify that submissions are stored correctly and review functionality works as expected.
 </details>
 
+[Back to Content Table](#content)
+
 <hr>
 
 # DESIGN
@@ -401,6 +403,8 @@ aria-label="Visit my LinkedIn page (opens in a new tab)"
 <br>
 aria-label="Connect on Whatsapp (opens in a new tab)"
 
+[Back to Content Table](#content)
+
 <hr>
 
 # TECHNOLOGIES USED
@@ -428,6 +432,8 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 ## ChatGPT
 I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
+[Back to Content Table](#content)
+
 <hr>
 
 # DEPLOYMENT
@@ -446,6 +452,8 @@ After a few moments, GitHub Pages will generate a URL for your site (e.g., https
 Visit this URL to view your deployed website.
 
 <details><summary><h4>GitHub Deployment Page</h4></summary><img src=assets/files/deployment_github.jpg></details>
+
+[Back to Content Table](#content)
 
 <hr>
 
@@ -467,7 +475,7 @@ Samsung Internet <br>
 
 ## Testing grid
 I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadsheet](assets/files/Test_Checklist.xlsx)
-<details><summary><h4>Testing Grid</h4></summary><img src=assets/files/Test_Checklist.jpg></details>
+<details><summary><h3>Testing Grid</h3></summary><img src=assets/files/Test_Checklist.jpg></details>
 
 ## Chrome Dev Tools
 I have used Dev Tools throughout the development of the website to test for responsiveness and troubleshooting. 
@@ -585,6 +593,8 @@ After many hours I ran the whole code through ChatGPT and it turned out there wa
 I could not find a solution to keep the link for the projects to the home page section for the portfolio projects so I moved the link to one of the project pages that also had a section to showcase all projects.
 <details><summary><h4>Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg></details>
 
+[Back to Content Table](#content)
+
 <hr>
 
 # REFERENCES
@@ -599,6 +609,8 @@ I could not find a solution to keep the link for the projects to the home page s
 - Free Download Template for website checking from https://www.hubspot.com
 - Code Institute Tutorials and Learning Content
 
+[Back to Content Table](#content)
+
 <hr>
 
 # CREDITS
@@ -610,8 +622,12 @@ I could not find a solution to keep the link for the projects to the home page s
 - Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
 - I have used ChatGPT for problem solving and ideas throughout the project.
 
+  [Back to Content Table](#content)
+
 <hr>
 
 # ACKNOWLEDGMENTS
 I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays. Also a big shout out to the Slack community at Code Institute and the peers who are always eager to help out.
+
+[Back to Content Table](#content)
 
