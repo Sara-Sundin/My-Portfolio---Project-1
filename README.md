@@ -253,13 +253,13 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 <hr>
 
 # DESIGN
-[Colour Scheme](#colour-scheme)
-[Typography](#typography)
-[Imagery](#imagery)
-[Wire Frames](#wireframes)
-[Features](#features)
-[Accessibility](#accessibility)
-[Aria labels](#aria-labels)
+- [Colour Scheme](#colour-scheme)
+- [Typography](#typography)
+- [Imagery](#imagery)
+- [Wire Frames](#wireframes)
+- [Features](#features)
+- [Accessibility](#accessibility)
+- [Aria labels](#aria-labels)
 ## Colour Scheme
 ![Colour Scheme](assets/files/Colour_Scheme.jpg)
 <br>
