@@ -512,7 +512,7 @@ Visit this URL to view your deployed website.
 - [Testing Grid](#testing-grid)
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Lighthouse](#lighthouse)
-- [Validators](#validators)
+- [Validation](#validation)
 - [Bugs & Fixes](#bugs-&-fixes)
 ## Devices
 ### The testing on the site has been made on four different devices:
