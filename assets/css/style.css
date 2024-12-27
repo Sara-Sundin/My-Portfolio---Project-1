@@ -76,20 +76,20 @@ h4 {
 }
 
 .custom-button-filled:hover {
-    border: 2px solid var(--secondary-color);
-    background-color: var(--secondary-color);
-    color: white;
+    border: 2px solid var(--highlight-color-pink);
+    background-color: var(--highlight-color-pink);
+    color: var(--primary-color);
 }
 
 .custom-button-outline {
     border: 3px solid var(--primary-color);
     padding: 7px 25px;
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 .custom-button-outline:hover {
-    background-color: white;
-    color: var(--primary-color)
+    background-color: var(--highlight-color-pink);
+    color: var(--highlight-color-pink);
 }
 
 /*Section Styling*/
