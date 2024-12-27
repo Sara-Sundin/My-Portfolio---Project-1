@@ -43,6 +43,7 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Devices
 - Browsers
 - Testing Grid
+- Chrome Dev Tools
 - Lighthouse
 - Validators
 <br>
@@ -466,6 +467,9 @@ Samsung Internet <br>
 ## Testing grid
 I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadseet](assets/files/Test_Checklist.xlsx)
 <details><summary><h4>Testing Grid</h4></summary><img src=assets/files/Test_Checklist.jpg></details>
+
+## Chrome Dev Tools
+I have used Dev Tools throughout the development of the website to test for responsiveness and troubleshooting. 
 
 ## Lighthouse
 I used Dev Tools Lightouse to help improve the website's performance, accessibility, SEO, and user experience. The first time I ran the testing I received messages for some of the pages for improvement I have recorded above each page below. The Lighthouse tool provided actionable insights to optimize speed and fix issues. After fixing the issues all areas turned green.
