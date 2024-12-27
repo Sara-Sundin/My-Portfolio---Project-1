@@ -61,6 +61,8 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 
 [ACKNOWLEDGMENTS](#acknowledgments)
 
+<br>
+<br>
 <hr>
 <hr>
 
@@ -243,6 +245,8 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 
 [Back to Content Table](#content)
 
+<br>
+<br>
 <hr>
 <hr>
 
@@ -425,6 +429,8 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 
 [Back to Content Table](#content)
 
+<br>
+<br>
 <hr>
 <hr>
 
@@ -455,6 +461,8 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 
 [Back to Content Table](#content)
 
+<br>
+<br>
 <hr>
 <hr>
 
@@ -477,6 +485,8 @@ Visit this URL to view your deployed website.
 
 [Back to Content Table](#content)
 
+<br>
+<br>
 <hr>
 <hr>
 
@@ -618,18 +628,20 @@ Here I have recorded some issues that I spent excessive time solving with the so
 #### Solution
 After many hours I ran the whole code through ChatGPT and it turned out there was a missing section opening tag for the porfolio section above. It did not seem related so I did not look at this section to begin with. In the end it was just a simple mistake.
 
-<details><summary><h4>Code</h4></summary><img src=assets/files/Gap_bug_code.jpg></details>
+<details><summary><h4>Solution Code</h4></summary><img src=assets/files/Gap_bug_code.jpg></details>
 
-### Dropdown menu does not close on home page when using "All Projects" link on mobile.
+#### Dropdown menu does not close on home page when using "All Projects" link on mobile.
 
 <details><summary><h4>Image</h4></summary><img src=assets/files/Dropdown_menu_bug_image.jpg></details>
 
 #### Solution (partly unfixed)
 I could not find a solution to keep the link for the projects to the home page section for the portfolio projects so I moved the link to one of the project pages that also had a section to showcase all projects.
-<details><summary><h4>Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg></details>
+<details><summary><h4>Solution Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg></details>
 
 [Back to Content Table](#content)
 
+<br>
+<br>
 <hr>
 <hr>
 
@@ -649,6 +661,8 @@ I could not find a solution to keep the link for the projects to the home page s
 
 [Back to Content Table](#content)
 
+<br>
+<br>
 <hr>
 <hr>
 
