@@ -602,6 +602,8 @@ I could not find a solution to keep the link for the projects to the home page s
 ## Media References
 - Youtube video creating your first README with Kera Cudmore
 - Youtube video testing with Kasia Bogucka
+- Slack Community and information
+- Stand Ups with Casey on Thursdays
 
 ## Content References
 - Cheat sheet Read Me: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
