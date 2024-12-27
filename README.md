@@ -511,46 +511,46 @@ I have included screenprints of the first and final validation of the HTML with 
 <br>
 
 ### Home Page Fixes
-- remove spaces from images
 <details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_homepage.jpg></details>
+- remove spaces from images
 <details><summary><h4>Home Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 1 Fixes
+<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
 - remove spaces from images
 - added aria label on gallery
 - added main opening tag
-<details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
 <details><summary><h4>Project Page 1-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 2 Fixes
+<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
 - remove spaces from images
 - added aria label on gallery
 - added main opening tag
-<details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
 <details><summary><h4>Project Page 2-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 3 Fixes
+<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
 - remove spaces from images
 - added aria label on gallery
 - added main opening tag
-<details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
 <details><summary><h4>Project Page 3-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 4 Fixes
+<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
 - remove spaces from images
 - added main opening tag
-<details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
 <details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Contact Page Fixes
+<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
 - added aria label for contact form
 - removed attribute type
-<details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
 <details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Success Page Fixes
-- no fixes
 <details><summary><h4>Success Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
+- no fixes
 
 ### W3C CSS Validator
 The CSS was succesfully validated.
@@ -562,20 +562,20 @@ Here I have recorded some issues that I spent excessive time solving with the so
 
 #### There is a gap between the footer and carousel on home page.
 
-<details><summary><h4>Image</h4></summary><img src=assets/files/Gap_bug_image.jpg>
+<details><summary><h4>Image</h4></summary><img src=assets/files/Gap_bug_image.jpg></details>
 
 #### Solution
 After many hours I ran the whole code through ChatGPT and it turned out there was a missing section opening tag for the porfolio section above. It did not seem related so I did not look at this section to begin with. In the end it was just a simple mistake.
 
-<details><summary><h4>Code</h4></summary><img src=assets/files/Gap_bug_code.jpg>
+<details><summary><h4>Code</h4></summary><img src=assets/files/Gap_bug_code.jpg></details>
 
-#### Dropdown menu does not close on home page when using "All Projects" link on mobile.
+### Dropdown menu does not close on home page when using "All Projects" link on mobile.
 
-<details><summary><h4>Image</h4></summary><img src=assets/files/Dropdown_menu_bug_image.jpg>
+<details><summary><h4>Image</h4></summary><img src=assets/files/Dropdown_menu_bug_image.jpg></details>
 
 #### Solution (partly unfixed)
 I could not find a solution to keep the link for the projects to the home page section for the portfolio projects so I moved the link to one of the project pages that also had a section to showcase all projects.
-<details><summary><h4>Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg>
+<details><summary><h4>Code</h4></summary><img src=assets/files/Dropdown_menu_bug_code.jpg></details>
 
 <hr>
 
