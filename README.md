@@ -518,33 +518,41 @@ I have included screenprints of the first and final validation of the HTML with 
 ### Project Page 1 Fixes
 <details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_1.jpg></details>
 - remove spaces from images
+<br>
 - added aria label on gallery
+<br>
 - added main opening tag
 <details><summary><h4>Project Page 1-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 2 Fixes
 <details><summary><h4>Project Page 2-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_2.jpg></details>
 - remove spaces from images
+<br>
 - added aria label on gallery
+<br>
 - added main opening tag
 <details><summary><h4>Project Page 2-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 3 Fixes
 <details><summary><h4>Project Page 3-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_3.jpg></details>
 - remove spaces from images
+<br>
 - added aria label on gallery
+<br>
 - added main opening tag
 <details><summary><h4>Project Page 3-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Project Page 4 Fixes
 <details><summary><h4>Project Page 4-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_project_4.jpg></details>
 - remove spaces from images
+<br>
 - added main opening tag
 <details><summary><h4>Project Page 4-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
 ### Contact Page Fixes
 <details><summary><h4>Contact Page-Initial Check </h4></summary><img src=assets/files/validation_html_1st_check_contactpage.jpg></details>
 - added aria label for contact form
+<br>
 - removed attribute type
 <details><summary><h4>Contact Page-Final Check </h4></summary><img src=assets/files/validation_html_1st_check_successpage.jpg></details>
 
@@ -588,7 +596,8 @@ I could not find a solution to keep the link for the projects to the home page s
 ## Content References
 - Cheat sheet Read Me: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - Read Me example: https://github.com/amylour/scoops_pp1
-- Free Download Template for website checking from https://www.hubspot.com  <br>
+- Free Download Template for website checking from https://www.hubspot.com
+- Code Institute Tutorials and Learning Content
 
 <hr>
 
