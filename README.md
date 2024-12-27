@@ -557,20 +557,21 @@ The CSS was succesfully validated.
 - Youtube video creating your first README with Kera Cudmore
 - Cheat sheet Read Me: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - Read Me example: https://github.com/amylour/scoops_pp1
+- Free Download Template for website checking from https://www.hubspot.com  <br>
 
 <hr>
 
 # CREDITS
-Adobe Stock Photo for writing pen image <br>
-KA_YO Photos in Porfolio permitted usage from KA_YO <br>
-Photos for Five Seasons - taken by myself <br>
-Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson <br>
-The Javascript for closing navbar from Code Institute <br>
-Free Download Template for website checking from https://www.hubspot.com  <br>
-Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
+- Adobe Stock Photo for writing pen image
+- KA_YO Photos in Porfolio permitted usage from KA_YO
+- Photos for Five Seasons - taken by myself
+- Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson
+- The Javascript for closing navbar from Code Institute
+- Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
+- I have used ChatGPT for problem solving and ideas throughout the project.
 
 <hr>
 
 # ACKNOWLEDGMENTS
-I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays.
+I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays. Also a big shout out to the Slack community at Code Institute and the peers who are always eager to help out.
 
