@@ -446,6 +446,11 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 <hr>
 
 # TECHNOLOGIES USED
+- [Languages used to create the website](#languages-used-to-create-the-website)
+- [Frameworks](#frameworks)
+- [Software](#software)
+- [Automated Tools](#automated-tools)
+- [ChatGPT](#chatgpt)
 ## Languages Used to Create the Website
 - HTML
 - CSS
@@ -502,6 +507,13 @@ Visit this URL to view your deployed website.
 <hr>
 
 # TESTING
+- [Devices](#devices)
+- [Browsers](#browsers)
+- [Testing Grid](#testing-grid)
+- [Chrome Dev Tools](#chrome-dev-tools)
+- [Lighthouse](#lighthouse)
+- [Validators](#validators)
+- [Bugs & Fixes](#bugs-&-fixes)
 ## Devices
 ### The testing on the site has been made on four different devices:
 Samsung Galaxy Mobile A25 <br>
@@ -657,6 +669,8 @@ I could not find a solution to keep the link for the projects to the home page s
 <hr>
 
 # REFERENCES
+- [Media References](#media-references)
+- [Content References](#content-references)
 
 ## Media References
 - Youtube video creating your first README with Kera Cudmore
@@ -678,10 +692,16 @@ I could not find a solution to keep the link for the projects to the home page s
 <hr>
 
 # CREDITS
+- [Images](#images)
+- [Code](#code)
+
+## Images
 - Adobe Stock Photo for writing pen image
 - KA_YO Photos in Porfolio permitted usage from KA_YO
 - Photos for Five Seasons - taken by myself
 - Photograpers IKNW photos (except myself) Marcus Grip & Johan Eriksson
+
+## Code
 - The Javascript for closing navbar from Code Institute
 - Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
 - I have used ChatGPT for problem solving and ideas throughout the project. At the very end of my project I used ChatGPT to tidy up my code for proper spacing and indentation for easier readability.
