@@ -513,7 +513,7 @@ Visit this URL to view your deployed website.
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Lighthouse](#lighthouse)
 - [Validation](#validation)
-- [Bugs & Fixes](#bugs-&-fixes)
+- [Bugs & Fixes](#bugs-and-fixes)
 ## Devices
 ### The testing on the site has been made on four different devices:
 Samsung Galaxy Mobile A25 <br>
@@ -641,7 +641,7 @@ The CSS was succesfully validated.
 
 <hr>
 
-### Bugs & Fixes
+### Bugs and Fixes
 Here I have recorded some issues that I spent excessive time solving with the solutions indicated below.
 
 #### There is a gap between the footer and carousel on home page.
