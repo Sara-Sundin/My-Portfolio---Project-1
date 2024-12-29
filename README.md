@@ -60,6 +60,8 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Code
 <br>
 
+[PERSONAL NOTES ABOUT COMMITS](#personal-notes-about-commits)
+
 [ACKNOWLEDGMENTS](#acknowledgments)
 
 <br>
