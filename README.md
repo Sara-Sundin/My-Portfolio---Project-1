@@ -119,7 +119,7 @@ Goal: Maintain ongoing trust and share feedback.
 - Read client testimonials to validate the designer’s credibility (User Story 7).
 - Submit a testimonial to share positive experiences and support the designer (User Story 8).
 
-<details>
+<details open>
 <summary><h4>User Story 1 (must-have)</h4></summary>
   
 ### User Story 1 (must-have)
@@ -265,7 +265,7 @@ As a satisfied client or collaborator I want to submit a testimonial to the webs
 - [Structure of the website](#structure-of-the-website)
 - [Features](#features)
 - [Accessibility](#accessibility)
-- [Aria labels](#aria-labels)
+- [Aria labels](#aria-labels-used)
 ## Colour Scheme
 ![Colour Scheme](assets/docs/colour_scheme.jpg)
 <br>
@@ -293,7 +293,7 @@ Most of the images in this project are either photographed by myself or used wit
 ## Wire Frames
 The wireframes were created in Illustrator for mobile, tablet and desktop. I developed my own toolkit to use for future wireframes.
 
-<details><summary><h4>Home Page Wireframe</h4></summary><img src=assets/docs/wireframe_home.jpg></details>
+<details open><summary><h4>Home Page Wireframe</h4></summary><img src=assets/docs/wireframe_home.jpg></details>
 
 <details><summary><h4>Project Pages Wireframe</h4></summary><img src=assets/docs/wireframe_projects.jpg></details>
 
@@ -340,44 +340,44 @@ I have generated a favicon at Favicon.io using the initials in my name (SS).
 
 #### Navigation Bar
 All pages on the website has a navigation bar for easy access to all pages. The navigation bar is responsive and the menu transforms into a toggle tool when viewing the page on a mobile device and screens under 768px. The navigation bar was added with Bootstrap and customized using CSS. The navbar is fixed to the top.
-<details><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/docs/navigation_bar-desktop.jpg></details>
+<details open><summary><h4>Navigation Bar Image - Desktop</h4></summary><img src=assets/docs/navigation_bar-desktop.jpg></details>
 <details><summary><h4>Navigation Bar Image - Mobile</h4></summary><img src=assets/docs/navigation_bar-mobile.jpg></details>
 
 #### Buttons
 All pages except the contact form and success page has two sections with action buttons that links to the contact form. The first button section including some text and the second button being more plain. Both button sections are responsive on all screens.
-<details><summary><h4>Contact section/button with text - Desktop Image</h4></summary><img src=assets/docs/button_text-desktop.jpg></details>
+<details open><summary><h4>Contact section/button with text - Desktop Image</h4></summary><img src=assets/docs/button_text-desktop.jpg></details>
 <details><summary><h4>Contact section/button with text - Mobile Image</h4></summary><img src=assets/docs/button_text-mobile.jpg></details>
-<details><summary><h4>Contact section/button plain - Desktop Image</h4></summary><img src=assets/docs/button_plain-desktop.jpg></details>
+<details open><summary><h4>Contact section/button plain - Desktop Image</h4></summary><img src=assets/docs/button_plain-desktop.jpg></details>
 <details><summary><h4>Contact section/button plain - Mobile Image</h4></summary><img src=assets/docs/button_plain-mobile.jpg></details>
 
 #### Footer
 All pages has a footer that is responsive for all screens. The footer includes links to home, projects and contact form. At the bottom are three social media icons added with Font Awesome.
-<details><summary><h4>Footer Image</h4></summary><img src=assets/docs/footer.jpg></details>
+<details open><summary><h4>Footer Image</h4></summary><img src=assets/docs/footer.jpg></details>
 
 ### Features page by page
 
 #### Home Page
 An introduction section to who I am and my professional background. This page also include a responsive portfolio section with overview of the projects, a carousel at the bottom with testimonials as well as the two action buttons to the contact form. All sections use Bootstrap responsive styling.
 <details><summary><h4>About Me Section - Desktop Image</h4></summary><img src=assets/docs/button_text-desktop.jpg></details>
-<details><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/docs/about_me-mobile.jpg></details>
+<details open><summary><h4>About Me Section - Mobile Image</h4></summary><img src=assets/docs/about_me-mobile.jpg></details>
 <details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/docs/portfolio_section-tablet.jpg></details>
-<details><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/docs/portfolio_section-desktop.jpg></details>
+<details open><summary><h4>Portfolio Section - Desktop Image</h4></summary><img src=assets/docs/portfolio_section-desktop.jpg></details>
 <details><summary><h4>Testimonial Section - Mobile Image</h4></summary><img src=assets/docs/testimonials-mobile.jpg></details>
 
 #### Project Pages
 A collection of my work, highlighting design projects I have completed. All four project pages has the same structure with an introductory text, a responsive gallery section, an portfolio section to easily navigate to other projects and the two action buttons to the contact form. The gallery and portfolio section use Bootstrap responsive grids.
-<details><summary><h4>Introductory text - Mobile Image</h4></summary><img src=assets/docs/info_projects-mobile.jpg></details>
-<details><summary><h4>Gallery- Desktop Image</h4></summary><img src=assets/docs/gallery-desktop.jpg></details>
+<details open><summary><h4>Introductory text - Mobile Image</h4></summary><img src=assets/docs/info_projects-mobile.jpg></details>
+<details open><summary><h4>Gallery- Desktop Image</h4></summary><img src=assets/docs/gallery-desktop.jpg></details>
 <details><summary><h4>Portfolio Section - Tablet Image</h4></summary><img src=assets/docs/portfolio_project_pages-tablet.jpg></details>
 
 #### Contact Page 
 A contact form and a success page for potential clients and collaborators to reach out to me. This page includes a section with text with information and a form added with Bootstrap.
-<details><summary><h4>Informational text - Tablet Image</h4></summary><img src=assets/docs/contact_info-tablet.jpg></details>
-<details><summary><h4>Contact form - Mobile Image</h4></summary><img src=assets/docs/contact_form-mobile.jpg></details>
+<details open><summary><h4>Informational text - Tablet Image</h4></summary><img src=assets/docs/contact_info-tablet.jpg></details>
+<details open><summary><h4>Contact form - Mobile Image</h4></summary><img src=assets/docs/contact_form-mobile.jpg></details>
 
 #### Success Page 
 A success page that confirms that a user’s message has successfully been sent to provide reassurance. The page includes a responisive section with text and an image of a sent icon.
-<details><summary><h4>Success text - Desktop Image</h4></summary><img src=assets/docs/sent_message_desktop.jpg></details>
+<details open><summary><h4>Success text - Desktop Image</h4></summary><img src=assets/docs/sent_message_desktop.jpg></details>
 
 #### Future Pages 
 Possibility for users to add testimonials directly on the site using a form. This will also include a success page to confirm the testimonial is being reviewed. There will also be more project pages added once projects are completed. Another feature could be a blog for users to see information and sneekpeeks of current projects that has not yet been completed.
@@ -505,7 +505,7 @@ I have used ChatGPT throughout the process as a sparring partner for ideas, trou
 After a few moments, GitHub Pages will generate a URL for your site (e.g., https://username.github.io/repository-name).
 Visit this URL to view your deployed website.
 
-<details><summary><h4>GitHub Deployment Page</h4></summary><img src=assets/docs/deployment_github.jpg></details>
+<details open><summary><h4>GitHub Deployment Page</h4></summary><img src=assets/docs/deployment_github.jpg></details>
 
 [Back to Content Table](#content)
 
@@ -545,7 +545,7 @@ Samsung Internet
 
 ## Testing grid
 I have used a grid for testing all components of the website. After testing I have fixed any issues arising and put a note in the grid what has been done. See below dropdown menu for the grid that I created in an excel spreadsheet using a free template as base. [Link to excel spreadsheet](docs/files/test_checklist.xlsx)
-<details><summary><h3>Testing Grid</h3></summary><img src=assets/docs/test_checklist.jpg></details>
+<details open><summary><h3>Testing Grid</h3></summary><img src=assets/docs/test_checklist.jpg></details>
 
 <hr>
 
@@ -561,39 +561,39 @@ I used Dev Tools Lightouse to help improve the website's performance, accessibil
 Improvement messages: 
 - Organise the headings for better accessability
 - Make images WEBP.
-<details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test-desktop.jpg></details>
+<details open><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test-desktop.jpg></details>
 
 ### Project 1 Page 
 Improvement messages: 
 - Organise the headings for better accessability
 - Make images WEBP.
-<details><summary><h4>Project Page 1 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_1.jpg></details>
+<details open><summary><h4>Project Page 1 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_1.jpg></details>
 
 ### Project 2 Page 
 Improvement messages: 
 - Organise the headings for better accessability
 - Make images WEBP.
-<details><summary><h4>Project Page 2 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_2.jpg></details>
+<details open><summary><h4>Project Page 2 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_2.jpg></details>
 
 ### Project 3 Page
 Improvement messages: 
 - Organise the headings for better accessability
 - Make images WEBP.
-<details><summary><h4>Project Page 3 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_3.jpg></details>
+<details open><summary><h4>Project Page 3 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_3.jpg></details>
 
 ### Project 4 Page 
 Improvement messages: 
 - Organise the headings for better accessability
 - Make images WEBP.
-<details><summary><h4>Project Page 4 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_4.jpg></details>
+<details open><summary><h4>Project Page 4 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_4.jpg></details>
 
 ### Contact Page 
 No neccessary improvements.
-<details><summary><h4>Contact Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_contactpage.jpg></details>
+<details open><summary><h4>Contact Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_contactpage.jpg></details>
 
 ### Success Page
 No neccessary improvements.
-<details><summary><h4>Success Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_successpage.jpg></details>
+<details open><summary><h4>Success Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_successpage.jpg></details>
 
 <hr>
 
@@ -605,9 +605,9 @@ I have included screenprints of the first and final validation of the HTML with 
 <br>
 
 #### Home Page Fixes
-<details><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/docs/validation_html_1st_check_homepage.jpg></details>
+<details open><summary><h4>Home Page-Initial Check </h4></summary><img src=assets/docs/validation_html_1st_check_homepage.jpg></details>
 - remove spaces from images
-<details><summary><h4>Home Page-Final Check </h4></summary><img src=assets/docs/validation_html_1st_check_successpage.jpg></details>
+<details open><summary><h4>Home Page-Final Check </h4></summary><img src=assets/docs/validation_html_1st_check_successpage.jpg></details>
 
 #### Project Page 1 Fixes
 <details><summary><h4>Project Page 1-Initial Check </h4></summary><img src=assets/docs/validation_html_1st_check_project_1.jpg></details>
@@ -666,20 +666,20 @@ Here I have recorded some issues that I spent excessive time solving with the so
 
 #### There was a gap between the footer and carousel on home page.
 
-<details><summary><h4>Image</h4></summary><img src=assets/docs/gap_bug_image.jpg></details>
+<details open><summary><h4>Image</h4></summary><img src=assets/docs/gap_bug_image.jpg></details>
 
 #### Solution
 After many hours I ran the whole code through ChatGPT and it turned out there was a missing section opening tag for the porfolio section above. It did not seem related so I did not look at this section to begin with. In the end it was just a simple mistake.
 
-<details><summary><h4>Solution Code</h4></summary><img src=assets/docs/gap_bug_code.jpg></details>
+<details open><summary><h4>Solution Code</h4></summary><img src=assets/docs/gap_bug_code.jpg></details>
 
 #### Dropdown menu did not close on home page when using "All Projects" link on mobile.
 
-<details><summary><h4>Image</h4></summary><img src=assets/docs/dropdown_menu_bug_image.jpg></details>
+<details open><summary><h4>Image</h4></summary><img src=assets/docs/dropdown_menu_bug_image.jpg></details>
 
 #### Solution (partly unfixed)
 I could not find a solution to keep the link for the projects to the home page section for the portfolio projects so I moved the link to one of the project pages that also had a section to showcase all projects.
-<details><summary><h4>Solution Code</h4></summary><img src=assets/docs/dropdown_menu_bug_code.jpg></details>
+<details open><summary><h4>Solution Code</h4></summary><img src=assets/docs/dropdown_menu_bug_code.jpg></details>
 
 [Back to Content Table](#content)
 
@@ -727,11 +727,14 @@ I could not find a solution to keep the link for the projects to the home page s
 
 ## Code
 - The Javascript for closing navbar from Code Institute
-- Code Institute (I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
+- Code Institute - I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
 - I have used ChatGPT for problem solving and ideas throughout the project.
 - I received some tips from my mentor, mostly in terms of Bootstrap classes that is used.
 
 <hr>
+
+# PERSONAL NOTES ABOUT COMMITS
+From the start of the course I didn't really understand why I was doing the commits and the purpose was not entirely clear to me. After a while I started to get the hang of it but it was not until my final mentor session it was explained to me I should write them in imperative, present tense so after this session I have improved on this. Since I made the README in GitHub I also did not realise I needed to make proper commits on the README file as well. I cannot recall this has been mentioned throughout the course either but after my mentor pointed this out I have made proper commits on the Read Me file as well. I kindly ask for the assessors indulgence in this matter and hope you can make the assessment mainly on my commits from the respitory. I hope it is obvious looking at the other material of my assignment I always try my hardest.
 
 # ACKNOWLEDGMENTS
 I want to thank my mentor Rory Patrick who organized to have the final mentor session for the project even though he was on holidays. Also a big shout out to the Slack community at Code Institute and the peers who are always eager to help out.
