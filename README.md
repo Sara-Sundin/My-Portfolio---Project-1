@@ -60,8 +60,6 @@ Welcome to my personal portfolio website! This project serves as a platform to s
 - Code
 <br>
 
-[PERSONAL NOTES ABOUT COMMITS](#personal-notes-about-commits)
-
 [ACKNOWLEDGMENTS](#acknowledgments)
 
 <br>
@@ -713,9 +711,6 @@ I could not find a solution to keep the link for the projects to the home page s
 <br>
 <br>
 <hr>
-<hr>
-<br>
-<br>
 
 # CREDITS
 - [Images](#images)
@@ -734,8 +729,12 @@ I could not find a solution to keep the link for the projects to the home page s
 - I received some tips from my mentor, mostly in terms of Bootstrap classes that is used.
 
 <hr>
+<hr>
+<br>
+<br>
 
 # PERSONAL NOTES ABOUT COMMITS
+
 From the start of the course, I struggled to fully understand the purpose and importance of making commits, and their significance wasn’t entirely clear to me. Over time, I began to grasp the concept, but it wasn’t until my final mentor session that it was explained to me that commit messages should be written in imperative, present tense. After this session, I have made a conscious effort to follow this practice and have improved my commit messages accordingly.
 
 Additionally, because I created the README file directly in GitHub, I didn’t realize that proper commits were needed for changes made to the README as well. I cannot recall this being explicitly mentioned during the course, but after my mentor pointed it out, I ensured that I made appropriate commits to the README file too.
