@@ -560,30 +560,40 @@ I used Dev Tools Lightouse to help improve the website's performance, accessibil
 ### Home Page
 Improvement messages: 
 - Organise the headings for better accessability
-- Optimise the images further for better performance.
+- Make images WEBP.
 <details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test-desktop.jpg></details>
 
 ### Project 1 Page 
-<details><summary><h4>Project Page 1 First run</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_1.jpg></details>
+Improvement messages: 
+- Organise the headings for better accessability
+- Make images WEBP.
+<details><summary><h4>Project Page 1 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_1.jpg></details>
 
 ### Project 2 Page 
-Improvement message:
-- optimise the images further for better performance.
+Improvement messages: 
+- Organise the headings for better accessability
+- Make images WEBP.
 <details><summary><h4>Project Page 2 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_2.jpg></details>
 
 ### Project 3 Page
-Improvement message:
-- optimise the images further for better performance.
+Improvement messages: 
+- Organise the headings for better accessability
+- Make images WEBP.
 <details><summary><h4>Project Page 3 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_3.jpg></details>
 
 ### Project 4 Page 
-<details><summary><h4>Project Page 4 First run</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_4.jpg></details>
+Improvement messages: 
+- Organise the headings for better accessability
+- Make images WEBP.
+<details><summary><h4>Project Page 4 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_4.jpg></details>
 
 ### Contact Page 
+No neccessary improvements.
 <details><summary><h4>Contact Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_contactpage.jpg></details>
 
 ### Success Page
-<details><summary><h4>Contact Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_successpage.jpg></details>
+No neccessary improvements.
+<details><summary><h4>Success Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_successpage.jpg></details>
 
 <hr>
 
