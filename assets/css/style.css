@@ -48,13 +48,7 @@ h1 {
     font-size: 40px;
 }
 
-.font-size-md {
-    font-size: 30px; 
-}
 
-.font-size-sm {
-    font-size: 20px;
-}
 
 #separate-font-heading {
     font-family: var(--secondary-font);
