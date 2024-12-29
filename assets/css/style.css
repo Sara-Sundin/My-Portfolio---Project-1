@@ -48,14 +48,11 @@ h1 {
     font-size: 40px;
 }
 
-
-
 #separate-font-heading {
     font-family: var(--secondary-font);
     font-weight: 300;
     font-size: 35px; 
 }
-
 
 /* Buttons */
 
