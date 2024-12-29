@@ -14,7 +14,7 @@
 
 body {
     margin: 0;
-    padding-top: 40px; /* To adjust for fixed navbar*/
+    padding-top: 75px; /* To adjust for fixed navbar*/
     font-family: var(--secondary-font);
 }
 
@@ -176,7 +176,7 @@ h1 {
 
 .padding-text {
     padding-left: 30px; 
-    padding-top: 50px;        
+    padding-top: 150px;        
 }
 
 /* About Me Section */
@@ -191,6 +191,10 @@ h1 {
 }
 
 /* Portfolio Section */
+
+#all-projects {
+    padding-top: 95px; /* To adjust for fixed navbar when link*/
+}
 
 .project-section {
     display: flex;
