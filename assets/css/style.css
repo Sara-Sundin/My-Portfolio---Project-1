@@ -76,7 +76,7 @@ h1 {
 
 .custom-button-outline:hover {
     background-color: var(--highlight-color-pink);
-    color: var(--highlight-color-pink);
+    color: var(--primary-color);
 }
 
 /*Section Styling*/
