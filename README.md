@@ -564,7 +564,7 @@ Improvement messages:
 <details><summary><h4>Home Page Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test-desktop.jpg></details>
 
 ### Project 1 Page 
-<details><summary><h4>Project Page 1 First run</h4></summary><img src=assets/docs/lighthouse_1st_test_projectpage_1.jpg></details>
+<details><summary><h4>Project Page 1 First run</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_1.jpg></details>
 
 ### Project 2 Page 
 Improvement message:
@@ -577,7 +577,7 @@ Improvement message:
 <details><summary><h4>Project Page 3 Second run - after fixing the issues</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_3.jpg></details>
 
 ### Project 4 Page 
-<details><summary><h4>Project Page 4 First run</h4></summary><img src=assets/docs/lighthouse_1st_test_projectpage_4.jpg></details>
+<details><summary><h4>Project Page 4 First run</h4></summary><img src=assets/docs/lighthouse_2nd_test_projectpage_4.jpg></details>
 
 ### Contact Page 
 <details><summary><h4>Contact Page First run</h4></summary><img src=assets/docs/lighthouse_1st_test_contactpage.jpg></details>
