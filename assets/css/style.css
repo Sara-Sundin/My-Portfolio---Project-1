@@ -162,7 +162,7 @@ h1 {
 #hero {
     min-height: 600px;
     width: 100%;
-    background: url(../images/graphic-front_v.2.jpg) no-repeat center / cover;
+    background: url(../images/graphic-front_v.2.webp) no-repeat center / cover;
     background-position: calc(100% + 140px) center; /* Moves image 50px to the right */
     position: relative;
     display: flex;                /* Flexbox for centering */
