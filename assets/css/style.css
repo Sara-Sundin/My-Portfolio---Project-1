@@ -34,26 +34,32 @@ body {
     color: white;
 }
 
-/* Fonts*/
-
-.heading-abril {
-    font-family: var(--primary-font);
-}
-
 
 /* Headings*/
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: var(--primary-font);
+}
 
 h1 {
     font-size: 40px;
 }
 
-h2 {
-    font-weight: 300;
-    font-size: 35px; 
+.font-size-md {
+    font-size: 30px; 
 }
 
-h3 {
-    font-size: 30px;
+.font-size-sm {
+    font-size: 20px;
+}
+
+#separate-font-heading {
+    font-family: var(--secondary-font);
+    font-weight: 300;
+    font-size: 35px; 
 }
 
 
