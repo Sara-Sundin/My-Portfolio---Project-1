@@ -480,8 +480,6 @@ aria-label="Connect on Whatsapp (opens in a new tab)"
 - Am I Responsive (to test responsive design on various devices)
 - W3C HTML & CSS Validator (to validate and check for coding errors)
 - Techsini.com (for multidevice image and testing responsiveness)
-## ChatGPT
-I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving.
 
 [Back to Content Table](#content)
 
@@ -729,6 +727,9 @@ I could not find a solution to keep the link for the projects to the home page s
 - Code Institute - I have used small snippets of code in the source code for Love Running and Boardwalk Games projects in the gallery section and contact form.
 - I have used ChatGPT for problem solving and ideas throughout the project.
 - I received some tips from my mentor, mostly in terms of Bootstrap classes that is used.
+- 
+## ChatGPT
+I have used ChatGPT throughout the process as a sparring partner for ideas, troubleshooting, and problem-solving. Occassionally I have asked ChatGPT on styling CSS solutions that I have copied into the code.
 
 <hr>
 <hr>
